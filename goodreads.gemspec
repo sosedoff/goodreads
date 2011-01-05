@@ -17,4 +17,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.rubygems_version = "1.3.7"
   s.summary = "Simplified client to the Goodreads.com API"
+  
+  s.add_dependency("rest-client", [">= 1.5.1"])
+  s.add_dependency("activesupport", [">= 2.3.8"])
 end
