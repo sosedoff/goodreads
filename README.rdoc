@@ -6,52 +6,51 @@ Wrapper uses XML feed and transforms it into the object model.
 * Main page: http://github.com/sosedoff/goodreads
 * Goodreads API: http://goodreads.com/api
 
-== Usage: Pull recent reviews
+== Getting Started
 
-  require 'goodreads'
+First, you need to provide your API token
+
+  Goodreads.configure('API_TOKEN')
   
-  client = Goodreads::Client.new(:api_key => "YOUR_API_TOKEN")
+  client = Goodreads::Client.new
+  
+== Usage
+  
+=== Lookup books
+
+Find a book by ISBN:
+
+  book = client.book_by_isbn('ISBN')
+  
+Find a book by Goodreads ID:
+
+  book = client.book('id')
+  
+Find a book by title:
+
+  book = client.book_by_title('Book title')
+
+=== Pull recent reviews
+
   client.recent_reviews.each do |r|
-    puts "Review ID: #{r.id}"
-    puts "Review Book: #{r.book.title}"
-    puts "Message: #{r.body}"
-    puts "By: #{r.user.name}"
+    r.id            # => review id
+    r.book.title    # => review book title
+    r.body          # => review message
+    r.user.name     # => review user name
   end
   
-== Usage: Find book by ISBN
+=== Get review Details
 
-  require 'goodreads'
-  client = Goodreads::Client.new(:api_key => "YOUR_API_TOKEN")
-  begin
-    # :skip_cropped_reviews - Skip reviews which were cropped due to its length
-    # :page - Reviews page
-    # :per_page - Reviews per page
-    book = client.book_by_isbn('0340839937', :skip_cropped_reviews => true)
-    
-    puts "ID: #{book.id}"
-    puts "Title: #{book.title}"
-    puts "ISBN: #{book.isbn}/#{book.isbn13}"
-    puts "Pages: #{book.num_pages}"
-    puts "Reviews: #{book.reviews_count}"
-    
-    # Show book reviews
-    book.reviews.review.each do |r|
-      # r.id <- Review id
-      # r.user.name <- Review user
-      # r.body <- Review message
-      # r.url <- Direct URL to the review
-      # r.date_updated <- Post time
-    end
-    
-  rescue Goodreads::NotFound
-    puts "Ooops! Book was not found!"
-  end
-  
+  review = client.review('id')
+  review.id         # => review ID
+  review.user       # => review user information
+  review.book       # => review book information
+  review.reting     # => review rating
+
 == Limitation
   
 * According to Goodreads API there is a limit of 60 RPM (requests per minute)
 * Provided data cannot be stored for any usage
-* This API includes only a few methods i was needed so feel free to add any additional methods.
 * Please check original documentation for additional object fields and properties
 
 == Authors
