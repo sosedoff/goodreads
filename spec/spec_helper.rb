@@ -1,5 +1,10 @@
 $:.unshift File.expand_path("../..", __FILE__)
 
+require 'simplecov'
+SimpleCov.start do
+  add_group 'Goodreads', 'lib/goodreads'
+end
+
 require 'goodreads'
 require 'webmock'
 require 'webmock/rspec'
