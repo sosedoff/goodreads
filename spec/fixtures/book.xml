@@ -1,0 +1,1176 @@
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<GoodreadsResponse> 
+	<Request> 
+		<authentication>true</authentication> 
+				<key><![CDATA[SECRET_KEY]]></key> 
+		    <method><![CDATA[book_isbn]]></method> 
+	</Request> 
+	<book> 
+  <id>6732019</id> 
+  <title><![CDATA[Rework]]></title> 
+  <isbn><![CDATA[0307463745]]></isbn> 
+  <isbn13><![CDATA[9780307463746]]></isbn13> 
+  <asin><![CDATA[]]></asin> 
+  <image_url>http://photo.goodreads.com/books/1284984371m/6732019.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1284984371s/6732019.jpg</small_image_url> 
+  <publication_year></publication_year> 
+  <publication_month></publication_month> 
+  <publication_day></publication_day> 
+  <publisher></publisher> 
+  <language_code>eng</language_code> 
+  <is_ebook>false</is_ebook> 
+  <description><![CDATA[<p>Most business books give you the same old advice&#58; Write a business plan, study the competition, seek investors, yadda yadda. If you're looking for a book like that, put this one back on the shelf.<p><em>Rework </em>shows you a better, faster, easier way to succeed in business. Read it and you'll know why plans are actually harmful, why you don't need outside investors, and why you're better off ignoring the competition.&#160;The truth is, you need less than you think. You don't need to be a workaholic. You don't need to staff up. You don't need to waste time on paperwork or meetings. You don't even need an office. Those are all just excuses.&#160;<p>What you really need to do is stop talking and start working. This book shows you the way. You'll learn how to be more productive, how to get exposure without breaking the bank, and tons more counterintuitive ideas that will inspire and provoke you.<p>With its straightforward language and easy-is-better approach, <em>Rework </em>is the perfect playbook for anyone who&rsquo;s ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs they hate, victims of &quot;downsizing,&quot; and artists who don&rsquo;t want to starve anymore will all find valuable guidance in these pages.</p></p></p></p>]]></description> 
+  <work> 
+  <best_book_id type="integer">6732019</best_book_id> 
+  <books_count type="integer">16</books_count> 
+  <desc_user_id type="integer">1</desc_user_id> 
+  <id type="integer">6928276</id> 
+  <media_type>book</media_type> 
+  <original_language_id type="integer" nil="true"></original_language_id> 
+  <original_publication_day type="integer" nil="true"></original_publication_day> 
+  <original_publication_month type="integer" nil="true"></original_publication_month> 
+  <original_publication_year type="integer">2010</original_publication_year> 
+  <original_title>Rework</original_title> 
+  <rating_dist>5:838|4:973|3:484|2:92|1:28|total:2415</rating_dist> 
+  <ratings_count type="integer">2416</ratings_count> 
+  <ratings_sum type="integer">9750</ratings_sum> 
+  <reviews_count type="integer">4447</reviews_count> 
+  <text_reviews_count type="integer">665</text_reviews_count> 
+</work> 
+ 
+  <average_rating><![CDATA[4.04]]></average_rating> 
+    <num_pages><![CDATA[279]]></num_pages> 
+    <ratings_count><![CDATA[2281]]></ratings_count> 
+  <text_reviews_count><![CDATA[622]]></text_reviews_count> 
+  
+  <url><![CDATA[http://www.goodreads.com/book/show/6732019-rework]]></url> 
+  <link><![CDATA[http://www.goodreads.com/book/show/6732019-rework]]></link> 
+  <authors> 
+    <author> 
+    <id>60619</id> 
+        <name><![CDATA[Jason Fried]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1284934282p5/60619.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1284934282p2/60619.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/60619.Jason_Fried]]></link> 
+    <average_rating>4.02</average_rating> 
+    <ratings_count>2505</ratings_count> 
+    <text_reviews_count>675</text_reviews_count> 
+  </author> 
+    <author> 
+    <id>23587</id> 
+        <name><![CDATA[David Heinemeier Hansson]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-M-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-M-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/23587.David_Heinemeier_Hansson]]></link> 
+    <average_rating>4.01</average_rating> 
+    <ratings_count>2964</ratings_count> 
+    <text_reviews_count>743</text_reviews_count> 
+  </author> 
+  </authors> 
+    <reviews start="1" end="27" total="4440"> 
+    
+      <review> 
+  <id>95173307</id> 
+    <user> 
+  <id>979798</id> 
+  <name><![CDATA[Heather]]></name> 
+  <location><![CDATA[Glasgow, The United Kingdom]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/979798-heather]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1258926538p3/979798.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1258926538p2/979798.jpg]]></small_image_url> 
+</user> 
+        <rating>5</rating> 
+  <votes>14</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="business" /> 
+        <shelf name="favorites" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Mon Mar 22 00:00:00 -0700 2010</read_at> 
+  <date_added>Mon Mar 22 04:11:55 -0700 2010</date_added> 
+  <date_updated>Thu Apr 01 02:36:23 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Rework puts into words the things we've suspected for a long time. Mainly, that we are at war, and the battle lines are being drawn every day. Traditional, secure, process-heavy businesses which exist for self-preservation are fighting for survival and profits against small, lightweight, flexible in...
+              <a href="http://www.goodreads.com/review/show/95173307">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>4</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/95173307]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/95173307]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>95750739</id> 
+    <user> 
+  <id>3120756</id> 
+  <name><![CDATA[Janet]]></name> 
+  <location><![CDATA[Redmond, WA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/3120756-janet-richards]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1262916169p3/3120756.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1262916169p2/3120756.jpg]]></small_image_url> 
+</user> 
+        <rating>5</rating> 
+  <votes>8</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="biz-book" /> 
+        <shelf name="kindle" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at>Thu Mar 25 00:00:00 -0700 2010</started_at> 
+  <read_at>Fri Mar 26 15:26:52 -0700 2010</read_at> 
+  <date_added>Thu Mar 25 16:21:00 -0700 2010</date_added> 
+  <date_updated>Sun May 02 00:58:33 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[This is another book I can't put down. Nothing in this book is earth-shattering or amazing. It's the little things you have suspected to be true - but someone who makes more money than you tells you is not true. It's what you say to your friends over lunch. It's support for being feisty in work and ...
+              <a href="http://www.goodreads.com/review/show/95750739">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/95750739]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/95750739]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>94422912</id> 
+    <user> 
+  <id>2450538</id> 
+  <name><![CDATA[Louise]]></name> 
+  <location><![CDATA[Los Angeles, CA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/2450538-louise]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1256535824p3/2450538.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1256535824p2/2450538.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>1</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="business" /> 
+        <shelf name="work" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at>Thu Dec 09 00:00:00 -0800 2010</started_at> 
+  <read_at>Wed Dec 15 00:00:00 -0800 2010</read_at> 
+  <date_added>Tue Mar 16 19:16:32 -0700 2010</date_added> 
+  <date_updated>Mon Jan 03 15:37:34 -0800 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Rework is quick and easy to read, which speaks to the philosophy the book is shilling: get things done -- which coincidentally speaks to me.<br/><br/>Nothing in this book can be learned that can't be learned from the Signal vs. Noise blog from 37signals. That doesn't mean this book is unnecessary. O...
+              <a href="http://www.goodreads.com/review/show/94422912">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>5</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/94422912]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/94422912]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>102603238</id> 
+    <user> 
+  <id>2603116</id> 
+  <name><![CDATA[Hans]]></name> 
+  <location><![CDATA[Amsterdam, 07, Netherlands]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/2603116-hans-de-zwart]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1266567889p3/2603116.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1266567889p2/2603116.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>3</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Wed May 12 00:00:00 -0700 2010</read_at> 
+  <date_added>Thu May 13 06:42:31 -0700 2010</date_added> 
+  <date_updated>Sun Jun 06 09:27:08 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[A very quick and easy read. So few words that some might feel cheated. It does make a couple of very good point though: The Internet truly has changed the way we do business. The way large corporations work is anachronistic and the authors describe this in a fresh way.
+<br/>
+<br/>I will write a blog...
+              <a href="http://www.goodreads.com/review/show/102603238">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/102603238]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/102603238]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>162723005</id> 
+    <user> 
+  <id>5302351</id> 
+  <name><![CDATA[Paul]]></name> 
+  <location><![CDATA[San Francisco, CA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5302351-paul-signorelli]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1303452105p3/5302351.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1303452105p2/5302351.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Thu Apr 21 23:29:40 -0700 2011</date_added> 
+  <date_updated>Thu Apr 21 23:29:53 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Rework is a book very much of its moment as those preferring Web 2.0-style collaborations and those who feel territorial about everything they produce attempt to find common ground. The writers suggest that we avoid the complexities and turf wars which so often hold many of us back from achievements...
+              <a href="http://www.goodreads.com/review/show/162723005">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/162723005]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/162723005]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>152494994</id> 
+    <user> 
+  <id>300318</id> 
+  <name><![CDATA[Anne]]></name> 
+  <location><![CDATA[Newton Center, MA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/300318-anne]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Sat Mar 05 00:00:00 -0800 2011</read_at> 
+  <date_added>Sun Mar 06 12:20:43 -0800 2011</date_added> 
+  <date_updated>Sun Mar 06 13:40:20 -0800 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Some things here are scalable, applicable elsewhere, but a lot presupposes a small company. Quick read. <br/><br/>Be a curator. It's the stuff you leave out that matters. Look for things to remove, simplify, and streamline. Stick to what's truly essential. <br/><br/>Years of irrelevance (experience)...
+              <a href="http://www.goodreads.com/review/show/152494994">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/152494994]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/152494994]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>144218639</id> 
+    <user> 
+  <id>721021</id> 
+  <name><![CDATA[RandomAnthony]]></name> 
+  <location><![CDATA[Port Washington, WI]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/721021-randomanthony]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1303657245p3/721021.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1303657245p2/721021.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>3</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri Jan 28 07:57:36 -0800 2011</date_added> 
+  <date_updated>Fri Jan 28 07:58:49 -0800 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[I don't know why, but most organizational studies books are either 1) weird and stuffy, or 2) kind of like Epcot Center, trying a little too hard, maybe, but not horrible.  <em>Rework</em> is a better organizational studies book than most.  The authors tantalize the reader toward jumping on their bandwagon, ...
+              <a href="http://www.goodreads.com/review/show/144218639">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>7</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/144218639]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/144218639]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>139020420</id> 
+    <user> 
+  <id>4756010</id> 
+  <name><![CDATA[Anton]]></name> 
+  <location><![CDATA[Irkutsk, 20, Russian Federation]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/4756010-anton-chernousov]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1294383700p3/4756010.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1294383700p2/4756010.jpg]]></small_image_url> 
+</user> 
+        <rating>5</rating> 
+  <votes>1</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Thu Nov 18 00:00:00 -0800 2010</read_at> 
+  <date_added>Thu Jan 06 23:04:26 -0800 2011</date_added> 
+  <date_updated>Thu Jan 06 23:06:02 -0800 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Отключили у меня свет на неделе, и так как с электричеством была утеряна связь с внешним миром, решил я почитать. Практически за один присест осилил книгу Rework, вторая книга от основателей проекта <a rel="nofollow" target="_blank" href="http://37signals.com/">http://37signals.com/</a> удалась на славу. Она весьма небольшая по объему. <br/><br/>Если первую книгу я...
+              <a href="http://www.goodreads.com/review/show/139020420">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/139020420]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/139020420]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>138568366</id> 
+    <user> 
+  <id>4752236</id> 
+  <name><![CDATA[Sergey]]></name> 
+  <location><![CDATA[Yaroslavl, 76, Russian Federation]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/4752236-sergey]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1294219697p3/4752236.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1294219697p2/4752236.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at>Tue Jan 04 00:00:00 -0800 2011</started_at> 
+  <read_at>Tue Jan 04 00:00:00 -0800 2011</read_at> 
+  <date_added>Wed Jan 05 01:21:11 -0800 2011</date_added> 
+  <date_updated>Wed Jan 05 01:23:13 -0800 2011</date_updated> 
+  <read_count>1</read_count> 
+      <body> 
+      <![CDATA[Сегодня прочитал кингу Rework. При прочтении возникло двойственное чувство. Конечно, во время прочтения, со многими тезисами я согласился, книга несет в себе много полезной информации о том, как нужно вести дела, как лучше себя мотивировать, организовать. Но во время всего прочтения не отпускало ощу...
+              <a href="http://www.goodreads.com/review/show/138568366">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/138568366]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/138568366]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>122245303</id> 
+    <user> 
+  <id>627457</id> 
+  <name><![CDATA[Book]]></name> 
+  <location><![CDATA[Whitestone, NY]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/627457-book-calendar]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1261567939p3/627457.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1261567939p2/627457.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>2</votes> 
+ 
+  
+    <spoiler_flag>true</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="business" /> 
+        <shelf name="computers" /> 
+        <shelf name="management" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Sat Sep 18 00:00:00 -0700 2010</read_at> 
+  <date_added>Sat Sep 18 07:38:01 -0700 2010</date_added> 
+  <date_updated>Sat Sep 18 07:38:54 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Rework by Jason Fried and David Hansson
+<br/>
+<br/>Jason Fried and David Hansson are the founders of 37 Signals which is a software development company.  They have produced a number of different products including Ruby on Rails.   They are contributors to the blog Signal Vs. Noise.  37 Signals was n...
+              <a href="http://www.goodreads.com/review/show/122245303">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/122245303]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/122245303]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>119649174</id> 
+    <user> 
+  <id>1478836</id> 
+  <name><![CDATA[George]]></name> 
+  <location><![CDATA[Indianapolis, IN]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1478836-george-jensen]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1220143921p3/1478836.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1220143921p2/1478836.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>1</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at>Wed Sep 01 00:00:00 -0700 2010</started_at> 
+  <read_at>Wed Sep 01 00:00:00 -0700 2010</read_at> 
+  <date_added>Wed Sep 01 17:41:58 -0700 2010</date_added> 
+  <date_updated>Thu Sep 02 12:22:36 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Over all this book is a bunch of simple proverbs relating exactly the problems I will face my entire career as long as I stay in the field I'm in.  I gave it 3 stars cause I expect to savor deeper phrases.  But I still like his matter-of-fact ways.  Here are a few take aways I have kept:
+<br/>
+<br/>...
+              <a href="http://www.goodreads.com/review/show/119649174">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/119649174]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/119649174]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>116197787</id> 
+    <user> 
+  <id>1586355</id> 
+  <name><![CDATA[Chad]]></name> 
+  <location><![CDATA[Holland, MI]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1586355-chad]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1275316188p3/1586355.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1275316188p2/1586355.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="business" /> 
+        <shelf name="non-fiction" /> 
+        <shelf name="self-improvement" /> 
+      </shelves> 
+  <recommended_for><![CDATA[entrepreneurs, business owners, employees]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Sun Aug 08 00:00:00 -0700 2010</read_at> 
+  <date_added>Tue Aug 10 18:10:53 -0700 2010</date_added> 
+  <date_updated>Tue Aug 10 19:30:18 -0700 2010</date_updated> 
+  <read_count>1</read_count> 
+      <body> 
+      <![CDATA[This book by the founders of <a rel="nofollow" target="_blank" href="http://37signals.com">37Signals</a> is packed with advice about productivity, competition, marketing, and maintaining a work/life balance. It's short and easily digestible; each chapter starts with an eye-catching illustration followed by just 1 or 2 concise pages. It's mostly aimed at startups, ...
+              <a href="http://www.goodreads.com/review/show/116197787">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/116197787]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/116197787]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>115857897</id> 
+    <user> 
+  <id>2466409</id> 
+  <name><![CDATA[Amr]]></name> 
+  <location><![CDATA[Toronto, ON, Canada]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/2466409-amr]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1246909748p3/2466409.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1246909748p2/2466409.jpg]]></small_image_url> 
+</user> 
+        <rating>2</rating> 
+  <votes>3</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="business" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Sun Aug 08 00:00:00 -0700 2010</read_at> 
+  <date_added>Sun Aug 08 18:27:23 -0700 2010</date_added> 
+  <date_updated>Sun Aug 08 19:02:58 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[The feeling I got when I read the praise of the book in the first few pages was &quot;This book is over-praised&quot;. When I finished it, I still have the same feeling.<br/>Maybe it's just me, but I think that if you're gonna challenge the foundations of doing business, you gotta back it up with so...
+              <a href="http://www.goodreads.com/review/show/115857897">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/115857897]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/115857897]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>111988299</id> 
+    <user> 
+  <id>1988681</id> 
+  <name><![CDATA[Hinch]]></name> 
+  <location><![CDATA[Canberra, 01, Australia]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1988681-hinch]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1233653410p3/1988681.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1233653410p2/1988681.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Mon May 24 00:00:00 -0700 2010</read_at> 
+  <date_added>Fri Jul 16 18:25:39 -0700 2010</date_added> 
+  <date_updated>Fri Jul 16 18:26:13 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[If you are familiar with the work philosophy espoused by 37signals through their blog, Signal vs Noise, or their previous book, Getting Real, you may be slightly underwhelmed by Rework. The book isn't an exploration of new ground; rather it represents a distillation of their ethos for the mainstream...
+              <a href="http://www.goodreads.com/review/show/111988299">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/111988299]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/111988299]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>111290652</id> 
+    <user> 
+  <id>1717479</id> 
+  <name><![CDATA[Terry]]></name> 
+  <location><![CDATA[Feasterville Trevose, PA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1717479-terry]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1254704525p3/1717479.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1254704525p2/1717479.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>1</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Thu Jul 08 00:00:00 -0700 2010</read_at> 
+  <date_added>Mon Jul 12 14:19:48 -0700 2010</date_added> 
+  <date_updated>Mon Jul 12 14:26:39 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[I liked reading the book as it confirmed what I already through was the case when it came to operating some sort of group setting.  I disliked reading the book as it confirmed what I already thought was the case when it came to operating some sort of group setting.
+<br/>
+<br/>At the end of the day, ...
+              <a href="http://www.goodreads.com/review/show/111290652">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/111290652]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/111290652]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>109045174</id> 
+    <user> 
+  <id>3831459</id> 
+  <name><![CDATA[Chris]]></name> 
+  <location><![CDATA[Melbourne, 07, Australia]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/3831459-chris-berkhout]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="business" /> 
+        <shelf name="pmba" /> 
+        <shelf name="with-notes" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Sun Jun 27 00:00:00 -0700 2010</read_at> 
+  <date_added>Sun Jun 27 22:20:53 -0700 2010</date_added> 
+  <date_updated>Mon Jun 28 00:56:55 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[<strong>Review</strong>
+<br/>
+<br/>Rework has a lot of great ideas, and is easy to read. It's said that it is bringing these ideas to a new audience, and I think that's great if it is the case.
+<br/>
+<br/>The previous book &quot;Getting Real&quot; was more a bit more web focused, but also more practical. This book t...
+              <a href="http://www.goodreads.com/review/show/109045174">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/109045174]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/109045174]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>99029238</id> 
+    <user> 
+  <id>2399128</id> 
+  <name><![CDATA[Jason]]></name> 
+  <location><![CDATA[Kirksville, MO]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/2399128-jason-miller]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1250954964p3/2399128.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1250954964p2/2399128.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[starters, project menagers]]></recommended_for> 
+  <recommended_by><![CDATA[seth godin]]></recommended_by> 
+  <started_at>Tue Apr 13 00:00:00 -0700 2010</started_at> 
+  <read_at>Sat Apr 17 00:00:00 -0700 2010</read_at> 
+  <date_added>Sun Apr 18 09:54:01 -0700 2010</date_added> 
+  <date_updated>Sun Apr 18 10:10:00 -0700 2010</date_updated> 
+  <read_count>1</read_count> 
+      <body> 
+      <![CDATA[Lately, I've been trying to learn more about how technology is changing the way people can and do work.  This study began with Thomas Friedman's _The_World_Is_Flat_ and exploration into social networking, some thoughts on productivity from Merlin Mann and David Allen, and has pretty much spiraled ou...
+              <a href="http://www.goodreads.com/review/show/99029238">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/99029238]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/99029238]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>98514191</id> 
+    <user> 
+  <id>324118</id> 
+  <name><![CDATA[Fuzzy]]></name> 
+  <location><![CDATA[Chicago, IL]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/324118-fuzzy]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1188477765p3/324118.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1188477765p2/324118.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Sun Apr 04 00:00:00 -0700 2010</read_at> 
+  <date_added>Wed Apr 14 15:41:46 -0700 2010</date_added> 
+  <date_updated>Wed Apr 14 15:42:16 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[<em>Rework</em> is the latest book from <a rel="nofollow" target="_blank" href="http://37signals.com/">37signals</a>, the company behind web apps like Basecamp and Highrise. Much like their earlier book, &lt;cite&gt;<a rel="nofollow" target="_blank" href="http://gettingreal.37signals.com">Getting Real</a>&lt;/cite&gt;, and their popular blog <a rel="nofollow" target="_blank" href="http://37signals.com/svn">Signal vs Noise</a>, the book consists of very short chapters with oft-provocative statements (like, if you're pul...
+              <a href="http://www.goodreads.com/review/show/98514191">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/98514191]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/98514191]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>97981846</id> 
+    <user> 
+  <id>3088478</id> 
+  <name><![CDATA[Ryan]]></name> 
+  <location><![CDATA[Newport, RI]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/3088478-ryan]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1263091657p3/3088478.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1263091657p2/3088478.jpg]]></small_image_url> 
+</user> 
+        <rating>5</rating> 
+  <votes>2</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Sat Apr 10 00:00:00 -0700 2010</read_at> 
+  <date_added>Sun Apr 11 07:30:07 -0700 2010</date_added> 
+  <date_updated>Sun Apr 11 07:30:41 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[In the last few months I’ve learned that spending hours on the internet looking for ways to “be better” is bullshit. Reading countless blogs. Staying on top of every tweet. And never missing a single word uttered. All bullshit.<br/><br/>I’ve been lucky in finding a few great people on the web who ha...
+              <a href="http://www.goodreads.com/review/show/97981846">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/97981846]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/97981846]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>97404844</id> 
+    <user> 
+  <id>115651</id> 
+  <name><![CDATA[Rushabh]]></name> 
+  <location><![CDATA[Seattle, WA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/115651-rushabh]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1180985746p3/115651.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1180985746p2/115651.jpg]]></small_image_url> 
+</user> 
+        <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="business" /> 
+        <shelf name="computers" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Wed Apr 07 01:18:41 -0700 2010</date_added> 
+  <date_updated>Wed Apr 07 01:36:43 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[I have great respect for 37signals: they seem to manage to build fantastic, usable product after product like clockwork. Moreover, I strongly agree with their focus on product design and how they generally run things.
+<br/>
+<br/>Fried and DHH try to distill their philosophy down and put it into a fo...
+              <a href="http://www.goodreads.com/review/show/97404844">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/97404844]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/97404844]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>99175396</id> 
+    <user> 
+  <id>1787060</id> 
+  <name><![CDATA[Ariah]]></name> 
+  <location><![CDATA[Minneapolis, MN]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1787060-ariah]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1237919673p3/1787060.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1237919673p2/1787060.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="2010" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Mon Apr 19 00:00:00 -0700 2010</read_at> 
+  <date_added>Mon Apr 19 10:02:11 -0700 2010</date_added> 
+  <date_updated>Mon Apr 19 10:08:25 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[This book is a super easy read, finished it in less then a day. It's mostly 1 or 2 page sections with a full page cartoon image per chapter. The book is written by two guys who run a very successful web company. The book is about running a business, productivity, and really just a collection of tips...
+              <a href="http://www.goodreads.com/review/show/99175396">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/99175396]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/99175396]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>118374199</id> 
+    <user> 
+  <id>1660826</id> 
+  <name><![CDATA[Curtis]]></name> 
+  <location><![CDATA[Raleigh, NC]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1660826-curtis-mitchell]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-50x66.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Tue Aug 24 00:00:00 -0700 2010</read_at> 
+  <date_added>Tue Aug 24 08:07:09 -0700 2010</date_added> 
+  <date_updated>Tue Aug 24 08:25:36 -0700 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Rework is a good book, but not great.  Jason Fried and David Heinemeier Hansson offer great practical advice to doing business as a small company in this day and age.<br/><br/>The good news and bad news about this title is that it is concise.  It has about 270 pages, but realistically, the content i...
+              <a href="http://www.goodreads.com/review/show/118374199">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/118374199]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/118374199]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>136153104</id> 
+    <user> 
+  <id>347152</id> 
+  <name><![CDATA[Graham]]></name> 
+  <location><![CDATA[Chicago, IL]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/347152-graham]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-50x66.jpg]]></small_image_url> 
+</user> 
+        <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="non-computer-books" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Wed Dec 22 00:00:00 -0800 2010</read_at> 
+  <date_added>Wed Dec 22 13:52:36 -0800 2010</date_added> 
+  <date_updated>Tue Dec 28 07:43:51 -0800 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[An excellent short read of some contrarian recommendations on how to run a business, particularly small businesses/start-ups.  The guys at 37signals are clearly trenchant minimalists, with the book focusing on doing less (hours, features, smaller to-do lists).  Here are a few of my favorite passages...
+              <a href="http://www.goodreads.com/review/show/136153104">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/136153104]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/136153104]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>133802479</id> 
+    <user> 
+  <id>4570221</id> 
+  <name><![CDATA[Luca]]></name> 
+  <location><![CDATA[Senigallia, 10, Italy]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/4570221-luca-conti]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1290459494p3/4570221.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1290459494p2/4570221.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>1</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Tue Dec 07 00:00:00 -0800 2010</read_at> 
+  <date_added>Mon Dec 06 03:43:19 -0800 2010</date_added> 
+  <date_updated>Sun Dec 12 07:35:30 -0800 2010</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Gli autori di Rework sono noti in rete, grazie al successo della loro creatura, 37Signal. Il libro vuole essere un concentrato di consigli per chi vuole fare impresa oggi, su Internet e magari nello sviluppo di software, ma non solo.<br/><br/>Chi frequenta il social web da tempo ci troverà soltanto ...
+              <a href="http://www.goodreads.com/review/show/133802479">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/133802479]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/133802479]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>107555992</id> 
+    <user> 
+  <id>886264</id> 
+  <name><![CDATA[Robin]]></name> 
+  <location><![CDATA[Corvallis, OR]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/886264-robin]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1244843427p3/886264.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1244843427p2/886264.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[People who don't like doing things how've they've been done for decades.]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at>Fri Jun 18 00:00:00 -0700 2010</started_at> 
+  <read_at>Fri Jun 18 00:00:00 -0700 2010</read_at> 
+  <date_added>Thu Jun 17 12:41:31 -0700 2010</date_added> 
+  <date_updated>Sat Jun 19 10:55:11 -0700 2010</date_updated> 
+  <read_count>1</read_count> 
+      <body> 
+      <![CDATA[This was a quick, easy read - really, it took me about two hours.
+<br/>A lot of the advice contained within sounds great, and for most could probably be easily and practically put into practice.
+<br/>
+<br/>However, a few complaints from the standpoint of a writer.
+<br/>1. The majority of the book is...
+              <a href="http://www.goodreads.com/review/show/107555992">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/107555992]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/107555992]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>147435808</id> 
+    <user> 
+  <id>4962149</id> 
+  <name><![CDATA[Lucius Kwok]]></name> 
+  <location><![CDATA[The United States]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/4962149-lucius-kwok]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1297398506p3/4962149.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1297398506p2/4962149.jpg]]></small_image_url> 
+</user> 
+        <rating>3</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Mon May 10 00:00:00 -0700 2010</read_at> 
+  <date_added>Thu Feb 10 20:45:32 -0800 2011</date_added> 
+  <date_updated>Thu Feb 17 22:24:57 -0800 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Lots of great advice on starting and running your own company, and about your relation to work, clients, and companies. This book is the antidote to the loud, VC-funded, in-your-face marketed start-up that seems to be in vogue these days. It questions many of things that the VC startup echo box keep...
+              <a href="http://www.goodreads.com/review/show/147435808">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/147435808]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/147435808]]></link> 
+</review> 
+ 
+    
+      <review> 
+  <id>152539830</id> 
+    <user> 
+  <id>4183205</id> 
+  <name><![CDATA[Josephine]]></name> 
+  <location><![CDATA[Toronto, ON, Canada]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/4183205-josephine]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1296002832p3/4183205.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1296002832p2/4183205.jpg]]></small_image_url> 
+</user> 
+        <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Sun Mar 06 00:00:00 -0800 2011</read_at> 
+  <date_added>Sun Mar 06 15:45:55 -0800 2011</date_added> 
+  <date_updated>Tue Mar 15 08:12:37 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[A lot of people talk the talk but don’t walk the walk — and hell, I’m guilty of doing that from time to time as well, but I at least try to focus more on actions than words and that’s how I try to lead my life.<br/><br/>Anyone who believes “What you do is what matters, not what you think or say or p...
+              <a href="http://www.goodreads.com/review/show/152539830">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/152539830]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/152539830]]></link> 
+</review> 
+ 
+      </reviews> 
+  <popular_shelves> 
+          <shelf name="to-read" count="1355"/> 
+          <shelf name="currently-reading" count="365"/> 
+          <shelf name="business" count="180"/> 
+          <shelf name="non-fiction" count="78"/> 
+          <shelf name="2010" count="26"/> 
+          <shelf name="entrepreneurship" count="16"/> 
+          <shelf name="nonfiction" count="16"/> 
+          <shelf name="kindle" count="16"/> 
+          <shelf name="favorites" count="12"/> 
+      </popular_shelves> 
+  <book_links> 
+    <book_link> 
+  <id>1</id> 
+  <name><![CDATA[Amazon]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/1?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>3</id> 
+  <name><![CDATA[Barnes & Noble]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/3?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>8</id> 
+  <name><![CDATA[WorldCat]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/8?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>2</id> 
+  <name><![CDATA[Half.com]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/2?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>1602</id> 
+  <name><![CDATA[Google eBooks]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/1602?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>4</id> 
+  <name><![CDATA[Abebooks]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/4?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>5</id> 
+  <name><![CDATA[Alibris]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/5?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>6</id> 
+  <name><![CDATA[Powells]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/6?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>7</id> 
+  <name><![CDATA[IndieBound]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/7?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>9</id> 
+  <name><![CDATA[Indigo.ca]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/9?book_id=6732019</link> 
+</book_link><book_link> 
+  <id>10</id> 
+  <name><![CDATA[Audible]]></name> 
+  <link>http://www.goodreads.com/book_link/follow/10?book_id=6732019</link> 
+</book_link> 
+  </book_links> 
+  <series_works> 
+    
+  </series_works> 
+  
+    
+  
+</book> 
+ 
+</GoodreadsResponse>

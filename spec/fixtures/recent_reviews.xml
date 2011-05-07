@@ -1,0 +1,1359 @@
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<GoodreadsResponse> 
+	<Request> 
+		<authentication>true</authentication> 
+				<key><![CDATA[SECRET_KEY]]></key> 
+		    <method><![CDATA[review_recent_reviews]]></method> 
+	</Request> 
+	<reviews> 
+  <review> 
+  <id>166204831</id> 
+    <user> 
+  <id>2762201</id> 
+  <name><![CDATA[Iqra]]></name> 
+  <location><![CDATA[Hamtramck, MI]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/2762201-iqra-nasir]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">7657044</id> 
+  <isbn>1419553275</isbn> 
+  <isbn13>9781419553271</isbn13> 
+  <publication_day type="integer">5</publication_day> 
+  <publication_month type="integer">1</publication_month> 
+  <publication_year type="integer">2010</publication_year> 
+  <publisher>Kaplan Publishing</publisher> 
+  <text_reviews_count type="integer">0</text_reviews_count> 
+  <title> 
+    <![CDATA[Kaplan ACT 2010 Premier with CD-ROM]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1267801068m/7657044.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1267801068s/7657044.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/7657044-kaplan-act-2010-premier-with-cd-rom</link> 
+  <num_pages>756</num_pages> 
+  <average_rating>5</average_rating> 
+  <ratings_count>1</ratings_count> 
+<authors> 
+    <author> 
+    <id>11606</id> 
+        <name><![CDATA[Kaplan]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/11606.Kaplan]]></link> 
+    <average_rating>3.40</average_rating> 
+    <ratings_count>473</ratings_count> 
+    <text_reviews_count>163</text_reviews_count> 
+  </author> 
+  </authors>  <published>2010</published> 
+</book> 
+ 
+ 
+      <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:15:12 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:15:49 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[SO HELPFUL!<br/><br/>But I never want to see another bubble in my life &gt;.&lt;
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204831]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204831]]></link> 
+</review> 
+<review> 
+  <id>166204694</id> 
+    <user> 
+  <id>5389217</id> 
+  <name><![CDATA[Linea]]></name> 
+  <location><![CDATA[The United States]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5389217-linea-skage]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">998893</id> 
+  <isbn>0425217728</isbn> 
+  <isbn13>9780425217726</isbn13> 
+  <publication_day type="integer">6</publication_day> 
+  <publication_month type="integer">11</publication_month> 
+  <publication_year type="integer">2007</publication_year> 
+  <publisher>Berkley Trade</publisher> 
+  <text_reviews_count type="integer">12</text_reviews_count> 
+  <title> 
+    <![CDATA[Lord Deverill's Secret]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1266692219m/998893.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1266692219s/998893.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/998893.Lord_Deverill_s_Secret</link> 
+  <num_pages>304</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>50</ratings_count> 
+<authors> 
+    <author> 
+    <id>57198</id> 
+        <name><![CDATA[Amanda Grange]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-F-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-F-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/57198.Amanda_Grange]]></link> 
+    <average_rating>3.37</average_rating> 
+    <ratings_count>5927</ratings_count> 
+    <text_reviews_count>1566</text_reviews_count> 
+  </author> 
+  </authors>  <published>2007</published> 
+</book> 
+ 
+ 
+      <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="re-readables" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:14:24 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:15:55 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[A nice &quot;no-brained&quot; romance novel. Meaning I can read it and be entertained yet not need much brainpower to do so. Not much thinking involved.
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204694]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204694]]></link> 
+</review> 
+<review> 
+  <id>166204653</id> 
+    <user> 
+  <id>5391226</id> 
+  <name><![CDATA[Bhavesh]]></name> 
+  <location><![CDATA[Philadelphia, PA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5391226-bhavesh-makwana]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">11204368</id> 
+  <isbn nil="true"></isbn> 
+  <isbn13 nil="true"></isbn13> 
+  <publication_day type="integer">23</publication_day> 
+  <publication_month type="integer">12</publication_month> 
+  <publication_year type="integer">2009</publication_year> 
+  <publisher>Transworld Digital</publisher> 
+  <text_reviews_count type="integer">2</text_reviews_count> 
+  <title> 
+    <![CDATA[Angels And Demons]]>
+  </title> 
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url> 
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/11204368-angels-and-demons</link> 
+  <num_pages>624</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>103</ratings_count> 
+<authors> 
+    <author> 
+    <id>630</id> 
+        <name><![CDATA[Dan Brown]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1206553442p5/630.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1206553442p2/630.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/630.Dan_Brown]]></link> 
+    <average_rating>3.56</average_rating> 
+    <ratings_count>917934</ratings_count> 
+    <text_reviews_count>54800</text_reviews_count> 
+  </author> 
+  </authors>  <published>2009</published> 
+</book> 
+ 
+ 
+      <rating>3</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:14:12 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:15:03 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Nice depiction inside vetican.
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204653]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204653]]></link> 
+</review> 
+<review> 
+  <id>166204479</id> 
+    <user> 
+  <id>3315323</id> 
+  <name><![CDATA[You617bacchus]]></name> 
+  <location><![CDATA[Hadano, 19, Japan]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/3315323-you617bacchus]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">9396221</id> 
+  <isbn>4101336717</isbn> 
+  <isbn13>9784101336718</isbn13> 
+  <publication_day type="integer">28</publication_day> 
+  <publication_month type="integer">7</publication_month> 
+  <publication_year type="integer">2010</publication_year> 
+  <publisher>&#26032;&#28526;&#31038;</publisher> 
+  <text_reviews_count type="integer">1</text_reviews_count> 
+  <title> 
+    <![CDATA[タイム・ラッシュ―天命探偵 真田省吾]]>
+  </title> 
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url> 
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/9396221</link> 
+  <num_pages>370</num_pages> 
+  <average_rating>4</average_rating> 
+  <ratings_count>2</ratings_count> 
+<authors> 
+    <author> 
+    <id>867332</id> 
+        <name><![CDATA[神永 学]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/867332._]]></link> 
+    <average_rating>4.61</average_rating> 
+    <ratings_count>23</ratings_count> 
+    <text_reviews_count>9</text_reviews_count> 
+  </author> 
+  </authors>  <published>2010</published> 
+</book> 
+ 
+ 
+      <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Fri Apr 15 00:00:00 -0700 2011</read_at> 
+  <date_added>Fri May 06 16:13:16 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:14:25 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[さすが神永学。八雲シリーズ程ではないが、やっぱり5つ星の面白さ。
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204479]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204479]]></link> 
+</review> 
+<review> 
+  <id>166204401</id> 
+    <user> 
+  <id>5110220</id> 
+  <name><![CDATA[Emily]]></name> 
+  <location><![CDATA[The United States]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5110220-emily-m]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">3231724</id> 
+  <isbn>0415454980</isbn> 
+  <isbn13>9780415454988</isbn13> 
+  <publication_day type="integer">20</publication_day> 
+  <publication_month type="integer">3</publication_month> 
+  <publication_year type="integer">2008</publication_year> 
+  <publisher>Routledge</publisher> 
+  <text_reviews_count type="integer">1</text_reviews_count> 
+  <title> 
+    <![CDATA[Theory for Classics: A Student's Guide]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1255657140m/3231724.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1255657140s/3231724.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/3231724-theory-for-classics</link> 
+  <num_pages>213</num_pages> 
+  <average_rating>0</average_rating> 
+  <ratings_count>0</ratings_count> 
+<authors> 
+    <author> 
+    <id>1372153</id> 
+        <name><![CDATA[Louis Hitchcock]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/1372153.Louis_Hitchcock]]></link> 
+    <average_rating>0.0</average_rating> 
+    <ratings_count>0</ratings_count> 
+    <text_reviews_count>1</text_reviews_count> 
+  </author> 
+  </authors>  <published>2008</published> 
+</book> 
+ 
+ 
+      <rating>0</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+            <shelf name="currently-reading" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at>Fri May 06 00:00:00 -0700 2011</started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:12:55 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:13:43 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[So far, fantastic book that addresses art-historical theory and philosophy since the Enlightenment in a way that is applicable and useful for Classicists. A must-read for any Classical Archaeologist. 
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204401]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204401]]></link> 
+</review> 
+<review> 
+  <id>166204384</id> 
+    <user> 
+  <id>5382141</id> 
+  <name><![CDATA[Cliff]]></name> 
+  <location><![CDATA[Merseyside, The United Kingdom]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5382141-cliff]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">4699575</id> 
+  <isbn>0525951113</isbn> 
+  <isbn13>9780525951117</isbn13> 
+  <publication_day type="integer">8</publication_day> 
+  <publication_month type="integer">1</publication_month> 
+  <publication_year type="integer">2009</publication_year> 
+  <publisher>Dutton Adult</publisher> 
+  <text_reviews_count type="integer">566</text_reviews_count> 
+  <title> 
+    <![CDATA[Daemon (Daemon, #1)]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1255801429m/4699575.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1255801429s/4699575.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/4699575-daemon</link> 
+  <num_pages>432</num_pages> 
+  <average_rating>4</average_rating> 
+  <ratings_count>2389</ratings_count> 
+<authors> 
+    <author> 
+    <id>1956402</id> 
+        <name><![CDATA[Daniel Suarez]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1265394868p5/1956402.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1265394868p2/1956402.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/1956402.Daniel_Suarez]]></link> 
+    <average_rating>4.12</average_rating> 
+    <ratings_count>4068</ratings_count> 
+    <text_reviews_count>917</text_reviews_count> 
+  </author> 
+  </authors>  <published>2009</published> 
+</book> 
+ 
+ 
+      <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:12:52 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:15:43 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[I never read any reviews of the this book when it came out; it seemed to completely pass me and many of the newspapers by. I expect many critics dismissed the book. It is steeped in computer jargon and (I don’t want to offend the author) but I expect many people wouldn’t class this as ‘quality liter...
+              <a href="http://www.goodreads.com/review/show/166204384">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204384]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204384]]></link> 
+</review> 
+<review> 
+  <id>166204331</id> 
+    <user> 
+  <id>2762201</id> 
+  <name><![CDATA[Iqra]]></name> 
+  <location><![CDATA[Hamtramck, MI]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/2762201-iqra-nasir]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">3228917</id> 
+  <isbn>0316017922</isbn> 
+  <isbn13>9780316017923</isbn13> 
+  <publication_day type="integer">18</publication_day> 
+  <publication_month type="integer">11</publication_month> 
+  <publication_year type="integer">2008</publication_year> 
+  <publisher>Little, Brown and Company</publisher> 
+  <text_reviews_count type="integer">6596</text_reviews_count> 
+  <title> 
+    <![CDATA[Outliers]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1255608670m/3228917.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1255608670s/3228917.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/3228917-outliers</link> 
+  <num_pages>309</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>31190</ratings_count> 
+<authors> 
+    <author> 
+    <id>1439</id> 
+        <name><![CDATA[Malcolm Gladwell]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1224601838p5/1439.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1224601838p2/1439.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link> 
+    <average_rating>3.70</average_rating> 
+    <ratings_count>180810</ratings_count> 
+    <text_reviews_count>18891</text_reviews_count> 
+  </author> 
+  </authors>  <published>2008</published> 
+</book> 
+ 
+ 
+      <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:12:38 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:14:26 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[&quot;When I thought I couldn't go on, I forced myself to keep going.<br/>My success is based on persistence, not luck.&quot; Estee Lauder
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204331]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204331]]></link> 
+</review> 
+<review> 
+  <id>166204287</id> 
+    <user> 
+  <id>5391226</id> 
+  <name><![CDATA[Bhavesh]]></name> 
+  <location><![CDATA[Philadelphia, PA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5391226-bhavesh-makwana]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">11125</id> 
+  <isbn>0552151696</isbn> 
+  <isbn13>9780552151696</isbn13> 
+  <publication_day type="integer">5</publication_day> 
+  <publication_month type="integer">7</publication_month> 
+  <publication_year type="integer">2004</publication_year> 
+  <publisher>Corgi Adult</publisher> 
+  <text_reviews_count type="integer">2165</text_reviews_count> 
+  <title> 
+    <![CDATA[Digital Fortress]]>
+  </title> 
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url> 
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/11125.Digital_Fortress</link> 
+  <num_pages>510</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>37697</ratings_count> 
+<authors> 
+    <author> 
+    <id>630</id> 
+        <name><![CDATA[Dan Brown]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1206553442p5/630.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1206553442p2/630.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/630.Dan_Brown]]></link> 
+    <average_rating>3.56</average_rating> 
+    <ratings_count>917934</ratings_count> 
+    <text_reviews_count>54800</text_reviews_count> 
+  </author> 
+  </authors>  <published>2004</published> 
+</book> 
+ 
+ 
+      <rating>2</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:12:25 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:13:20 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Very good starting but didnt hold until end.End was below my expectations.
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204287]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204287]]></link> 
+</review> 
+<review> 
+  <id>166204165</id> 
+    <user> 
+  <id>5391226</id> 
+  <name><![CDATA[Bhavesh]]></name> 
+  <location><![CDATA[Philadelphia, PA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5391226-bhavesh-makwana]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">968</id> 
+  <isbn>0307277674</isbn> 
+  <isbn13>9780307277671</isbn13> 
+  <publication_day type="integer">28</publication_day> 
+  <publication_month type="integer">3</publication_month> 
+  <publication_year type="integer">2006</publication_year> 
+  <publisher>Anchor</publisher> 
+  <text_reviews_count type="integer">18955</text_reviews_count> 
+  <title> 
+    <![CDATA[The Da Vinci Code (Robert Langdon, #2)]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1303252999m/968.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1303252999s/968.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link> 
+  <num_pages>597</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>529086</ratings_count> 
+<authors> 
+    <author> 
+    <id>630</id> 
+        <name><![CDATA[Dan Brown]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1206553442p5/630.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1206553442p2/630.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/630.Dan_Brown]]></link> 
+    <average_rating>3.56</average_rating> 
+    <ratings_count>917934</ratings_count> 
+    <text_reviews_count>54800</text_reviews_count> 
+  </author> 
+  </authors>  <published>2006</published> 
+</book> 
+ 
+ 
+      <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:11:44 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:15:43 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[marvelous..
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166204165]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166204165]]></link> 
+</review> 
+<review> 
+  <id>166203995</id> 
+    <user> 
+  <id>60183</id> 
+  <name><![CDATA[jonny]]></name> 
+  <location><![CDATA[Philadelphia, PA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/60183-jonny-real]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">43945</id> 
+  <isbn>0099399016</isbn> 
+  <isbn13>9780099399018</isbn13> 
+  <publication_day type="integer">6</publication_day> 
+  <publication_month type="integer">10</publication_month> 
+  <publication_year type="integer">2005</publication_year> 
+  <publisher>Vintage</publisher> 
+  <text_reviews_count type="integer">557</text_reviews_count> 
+  <title> 
+    <![CDATA[Portnoy's Complaint]]>
+  </title> 
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url> 
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/43945.Portnoy_s_Complaint</link> 
+  <num_pages>274</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>7584</ratings_count> 
+<authors> 
+    <author> 
+    <id>463</id> 
+        <name><![CDATA[Philip Roth]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1287938301p5/463.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1287938301p2/463.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/463.Philip_Roth]]></link> 
+    <average_rating>3.66</average_rating> 
+    <ratings_count>61675</ratings_count> 
+    <text_reviews_count>6911</text_reviews_count> 
+  </author> 
+  </authors>  <published>2005</published> 
+</book> 
+ 
+ 
+      <rating>0</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+            <shelf name="currently-reading" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at>Fri May 06 00:00:00 -0700 2011</started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:10:43 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:11:18 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[just started it, but i am enjoying it so far.
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203995]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203995]]></link> 
+</review> 
+<review> 
+  <id>166203893</id> 
+    <user> 
+  <id>3739799</id> 
+  <name><![CDATA[Christy]]></name> 
+  <location><![CDATA[Farmington, NY]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/3739799-christy]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">4499669</id> 
+  <isbn>0805448659</isbn> 
+  <isbn13>9780805448658</isbn13> 
+  <publication_day type="integer">1</publication_day> 
+  <publication_month type="integer">1</publication_month> 
+  <publication_year type="integer">2009</publication_year> 
+  <publisher>B&amp;H Books</publisher> 
+  <text_reviews_count type="integer">159</text_reviews_count> 
+  <title> 
+    <![CDATA[The Love Dare]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1266767542m/4499669.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1266767542s/4499669.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/4499669-the-love-dare</link> 
+  <num_pages>224</num_pages> 
+  <average_rating>4</average_rating> 
+  <ratings_count>550</ratings_count> 
+<authors> 
+    <author> 
+    <id>69521</id> 
+        <name><![CDATA[Stephen Kendrick]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/69521.Stephen_Kendrick]]></link> 
+    <average_rating>4.11</average_rating> 
+    <ratings_count>876</ratings_count> 
+    <text_reviews_count>246</text_reviews_count> 
+  </author> 
+  </authors>  <published>2009</published> 
+</book> 
+ 
+ 
+      <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:10:05 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:11:19 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Saving my marriage.  Changed my perspective about how I love.  I love as a choice not based on emotion.  
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203893]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203893]]></link> 
+</review> 
+<review> 
+  <id>166203875</id> 
+    <user> 
+  <id>5391226</id> 
+  <name><![CDATA[Bhavesh]]></name> 
+  <location><![CDATA[Philadelphia, PA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5391226-bhavesh-makwana]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">2267772</id> 
+  <isbn>0451118103</isbn> 
+  <isbn13>9780451118103</isbn13> 
+  <publication_day type="integer">1</publication_day> 
+  <publication_month type="integer">4</publication_month> 
+  <publication_year type="integer">1952</publication_year> 
+  <publisher>Signet (MM)</publisher> 
+  <text_reviews_count type="integer">69</text_reviews_count> 
+  <title> 
+    <![CDATA[The Fountainhead]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1267751906m/2267772.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1267751906s/2267772.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/2267772.The_Fountainhead</link> 
+  <num_pages>704</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>265</ratings_count> 
+<authors> 
+    <author> 
+    <id>432</id> 
+        <name><![CDATA[Ayn Rand]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1168729178p5/432.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1168729178p2/432.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/432.Ayn_Rand]]></link> 
+    <average_rating>3.77</average_rating> 
+    <ratings_count>147806</ratings_count> 
+    <text_reviews_count>13954</text_reviews_count> 
+  </author> 
+  </authors>  <published>1952</published> 
+</book> 
+ 
+ 
+      <rating>0</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:09:58 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:11:14 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Feel like same what i been doing ever since i graduated...
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203875]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203875]]></link> 
+</review> 
+<review> 
+  <id>166203823</id> 
+    <user> 
+  <id>1153637</id> 
+  <name><![CDATA[Ellie]]></name> 
+  <location><![CDATA[Salisbury, MA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1153637-ellie]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">10338659</id> 
+  <isbn>0012144193</isbn> 
+  <isbn13>2940012144195</isbn13> 
+  <publication_day type="integer">22</publication_day> 
+  <publication_month type="integer">1</publication_month> 
+  <publication_year type="integer">2011</publication_year> 
+  <publisher>WikiFocus Books International</publisher> 
+  <text_reviews_count type="integer">17</text_reviews_count> 
+  <title> 
+    <![CDATA[The Girl Who Kicked the Hornets Nest: A WikiFocus Book]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1302316411m/10338659.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1302316411s/10338659.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/10338659-the-girl-who-kicked-the-hornets-nest</link> 
+  <num_pages>0</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>143</ratings_count> 
+<authors> 
+    <author> 
+    <id>4577036</id> 
+        <name><![CDATA[George Andersen]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/4577036.George_Andersen]]></link> 
+    <average_rating>3.71</average_rating> 
+    <ratings_count>182</ratings_count> 
+    <text_reviews_count>25</text_reviews_count> 
+  </author> 
+  </authors>  <published>2011</published> 
+</book> 
+ 
+ 
+      <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:09:42 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:10:34 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Loved it, loved all three, even though I didn't think I would.
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203823]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203823]]></link> 
+</review> 
+<review> 
+  <id>166203724</id> 
+    <user> 
+  <id>5382141</id> 
+  <name><![CDATA[Cliff]]></name> 
+  <location><![CDATA[Merseyside, The United Kingdom]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5382141-cliff]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">7132363</id> 
+  <isbn>0525951571</isbn> 
+  <isbn13>9780525951575</isbn13> 
+  <publication_day type="integer">7</publication_day> 
+  <publication_month type="integer">1</publication_month> 
+  <publication_year type="integer">2010</publication_year> 
+  <publisher>Dutton Adult</publisher> 
+  <text_reviews_count type="integer">256</text_reviews_count> 
+  <title> 
+    <![CDATA[Freedom (TM) (Daemon, #2)]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1276198151m/7132363.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1276198151s/7132363.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/7132363-freedom-tm</link> 
+  <num_pages>400</num_pages> 
+  <average_rating>4</average_rating> 
+  <ratings_count>1354</ratings_count> 
+<authors> 
+    <author> 
+    <id>1956402</id> 
+        <name><![CDATA[Daniel Suarez]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1265394868p5/1956402.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1265394868p2/1956402.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/1956402.Daniel_Suarez]]></link> 
+    <average_rating>4.12</average_rating> 
+    <ratings_count>4068</ratings_count> 
+    <text_reviews_count>917</text_reviews_count> 
+  </author> 
+  </authors>  <published>2010</published> 
+</book> 
+ 
+ 
+      <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:09:01 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:12:02 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[coming
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203724]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203724]]></link> 
+</review> 
+<review> 
+  <id>166203715</id> 
+    <user> 
+  <id>5110220</id> 
+  <name><![CDATA[Emily]]></name> 
+  <location><![CDATA[The United States]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5110220-emily-m]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">226521</id> 
+  <isbn>0140192921</isbn> 
+  <isbn13>9780140192926</isbn13> 
+  <publication_day type="integer">1</publication_day> 
+  <publication_month type="integer">6</publication_month> 
+  <publication_year type="integer">1993</publication_year> 
+  <publisher>Penguin (Non-Classics)</publisher> 
+  <text_reviews_count type="integer">8</text_reviews_count> 
+  <title> 
+    <![CDATA[The Myth of the Goddess: Evolution of an Image]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1172871147m/226521.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1172871147s/226521.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/226521.The_Myth_of_the_Goddess</link> 
+  <num_pages>800</num_pages> 
+  <average_rating>4</average_rating> 
+  <ratings_count>43</ratings_count> 
+<authors> 
+    <author> 
+    <id>132598</id> 
+        <name><![CDATA[Jules Cashford]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/132598.Jules_Cashford]]></link> 
+    <average_rating>3.92</average_rating> 
+    <ratings_count>146</ratings_count> 
+    <text_reviews_count>17</text_reviews_count> 
+  </author> 
+  </authors>  <published>1993</published> 
+</book> 
+ 
+ 
+      <rating>1</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Fri Apr 01 00:00:00 -0700 2011</read_at> 
+  <date_added>Fri May 06 16:08:54 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:12:31 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[One of the most absurd analyses of iconographic tradition I have ever encountered, written by people who have no experience addressing material remains in any capacity and do it poorly. Tries far too hard to fit art and other historical objects into a historical/religious tradition which they have c...
+              <a href="http://www.goodreads.com/review/show/166203715">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203715]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203715]]></link> 
+</review> 
+<review> 
+  <id>166203675</id> 
+    <user> 
+  <id>5336540</id> 
+  <name><![CDATA[Christie]]></name> 
+  <location><![CDATA[The United States]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5336540-christie]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">348564</id> 
+  <isbn>0060097914</isbn> 
+  <isbn13>9780060097912</isbn13> 
+  <publication_day type="integer">1</publication_day> 
+  <publication_month type="integer">3</publication_month> 
+  <publication_year type="integer">2003</publication_year> 
+  <publisher>HarperTrophy</publisher> 
+  <text_reviews_count type="integer">144</text_reviews_count> 
+  <title> 
+    <![CDATA[Flat Stanley (Flat Stanley, #1)]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1173961142m/348564.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1173961142s/348564.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/348564.Flat_Stanley</link> 
+  <num_pages>80</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>926</ratings_count> 
+<authors> 
+    <author> 
+    <id>43329</id> 
+        <name><![CDATA[Jeff Brown]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1283979126p5/43329.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1283979126p2/43329.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/43329.Jeff_Brown]]></link> 
+    <average_rating>3.78</average_rating> 
+    <ratings_count>2351</ratings_count> 
+    <text_reviews_count>322</text_reviews_count> 
+  </author> 
+  </authors>  <published>2003</published> 
+</book> 
+ 
+ 
+      <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:08:36 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:12:22 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[I was unaware of the Flat Stanley phenomenon and how old the book was. I checked it out from the library and I love it. It's silly and a classic children's book I can't wait to add to my bookshelf. And we'll definitely be making Flat Stanley a member of our family. 
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203675]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203675]]></link> 
+</review> 
+<review> 
+  <id>166203572</id> 
+    <user> 
+  <id>4222001</id> 
+  <name><![CDATA[Kathy]]></name> 
+  <location><![CDATA[The United States]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/4222001-kathy-davie]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1285089902p3/4222001.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1285089902p2/4222001.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">6307420</id> 
+  <isbn nil="true"></isbn> 
+  <isbn13 nil="true"></isbn13> 
+  <publication_day type="integer">29</publication_day> 
+  <publication_month type="integer">3</publication_month> 
+  <publication_year type="integer">2007</publication_year> 
+  <publisher>Berkley</publisher> 
+  <text_reviews_count type="integer">3</text_reviews_count> 
+  <title> 
+    <![CDATA[Midnight in Death (In Death, #7.5)]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1296253297m/6307420.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1296253297s/6307420.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/6307420-midnight-in-death</link> 
+  <num_pages>96</num_pages> 
+  <average_rating>4</average_rating> 
+  <ratings_count>28</ratings_count> 
+<authors> 
+    <author> 
+    <id>17065</id> 
+        <name><![CDATA[J.D. Robb]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1202524651p5/17065.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1202524651p2/17065.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/17065.J_D_Robb]]></link> 
+    <average_rating>4.16</average_rating> 
+    <ratings_count>147406</ratings_count> 
+    <text_reviews_count>7139</text_reviews_count> 
+  </author> 
+  </authors>  <published>2007</published> 
+</book> 
+ 
+ 
+      <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+            <shelf name="romance" /> 
+        <shelf name="suspense" /> 
+      </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Tue Mar 01 00:00:00 -0800 2011</read_at> 
+  <date_added>Fri May 06 16:08:03 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:09:03 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[First read: April 20, 2010, then Dec 8, 2010
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203572]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203572]]></link> 
+</review> 
+<review> 
+  <id>166203506</id> 
+    <user> 
+  <id>5286421</id> 
+  <name><![CDATA[Donnie]]></name> 
+  <location><![CDATA[Unaí, 38, Brazil]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/5286421-donnie-c-corr-a]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1303164113p3/5286421.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1303164113p2/5286421.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">28862</id> 
+  <isbn>0937832383</isbn> 
+  <isbn13>9780937832387</isbn13> 
+  <publication_day type="integer">15</publication_day> 
+  <publication_month type="integer">5</publication_month> 
+  <publication_year type="integer">2003</publication_year> 
+  <publisher>Dante University of America Press</publisher> 
+  <text_reviews_count type="integer">713</text_reviews_count> 
+  <title> 
+    <![CDATA[The Prince]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1228190660m/28862.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1228190660s/28862.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/28862.The_Prince</link> 
+  <num_pages>146</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>14821</ratings_count> 
+<authors> 
+    <author> 
+    <id>16201</id> 
+        <name><![CDATA[Niccolò Machiavelli]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1185567895p5/16201.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1185567895p2/16201.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/16201.Niccol_Machiavelli]]></link> 
+    <average_rating>3.56</average_rating> 
+    <ratings_count>20658</ratings_count> 
+    <text_reviews_count>1227</text_reviews_count> 
+  </author> 
+  </authors>  <published>2003</published> 
+</book> 
+ 
+ 
+      <rating>5</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:07:44 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:14:09 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[People often quote Machiavelli wrongly. They often picture him as a man of no morals teaching a young prince on the foulest possible ways of achieving and keeping power; people demonize and avoid his teachings as a sure path to corruption. What they fail to realize, however, was that that very same ...
+              <a href="http://www.goodreads.com/review/show/166203506">more...</a> 
+            ]]>
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203506]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203506]]></link> 
+</review> 
+<review> 
+  <id>166203502</id> 
+    <user> 
+  <id>1306362</id> 
+  <name><![CDATA[Rob]]></name> 
+  <location><![CDATA[Logan, UT]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1306362-rob]]></link> 
+  <image_url><![CDATA[http://photo.goodreads.com/users/1268347154p3/1306362.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1268347154p2/1306362.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">816484</id> 
+  <isbn>0394800788</isbn> 
+  <isbn13>9780394800783</isbn13> 
+  <publication_day type="integer">12</publication_day> 
+  <publication_month type="integer">8</publication_month> 
+  <publication_year type="integer">1954</publication_year> 
+  <publisher>Random House Books for Young Readers</publisher> 
+  <text_reviews_count type="integer">42</text_reviews_count> 
+  <title> 
+    <![CDATA[Horton Hears a Who!]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1178653369m/816484.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1178653369s/816484.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/816484.Horton_Hears_a_Who_</link> 
+  <num_pages>72</num_pages> 
+  <average_rating>4</average_rating> 
+  <ratings_count>854</ratings_count> 
+<authors> 
+    <author> 
+    <id>61105</id> 
+        <name><![CDATA[Dr. Seuss]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1193930952p5/61105.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1193930952p2/61105.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/61105.Dr_Seuss]]></link> 
+    <average_rating>4.13</average_rating> 
+    <ratings_count>373807</ratings_count> 
+    <text_reviews_count>12467</text_reviews_count> 
+  </author> 
+  </authors>  <published>1954</published> 
+</book> 
+ 
+ 
+      <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at>Fri May 06 00:00:00 -0700 2011</read_at> 
+  <date_added>Fri May 06 16:07:43 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:09:51 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Good ears, Horton. Good ears. Horton clearly didn't attend ANY good concerts in his youth. 
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203502]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203502]]></link> 
+</review> 
+<review> 
+  <id>166203478</id> 
+    <user> 
+  <id>1153637</id> 
+  <name><![CDATA[Ellie]]></name> 
+  <location><![CDATA[Salisbury, MA]]></location> 
+  <link><![CDATA[http://www.goodreads.com/user/show/1153637-ellie]]></link> 
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url> 
+</user> 
+      <book> 
+  <id type="integer">844645</id> 
+  <isbn>0740764330</isbn> 
+  <isbn13>9780740764332</isbn13> 
+  <publication_day type="integer">1</publication_day> 
+  <publication_month type="integer">4</publication_month> 
+  <publication_year type="integer">2007</publication_year> 
+  <publisher>Andrews McMeel Publishing</publisher> 
+  <text_reviews_count type="integer">45</text_reviews_count> 
+  <title> 
+    <![CDATA[Fat, Forty, Fired: One Man's Frank, Funny, and Inspiring Account of Losing His Job and Finding His Life]]>
+  </title> 
+  <image_url>http://photo.goodreads.com/books/1299975328m/844645.jpg</image_url> 
+  <small_image_url>http://photo.goodreads.com/books/1299975328s/844645.jpg</small_image_url> 
+  <link>http://www.goodreads.com/book/show/844645.Fat_Forty_Fired</link> 
+  <num_pages>288</num_pages> 
+  <average_rating>3</average_rating> 
+  <ratings_count>96</ratings_count> 
+<authors> 
+    <author> 
+    <id>438153</id> 
+        <name><![CDATA[Nigel Marsh]]></name> 
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/438153.Nigel_Marsh]]></link> 
+    <average_rating>3.40</average_rating> 
+    <ratings_count>121</ratings_count> 
+    <text_reviews_count>51</text_reviews_count> 
+  </author> 
+  </authors>  <published>2007</published> 
+</book> 
+ 
+ 
+      <rating>4</rating> 
+  <votes>0</votes> 
+ 
+  
+    <spoiler_flag>false</spoiler_flag> 
+  <shelves> 
+        <shelf name="read" /> 
+          </shelves> 
+  <recommended_for><![CDATA[]]></recommended_for> 
+  <recommended_by><![CDATA[]]></recommended_by> 
+  <started_at></started_at> 
+  <read_at></read_at> 
+  <date_added>Fri May 06 16:07:28 -0700 2011</date_added> 
+  <date_updated>Fri May 06 16:08:51 -0700 2011</date_updated> 
+  <read_count></read_count> 
+      <body> 
+      <![CDATA[Fun, I appreciated the stories of the father trying to do the &quot;mother's&quot; job - taking the son to school, the daughters to gymnastics.
+            ]]> 
+    </body> 
+    <comments_count>0</comments_count> 
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/166203478]]></url> 
+  <link><![CDATA[http://www.goodreads.com/review/show/166203478]]></link> 
+</review> 
+ 
+</reviews> 
+ 
+</GoodreadsResponse>

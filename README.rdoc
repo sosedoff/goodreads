@@ -53,4 +53,7 @@ Wrapper uses XML feed and transforms it into the object model.
 * Provided data cannot be stored for any usage
 * This API includes only a few methods i was needed so feel free to add any additional methods.
 * Please check original documentation for additional object fields and properties
-  
+
+== Authors
+
+* Dan Sosedoff [http://github.com/sosedoff]

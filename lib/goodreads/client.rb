@@ -4,49 +4,67 @@ module Goodreads
     
     # Initialize the API client
     # You must specify the API key given by goodreads in order to make requests
-    # :api_key - Your api key
-    def initialize(opts={})
-      raise ArgumentError, 'API key required!' unless opts.key?(:api_key)
+    #   :api_key - Your api key
+    def self.configure(opts={})
+      key = opts[:api_key].to_s
+      raise ArgumentError, 'API key required!' if key.empty?
       @@config[:api_key] = opts[:api_key]
     end
     
-    # Get most recent reviews
-    # :skip_cropped - Select only non-cropped reviews
-    def recent_reviews(params={})
-      data = request('/review/recent_reviews', params)
-      reviews = data['reviews']['review'].collect { |r| Goodreads::Record.new(r) }
-      reviews = reviews.select { |r| !r.body.include?(r.url) } if params.key?(:skip_cropped)
-      return reviews
+    # Get book details by Goodreads book ID
+    def book(id)
+      Hashie::Mash.new(request('/book/show', :id => id)['book'])
     end
     
-    # Get book (including reviews) by ISBN.
-    # :skip_cropped_reviews - Select only non-cropped book reviews
-    # :page - Reviews page
-    # :per_page - Reviews per page (default to 30)
-    def book_by_isbn(isbn, params={})
-      params.merge!(:isbn => isbn)
-      data = request('/book/isbn', params)
-      record = Goodreads::Record.new(data['book'])
-      if params.key?(:skip_cropped_reviews)
-        record.reviews['review'] = record.reviews.review.select { |r| !r.body.include?(r.url) }
+    # Get book details by book ISBN
+    def book_by_isbn(isbn)
+      Hashie::Mash.new(request('/book/isbn', :isbn => isbn)['book'])
+    end
+    
+    # Get book details by book title
+    def book_by_title(title)
+      Hashie::Mash.new(request('/book/title', :title => title)['book'])
+    end
+    
+    # Recent reviews from all members.
+    #   :skip_cropped - Select only non-cropped reviews
+    def recent_reviews(params={})
+      skip_cropped = params.delete(:skip_cropped) || false
+      data = request('/review/recent_reviews', params)
+      if data['reviews'] && data['reviews'].key?('review')
+        reviews = data['reviews']['review'].map { |r| Hashie::Mash.new(r) }
+        reviews = reviews.select { |r| !r.body.include?(r.url) } if skip_cropped
+        reviews
       end
-      return record
+    end
+    
+    # Get review details
+    def review(id)
+      data = request('/review/show', :id => id)
+      Hashie::Mash.new(data['review'])
     end
     
     private
     
     # Perform an API request
     def request(path, params={})
+      raise 'API key required!' unless @@config.key?(:api_key)
       params.merge!(:format => 'xml', :key => @@config[:api_key])
-      begin
-        resp = RestClient.get("#{API_URL}#{path}", :params => params)
-        Hash.from_xml(resp)['GoodreadsResponse']
-      rescue RestClient::Unauthorized
-        raise AuthError, 'Invalid API token!'
-      rescue Exception => ex
-        raise NotFound, 'Resource was not found!' if ex.http_code == 404
-        raise GeneralError, ex.message
-      end
+      
+      resp = RestClient.get("#{API_URL}#{path}", :params => params) { |response, request, result, &block|
+        case response.code
+          when 200
+            response.return!(request, result, &block)
+          when 401
+            raise Goodreads::Unauthorized
+          when 404
+            raise Goodreads::NotFound
+        end
+      }
+      
+      hash = Hash.from_xml(resp)['GoodreadsResponse']
+      hash.delete('Request')
+      hash
     end
   end
 end
