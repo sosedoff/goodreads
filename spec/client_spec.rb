@@ -103,4 +103,18 @@ describe 'Client' do
     
     proc { @client.user('12345') }.should raise_error Goodreads::NotFound
   end
+  
+  it 'should return book search results' do
+    stub_with_key_get('/search/index', {:q => 'Rework'}, 'search_books_by_name.xml')
+    
+    proc { @search = @client.search_books('Rework') }.should_not raise_error
+    @search.should be_an_instance_of Hashie::Mash
+    @search.respond_to?(:query).should == true
+    @search.respond_to?(:total_results).should == true
+    @search.respond_to?(:results).should == true
+    @search.results.respond_to?(:work).should == true
+    @search.query.should == 'Rework'
+    @search.results.work.size.should == 3
+    @search.results.work.first.id.should == 6928276
+  end
 end

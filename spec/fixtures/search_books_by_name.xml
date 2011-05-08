@@ -1,0 +1,91 @@
+ing="UTF-8"?> 
+<GoodreadsResponse> 
+	<Request> 
+		<authentication>true</authentication> 
+				<key><![CDATA[SECRET_KEY]]></key> 
+		    <method><![CDATA[search_index]]></method> 
+	</Request> 
+	<search> 
+  <query><![CDATA[Rework]]></query> 
+  
+  <results-start>1</results-start> 
+  <results-end>3</results-end> 
+  <total-results>5</total-results> 
+  <source>Goodreads</source> 
+  <query-time-seconds>0.04</query-time-seconds> 
+  <results> 
+		
+		  		  		  		  
+      <work> 
+  <books_count type="integer">16</books_count> 
+  <id type="integer">6928276</id> 
+  <original_publication_day type="integer" nil="true"></original_publication_day> 
+  <original_publication_month type="integer" nil="true"></original_publication_month> 
+  <original_publication_year type="integer">2010</original_publication_year> 
+  <ratings_count type="integer">2430</ratings_count> 
+  <text_reviews_count type="integer">668</text_reviews_count> 
+  <average_rating>4.04</average_rating> 
+  <best_book> 
+    <id type="integer">6732019</id> 
+    <title>Rework</title> 
+    <author> 
+      <id type="integer">60619</id> 
+      <name>Jason Fried</name> 
+    </author> 
+    <image_url>http://photo.goodreads.com/books/1284984371m/6732019.jpg</image_url> 
+    <small_image_url>http://photo.goodreads.com/books/1284984371s/6732019.jpg</small_image_url> 
+  </best_book> 
+</work> 
+ 
+    
+		  		  		  		  
+      <work> 
+  <books_count type="integer">1</books_count> 
+  <id type="integer">15016026</id> 
+  <original_publication_day type="integer" nil="true"></original_publication_day> 
+  <original_publication_month type="integer" nil="true"></original_publication_month> 
+  <original_publication_year type="integer" nil="true"></original_publication_year> 
+  <ratings_count type="integer">0</ratings_count> 
+  <text_reviews_count type="integer">0</text_reviews_count> 
+  <average_rating type="float">0.0</average_rating> 
+  <best_book> 
+    <id type="integer">10118436</id> 
+    <title>Causes and effects of rework on the delivery of healthcare facilities in California.</title> 
+    <author> 
+      <id type="integer">4557011</id> 
+      <name>Peter Pei-Yin Feng</name> 
+    </author> 
+    <image_url>http://photo.goodreads.com/books/1302195462m/10118436.jpg</image_url> 
+    <small_image_url>http://photo.goodreads.com/books/1302195462s/10118436.jpg</small_image_url> 
+  </best_book> 
+</work> 
+ 
+    
+		  		  		  		  
+      <work> 
+  <books_count type="integer">1</books_count> 
+  <id type="integer">15976859</id> 
+  <original_publication_day type="integer">14</original_publication_day> 
+  <original_publication_month type="integer">3</original_publication_month> 
+  <original_publication_year type="integer">2011</original_publication_year> 
+  <ratings_count type="integer">0</ratings_count> 
+  <text_reviews_count type="integer">0</text_reviews_count> 
+  <average_rating type="float">0.0</average_rating> 
+  <best_book> 
+    <id type="integer">11055673</id> 
+    <title>A Visit to Aunt Rita's: A Rework of an Original Female/Male Spanking Comic First Produced by Nu-West/Leda in the 1980's</title> 
+    <author> 
+      <id type="integer">78731</id> 
+      <name>Ed Lee</name> 
+    </author> 
+    <image_url>http://photo.goodreads.com/books/1302668914m/11055673.jpg</image_url> 
+    <small_image_url>http://photo.goodreads.com/books/1302668914s/11055673.jpg</small_image_url> 
+  </best_book> 
+</work> 
+ 
+    
+  </results> 
+  
+</search> 
+ 
+</GoodreadsResponse>

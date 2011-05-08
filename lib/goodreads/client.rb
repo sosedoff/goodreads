@@ -11,6 +11,17 @@ module Goodreads
       @@config[:api_key] = opts[:api_key]
     end
     
+    # Search for books
+    # q => The query text to match against book title, author, and ISBN fields.
+    # params => Optional search parameters
+    #   :page => Which page to return (default 1, optional)
+    #   :field => Field to search, one of title, author, or genre (default is all)
+    def search_books(q, params={})
+      params[:q] = q.to_s.strip
+      data = request('/search/index', params)
+      Hashie::Mash.new(data['search'])
+    end
+    
     # Get book details by Goodreads book ID
     def book(id)
       Hashie::Mash.new(request('/book/show', :id => id)['book'])
