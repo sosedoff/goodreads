@@ -66,15 +66,41 @@ describe 'Client' do
     stub_request(:get, "http://www.goodreads.com/review/show?format=xml&id=12345&key=SECRET_KEY").
       to_return(:status => 404, :body => "", :headers => {})
 
-    proc { @review = @client.review('12345') }.should raise_error Goodreads::NotFound
+    proc { @client.review('12345') }.should raise_error Goodreads::NotFound
   end
   
   it 'should return author details' do
-    stub_with_key_get('/author/list', {:id => '18541'}, 'author.xml')
+    stub_with_key_get('/author/show', {:id => '18541'}, 'author.xml')
+    
     proc { @author = @client.author('18541') }.should_not raise_error
     @author.should be_an_instance_of Hashie::Mash
     @author.respond_to?(:id).should == true
     @author.id.should == '18541'
     @author.name.should == "Tim O'Reilly"
+  end
+  
+  it 'should raise Goodreads::NotFound if author was not found' do
+    stub_request(:get, "http://www.goodreads.com/author/show?format=xml&id=12345&key=SECRET_KEY").
+      to_return(:status => 404, :body => "", :headers => {})
+    
+    proc { @client.author('12345') }.should raise_error Goodreads::NotFound
+  end
+  
+  it 'should return user details' do
+    stub_with_key_get('/user/show', {:id => '878044'}, 'user.xml')
+    
+    proc { @user = @client.user('878044') }.should_not raise_error
+    @user.should be_an_instance_of Hashie::Mash
+    @user.respond_to?(:id).should == true
+    @user.id.should == '878044'
+    @user.name.should == 'Jan'
+    @user.user_name.should == 'janmt'
+  end
+  
+  it 'should raise Goodreads::NotFound if user was not found' do
+    stub_request(:get, "http://www.goodreads.com/user/show?format=xml&id=12345&key=SECRET_KEY").
+      to_return(:status => 404, :body => "", :headers => {})
+    
+    proc { @client.user('12345') }.should raise_error Goodreads::NotFound
   end
 end

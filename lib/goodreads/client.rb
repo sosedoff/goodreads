@@ -47,8 +47,14 @@ module Goodreads
     # Get author details
     def author(id, params={})
       params[:id] = id
-      data = request('/author/list', params)
+      data = request('/author/show', params)
       Hashie::Mash.new(data['author'])
+    end
+    
+    # Get user details
+    def user(id)
+      data = request('/user/show', :id => id)
+      Hashie::Mash.new(data['user'])
     end
     
     private

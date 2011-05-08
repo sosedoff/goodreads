@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<GoodreadsResponse> 
+	<Request> 
+		<authentication>true</authentication> 
+				<key><![CDATA[SECRET_KEY]]></key> 
+		    <method><![CDATA[user_show]]></method> 
+	</Request> 
+	<user> 
+  <id>878044</id> 
+    <name><![CDATA[Jan]]></name> 
+    <user_name><![CDATA[janmt]]></user_name> 
+  <link><![CDATA[http://www.goodreads.com/user/show/878044-jan]]></link> 
+    <image_url><![CDATA[http://photo.goodreads.com/users/1207252772p3/878044.jpg]]></image_url> 
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1207252772p2/878044.jpg]]></small_image_url> 
+  
+		<about><![CDATA[These are MY books. For books we have read as a family,  please see the ThomsonFamily list. :-) Happy reading! ]]></about> 
+    <age></age> 
+    <gender>female</gender> 
+    <location>Sandy, UT</location> 
+    <website><![CDATA[http://janmt.blogspot.com]]></website> 
+    <joined>02/2008</joined> 
+    <last_active>05/2011</last_active> 
+    <interests><![CDATA[]]></interests> 
+    <favorite_books><![CDATA[]]></favorite_books> 
+    <favorite_authors> 
+	    
+	  </favorite_authors> 
+    
+    <updates_rss_url><![CDATA[http://www.goodreads.com/user/updates_rss/878044?key=ae75863fa1cc4f829aa38e504b47ea9bc193f5be]]></updates_rss_url> 
+    <reviews_rss_url><![CDATA[http://www.goodreads.com/review/list_rss/878044?key=ae75863fa1cc4f829aa38e504b47ea9bc193f5be&shelf=%23ALL%23]]></reviews_rss_url> 
+    <friends_count type="integer">45</friends_count> 
+    <groups_count>0</groups_count> 
+		<reviews_count type="integer">395</reviews_count> 
+    <user_shelves type="array"> 
+  <user_shelf> 
+    <book_count type="integer">353</book_count> 
+    <description nil="true"></description> 
+    <display_fields></display_fields> 
+    <exclusive_flag type="boolean">true</exclusive_flag> 
+    <featured type="boolean">true</featured> 
+    <id type="integer">5869526</id> 
+    <name>read</name> 
+    <order nil="true"></order> 
+    <per_page type="integer" nil="true"></per_page> 
+    <sort nil="true"></sort> 
+  </user_shelf> 
+  <user_shelf> 
+    <book_count type="integer">1</book_count> 
+    <description nil="true"></description> 
+    <display_fields></display_fields> 
+    <exclusive_flag type="boolean">true</exclusive_flag> 
+    <featured type="boolean">false</featured> 
+    <id type="integer">1783706</id> 
+    <name>currently-reading</name> 
+    <order nil="true"></order> 
+    <per_page type="integer" nil="true"></per_page> 
+    <sort nil="true"></sort> 
+  </user_shelf> 
+  <user_shelf> 
+    <book_count type="integer">41</book_count> 
+    <description nil="true"></description> 
+    <display_fields></display_fields> 
+    <exclusive_flag type="boolean">true</exclusive_flag> 
+    <featured type="boolean">false</featured> 
+    <id type="integer">1783705</id> 
+    <name>to-read</name> 
+    <order nil="true"></order> 
+    <per_page type="integer" nil="true"></per_page> 
+    <sort nil="true"></sort> 
+  </user_shelf> 
+  <user_shelf> 
+    <book_count type="integer">1</book_count> 
+    <description nil="true"></description> 
+    <display_fields></display_fields> 
+    <exclusive_flag type="boolean">false</exclusive_flag> 
+    <featured type="boolean">false</featured> 
+    <id type="integer">2116369</id> 
+    <name>inspirational</name> 
+    <order nil="true"></order> 
+    <per_page type="integer" nil="true"></per_page> 
+    <sort nil="true"></sort> 
+  </user_shelf> 
+  <user_shelf> 
+    <book_count type="integer">1</book_count> 
+    <description nil="true"></description> 
+    <display_fields></display_fields> 
+    <exclusive_flag type="boolean">false</exclusive_flag> 
+    <featured type="boolean">false</featured> 
+    <id type="integer">2116367</id> 
+    <name>childrens</name> 
+    <order nil="true"></order> 
+    <per_page type="integer" nil="true"></per_page> 
+    <sort nil="true"></sort> 
+  </user_shelf> 
+  <user_shelf> 
+    <book_count type="integer">0</book_count> 
+    <description nil="true"></description> 
+    <display_fields></display_fields> 
+    <exclusive_flag type="boolean">false</exclusive_flag> 
+    <featured type="boolean">false</featured> 
+    <id type="integer">2116373</id> 
+    <name>newberry</name> 
+    <order nil="true"></order> 
+    <per_page type="integer" nil="true"></per_page> 
+    <sort nil="true"></sort> 
+  </user_shelf> 
+</user_shelves> 
+ 
+          <updates type="array"> 
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[is currently reading: <a href="http://www.goodreads.com/book/show/1381616.A_Crack_in_the_Edge_of_the_World">A Crack in the Edge of the World (Paperback)</a> by <a href="http://www.goodreads.com/author/show/14053.Simon_Winchester">Simon Winchester</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145606379</link> 
+    <image_url>http://ecx.images-amazon.com/images/I/51BmG%2Bcc6OL._SL75_.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:15:18 -0800</updated_at> 
+                  <action type="added"> 
+          <shelf name="currently-reading" /> 
+        </action> 
+            <object> 
+        <book> 
+          <id>1381616</id> 
+          <title><![CDATA[A Crack in the Edge of the World]]></title> 
+          <link>http://www.goodreads.com/book/show/1381616.A_Crack_in_the_Edge_of_the_World</link> 
+          <authors> 
+    <author> 
+    <id>14053</id> 
+        <name><![CDATA[Simon Winchester]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1286848563p5/14053.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1286848563p2/14053.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/14053.Simon_Winchester]]></link> 
+    <average_rating>3.71</average_rating> 
+    <ratings_count>18229</ratings_count> 
+    <text_reviews_count>3177</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/42389.Band_of_Brothers">Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest (Mass Market Paperback)</a> by <a href="http://www.goodreads.com/author/show/5882.Stephen_E_Ambrose">Stephen E. Ambrose</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/122721227</link> 
+    <image_url>http://photo.goodreads.com/books/1169881009s/42389.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:14:48 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>3</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>42389</id> 
+          <title><![CDATA[Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest]]></title> 
+          <link>http://www.goodreads.com/book/show/42389.Band_of_Brothers</link> 
+          <authors> 
+    <author> 
+    <id>5882</id> 
+        <name><![CDATA[Stephen E. Ambrose]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1211404212p5/5882.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1211404212p2/5882.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/5882.Stephen_E_Ambrose]]></link> 
+    <average_rating>4.09</average_rating> 
+    <ratings_count>21712</ratings_count> 
+    <text_reviews_count>2577</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+          <body><![CDATA[It probably deserves more than three starts - but this genre is one I have a hard time staying interested in. I really appreciated the lack of profanity (I assume the movie would be (understandably) full of profanity and violence). ]]></body> 
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader">The Voyage of the Dawn Treader (Chronicles of Narnia, #5)</a> by <a href="http://www.goodreads.com/author/show/1069006.C_S_Lewis">C.S. Lewis</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145605788</link> 
+    <image_url>http://photo.goodreads.com/books/1172116494s/140225.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:12:27 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>3</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>140225</id> 
+          <title><![CDATA[The Voyage of the Dawn Treader (Chronicles of Narnia, #5)]]></title> 
+          <link>http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader</link> 
+          <authors> 
+    <author> 
+    <id>1069006</id> 
+        <name><![CDATA[C.S. Lewis]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1211981595p5/1069006.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1211981595p2/1069006.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link> 
+    <average_rating>4.03</average_rating> 
+    <ratings_count>622649</ratings_count> 
+    <text_reviews_count>31220</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy">The Horse and His Boy (Chronicles of Narnia, #3)</a> by <a href="http://www.goodreads.com/author/show/1069006.C_S_Lewis">C.S. Lewis</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145605790</link> 
+    <image_url>http://photo.goodreads.com/books/1209165084s/84119.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:12:27 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>3</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>84119</id> 
+          <title><![CDATA[The Horse and His Boy (Chronicles of Narnia, #3)]]></title> 
+          <link>http://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy</link> 
+          <authors> 
+    <author> 
+    <id>1069006</id> 
+        <name><![CDATA[C.S. Lewis]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1211981595p5/1069006.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1211981595p2/1069006.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link> 
+    <average_rating>4.03</average_rating> 
+    <ratings_count>622649</ratings_count> 
+    <text_reviews_count>31220</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/65641.The_Silver_Chair">The Silver Chair (Chronicles of Narnia, #6)</a> by <a href="http://www.goodreads.com/author/show/1069006.C_S_Lewis">C.S. Lewis</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145605769</link> 
+    <image_url>http://photo.goodreads.com/books/1170634564s/65641.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:12:18 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>3</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>65641</id> 
+          <title><![CDATA[The Silver Chair (Chronicles of Narnia, #6)]]></title> 
+          <link>http://www.goodreads.com/book/show/65641.The_Silver_Chair</link> 
+          <authors> 
+    <author> 
+    <id>1069006</id> 
+        <name><![CDATA[C.S. Lewis]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1211981595p5/1069006.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1211981595p2/1069006.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link> 
+    <average_rating>4.03</average_rating> 
+    <ratings_count>622649</ratings_count> 
+    <text_reviews_count>31220</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/84369.The_Last_Battle">The Last Battle (Chronicles of Narnia, #7)</a> by <a href="http://www.goodreads.com/author/show/1069006.C_S_Lewis">C.S. Lewis</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145605640</link> 
+    <image_url>http://ecx.images-amazon.com/images/I/516C9Q0FGPL._SL75_.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:11:35 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>4</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>84369</id> 
+          <title><![CDATA[The Last Battle (Chronicles of Narnia, #7)]]></title> 
+          <link>http://www.goodreads.com/book/show/84369.The_Last_Battle</link> 
+          <authors> 
+    <author> 
+    <id>1069006</id> 
+        <name><![CDATA[C.S. Lewis]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1211981595p5/1069006.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1211981595p2/1069006.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link> 
+    <average_rating>4.03</average_rating> 
+    <ratings_count>622649</ratings_count> 
+    <text_reviews_count>31220</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 2 stars to: <a href="http://www.goodreads.com/book/show/262430.Gregor_the_Overlander">Gregor the Overlander (Underland Chronicles, #1)</a> by <a href="http://www.goodreads.com/author/show/153394.Suzanne_Collins">Suzanne Collins</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145605371</link> 
+    <image_url>http://photo.goodreads.com/books/1173234171s/262430.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:10:13 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>2</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>262430</id> 
+          <title><![CDATA[Gregor the Overlander (Underland Chronicles, #1)]]></title> 
+          <link>http://www.goodreads.com/book/show/262430.Gregor_the_Overlander</link> 
+          <authors> 
+    <author> 
+    <id>153394</id> 
+        <name><![CDATA[Suzanne Collins]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1285984570p5/153394.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1285984570p2/153394.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link> 
+    <average_rating>4.36</average_rating> 
+    <ratings_count>397114</ratings_count> 
+    <text_reviews_count>85696</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 2 stars to: <a href="http://www.goodreads.com/book/show/44170.The_Looking_Glass_Wars">The Looking Glass Wars (The Looking Glass Wars, #1)</a> by <a href="http://www.goodreads.com/author/show/24818.Frank_Beddor">Frank Beddor</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145605029</link> 
+    <image_url>http://photo.goodreads.com/books/1170252564s/44170.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:08:35 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>2</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>44170</id> 
+          <title><![CDATA[The Looking Glass Wars (The Looking Glass Wars, #1)]]></title> 
+          <link>http://www.goodreads.com/book/show/44170.The_Looking_Glass_Wars</link> 
+          <authors> 
+    <author> 
+    <id>24818</id> 
+        <name><![CDATA[Frank Beddor]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1224779468p5/24818.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1224779468p2/24818.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/24818.Frank_Beddor]]></link> 
+    <average_rating>3.86</average_rating> 
+    <ratings_count>14316</ratings_count> 
+    <text_reviews_count>2402</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/248484.Book_of_a_Thousand_Days">Book of a Thousand Days (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/49177.Shannon_Hale">Shannon Hale</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145604979</link> 
+    <image_url>http://photo.goodreads.com/books/1293471884s/248484.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:08:20 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>3</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>248484</id> 
+          <title><![CDATA[Book of a Thousand Days]]></title> 
+          <link>http://www.goodreads.com/book/show/248484.Book_of_a_Thousand_Days</link> 
+          <authors> 
+    <author> 
+    <id>49177</id> 
+        <name><![CDATA[Shannon Hale]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1299093233p5/49177.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1299093233p2/49177.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/49177.Shannon_Hale]]></link> 
+    <average_rating>3.93</average_rating> 
+    <ratings_count>113229</ratings_count> 
+    <text_reviews_count>26165</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+    
+  
+  <update type="review"> 
+    <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/76620.Watership_Down">Watership Down (Paperback)</a> by <a href="http://www.goodreads.com/author/show/7717.Richard_Adams">Richard Adams</a>]]></action_text> 
+    <link>http://www.goodreads.com/review/show/145604864</link> 
+    <image_url>http://photo.goodreads.com/books/1298434234s/76620.jpg</image_url> 
+    <actor> 
+  <id type="integer">878044</id> 
+  <name>Jan</name> 
+  <image_url>http://photo.goodreads.com/users/1207252772p2/878044.jpg</image_url> 
+  <link>http://www.goodreads.com/user/show/878044-jan</link> 
+</actor> 
+ 
+    <updated_at>Thu, 03 Feb 2011 07:07:49 -0800</updated_at> 
+                  <action type="rating"> 
+          <rating>4</rating> 
+        </action> 
+            <object> 
+        <book> 
+          <id>76620</id> 
+          <title><![CDATA[Watership Down]]></title> 
+          <link>http://www.goodreads.com/book/show/76620.Watership_Down</link> 
+          <authors> 
+    <author> 
+    <id>7717</id> 
+        <name><![CDATA[Richard Adams]]></name> 
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1210188763p5/7717.jpg]]></image_url> 
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1210188763p2/7717.jpg]]></small_image_url> 
+    <link><![CDATA[http://www.goodreads.com/author/show/7717.Richard_Adams]]></link> 
+    <average_rating>3.97</average_rating> 
+    <ratings_count>53331</ratings_count> 
+    <text_reviews_count>4144</text_reviews_count> 
+  </author> 
+  </authors> 
+        </book> 
+      </object> 
+        
+      
+        
+    
+  </update>  
+  </updates> 
+ 
+        <user_statuses> 
+          </user_statuses> 
+  
+</user> 
+ 
+</GoodreadsResponse>
