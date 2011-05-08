@@ -68,4 +68,13 @@ describe 'Client' do
 
     proc { @review = @client.review('12345') }.should raise_error Goodreads::NotFound
   end
+  
+  it 'should return author details' do
+    stub_with_key_get('/author/list', {:id => '18541'}, 'author.xml')
+    proc { @author = @client.author('18541') }.should_not raise_error
+    @author.should be_an_instance_of Hashie::Mash
+    @author.respond_to?(:id).should == true
+    @author.id.should == '18541'
+    @author.name.should == "Tim O'Reilly"
+  end
 end
