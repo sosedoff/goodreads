@@ -29,6 +29,14 @@ Find a book by Goodreads ID:
 Find a book by title:
 
   book = client.book_by_title('Book title')
+  
+Search for books (by title, isbn, genre)
+
+  search = client.search_books('Your search query')
+  search.results.work.each do |book|
+    book.id        # => book ID
+    book.title     # => book title
+  end
 
 === Pull recent reviews
 
