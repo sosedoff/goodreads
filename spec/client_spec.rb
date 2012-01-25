@@ -2,10 +2,10 @@ require 'spec_helper'
 
 describe 'Client' do
   before :each do
-    Goodreads.configure('SECRET_KEY')
     @client = Goodreads::Client.new
+    @client.configure(:api_key => 'SECRET_KEY')
   end
-  
+
   it 'should return a book found by isbn' do
     stub_with_key_get('/book/isbn', {:isbn => '0307463745'}, 'book.xml')
     
