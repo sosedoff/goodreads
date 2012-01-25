@@ -17,10 +17,10 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'yard', '~> 0.6'
   
   s.add_runtime_dependency 'rest-client', '~> 1.6.1'
-  s.add_runtime_dependency 'hashie', '~> 1.0.0'
-  s.add_runtime_dependency 'activesupport', '~> 3.0.0'
+  s.add_runtime_dependency 'hashie', '> 1.0.0'
+  s.add_runtime_dependency 'activesupport', '> 3.0.0'
   s.add_runtime_dependency 'i18n', '~> 0.5'
-  
+
   s.files = `git ls-files`.split("\n")
   s.test_files = `git ls-files -- {test,spec,features}/*`.split("\n")
   s.executables = `git ls-files -- bin/*`.split("\n").map{|f| File.basename(f)}

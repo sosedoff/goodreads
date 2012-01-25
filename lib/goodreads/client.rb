@@ -1,14 +1,17 @@
 module Goodreads
   class Client
-    @@config = {}
+    
+    def initialize
+      @config = {}
+    end
     
     # Initialize the API client
     # You must specify the API key given by goodreads in order to make requests
     #   :api_key - Your api key
-    def self.configure(opts={})
+    def configure(opts={})
       key = opts[:api_key].to_s
       raise ArgumentError, 'API key required!' if key.empty?
-      @@config[:api_key] = opts[:api_key]
+      @config[:api_key] = opts[:api_key]
     end
     
     # Search for books
@@ -72,8 +75,8 @@ module Goodreads
     
     # Perform an API request
     def request(path, params={})
-      raise 'API key required!' unless @@config.key?(:api_key)
-      params.merge!(:format => 'xml', :key => @@config[:api_key])
+      raise 'API key required!' unless @config.key?(:api_key)
+      params.merge!(:format => 'xml', :key => @config[:api_key])
       
       resp = RestClient.get("#{API_URL}#{path}", :params => params) { |response, request, result, &block|
         case response.code

@@ -7,3 +7,8 @@ RSpec::Core::RakeTask.new(:test) do |t|
 end
 
 task :default => :test
+
+desc "Run authentication tests"
+RSpec::Core::RakeTask.new(:auth) do |t|
+  t.pattern = './spec/**/authentication_spec.rb'
+end
