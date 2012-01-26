@@ -2,6 +2,8 @@
 
 Ruby library to connect with Goodreads API.
 
+[![Build Status](https://secure.travis-ci.org/sosedoff/goodreads.png)](http://travis-ci.org/sosedoff/goodreads)
+
 ## Installation
 
 You can install this library via rubygems:
