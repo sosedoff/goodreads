@@ -12,6 +12,10 @@ module Goodreads
     # options[:api_secret] - Account API secret
     #
     def initialize(options={})
+      unless options.kind_of?(Hash)
+        raise ArgumentError, "Options hash required."
+      end
+      
       @api_key    = options[:api_key]
       @api_secret = options[:api_secret]
     end
