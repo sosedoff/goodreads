@@ -1,17 +1,19 @@
+require 'goodreads/client'
+
 module Goodreads
   class Client
+    include Goodreads::Request
     
-    def initialize
-      @config = {}
-    end
+    attr_reader :api_key, :api_secret
     
-    # Initialize the API client
-    # You must specify the API key given by goodreads in order to make requests
-    #   :api_key - Your api key
-    def configure(opts={})
-      key = opts[:api_key].to_s
-      raise ArgumentError, 'API key required!' if key.empty?
-      @config[:api_key] = opts[:api_key]
+    # Initialize a Goodreads::Client instance
+    #
+    # options[:api_key]    - Account API key
+    # options[:api_secret] - Account API secret
+    #
+    def initialize(options={})
+      @api_key    = options[:api_key]
+      @api_secret = options[:api_secret]
     end
     
     # Search for books
@@ -26,22 +28,27 @@ module Goodreads
     end
     
     # Get book details by Goodreads book ID
+    #
     def book(id)
       Hashie::Mash.new(request('/book/show', :id => id)['book'])
     end
     
     # Get book details by book ISBN
+    #
     def book_by_isbn(isbn)
       Hashie::Mash.new(request('/book/isbn', :isbn => isbn)['book'])
     end
     
     # Get book details by book title
+    #
     def book_by_title(title)
       Hashie::Mash.new(request('/book/title', :title => title)['book'])
     end
     
     # Recent reviews from all members.
-    #   :skip_cropped - Select only non-cropped reviews
+    #
+    # params[:skip_cropped] - Select only non-cropped reviews
+    #
     def recent_reviews(params={})
       skip_cropped = params.delete(:skip_cropped) || false
       data = request('/review/recent_reviews', params)
@@ -53,12 +60,14 @@ module Goodreads
     end
     
     # Get review details
+    #
     def review(id)
       data = request('/review/show', :id => id)
       Hashie::Mash.new(data['review'])
     end
     
     # Get author details
+    #
     def author(id, params={})
       params[:id] = id
       data = request('/author/show', params)
@@ -66,32 +75,10 @@ module Goodreads
     end
     
     # Get user details
+    #
     def user(id)
       data = request('/user/show', :id => id)
       Hashie::Mash.new(data['user'])
-    end
-    
-    private
-    
-    # Perform an API request
-    def request(path, params={})
-      raise 'API key required!' unless @config.key?(:api_key)
-      params.merge!(:format => 'xml', :key => @config[:api_key])
-      
-      resp = RestClient.get("#{API_URL}#{path}", :params => params) { |response, request, result, &block|
-        case response.code
-          when 200
-            response.return!(request, result, &block)
-          when 401
-            raise Goodreads::Unauthorized
-          when 404
-            raise Goodreads::NotFound
-        end
-      }
-      
-      hash = Hash.from_xml(resp)['GoodreadsResponse']
-      hash.delete('Request')
-      hash
     end
   end
 end

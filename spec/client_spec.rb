@@ -2,8 +2,7 @@ require 'spec_helper'
 
 describe 'Client' do
   before :each do
-    @client = Goodreads::Client.new
-    @client.configure(:api_key => 'SECRET_KEY')
+    @client = Goodreads::Client.new(:api_key => 'SECRET_KEY')
   end
 
   it 'should return a book found by isbn' do

@@ -24,14 +24,15 @@ def stub_with_key_get(path, params, fixture_name)
   stub_get(path, params, fixture_name)
 end
 
-def fixture_path
-  File.expand_path("../fixtures", __FILE__)
+def fixture_path(file=nil)
+  path = File.expand_path("../fixtures", __FILE__)
+  file.nil? ? path : File.join(path, file)
 end
 
 def fixture(file)
-  File.new(fixture_path + '/' + file)
+  File.read(fixture_path(file))
 end
 
 def api_url(path)
-  "#{Goodreads::API_URL}#{path}"
+  "#{Goodreads::Request::API_URL}#{path}"
 end
