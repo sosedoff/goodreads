@@ -4,7 +4,7 @@ Ruby library to connect with Goodreads API.
 
 ## Installation
 
-Your can install this library via rubygems:
+You can install this library via rubygems:
 
 ```
 gem install goodreads
@@ -27,6 +27,26 @@ client = Goodreads::Client.new(:api_key => 'YOUR_KEY')
 
 # or using a shortcut
 client = Goodreads.new(:api_key => 'YOUR_KEY')
+```
+
+### Global configuration
+
+Library allows you to define a global configuration options.
+
+```ruby
+Goodreads.configure(:api_key => 'YOUR_KEY')
+```
+
+Get current options:
+
+```ruby
+Goodreads.configuration # => {:api_key => 'YOUR_KEY'}
+```
+
+In case you need to reset options:
+
+```ruby
+Goodreads.reset_configuration
 ```
 
 ## Usage
