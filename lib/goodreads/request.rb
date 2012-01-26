@@ -15,11 +15,13 @@ module Goodreads
     # params - Parameters hash
     #
     def request(path, params={})
-      if api_key.nil?
+      token = api_key || Goodreads.configuration[:api_key]
+      
+      if token.nil?
         raise Goodreads::ConfigurationError, 'API key required.'
       end
       
-      params.merge!(:format => API_FORMAT, :key => api_key)
+      params.merge!(:format => API_FORMAT, :key => token)
       url = "#{API_URL}#{path}"
       
       resp = RestClient.get(url, :params => params) do |response, request, result, &block|
