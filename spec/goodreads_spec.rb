@@ -40,4 +40,15 @@ describe 'Goodreads' do
       r[:api_secret].should eql('BAR')
     end
   end
+  
+  context '.reset_configuration' do
+    before do
+      Goodreads.configure(:api_key => 'FOO', :api_secret => 'BAR')
+    end
+    
+    it 'resets global configuration options' do
+      Goodreads.reset_configuration
+      Goodreads.configuration.should eql({})
+    end
+  end
 end

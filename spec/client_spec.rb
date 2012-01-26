@@ -2,6 +2,7 @@ require 'spec_helper'
 
 describe 'Client' do
   before :each do
+    Goodreads.reset_configuration
     @client = Goodreads::Client.new(:api_key => 'SECRET_KEY')
   end
   
