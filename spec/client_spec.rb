@@ -4,8 +4,16 @@ describe 'Client' do
   before :each do
     @client = Goodreads::Client.new(:api_key => 'SECRET_KEY')
   end
+  
+  it 'raises error on invalid config parameter' do
+    proc { Goodreads::Client.new(nil) }.
+      should raise_error ArgumentError, "Options hash required."
+      
+    proc { Goodreads::Client.new('foo') }.
+      should raise_error ArgumentError, "Options hash required."
+  end
 
-  it 'should return a book found by isbn' do
+  it 'returns a book by isbn' do
     stub_with_key_get('/book/isbn', {:isbn => '0307463745'}, 'book.xml')
     
     proc { @book = @client.book_by_isbn('0307463745') }.should_not raise_error
@@ -13,24 +21,24 @@ describe 'Client' do
     @book.respond_to?(:title).should == true
   end
   
-  it 'should return a book found by goodreads id' do
+  it 'returns a book by goodreads id' do
     stub_with_key_get('/book/show', {:id => '6732019'}, 'book.xml')
     proc { @client.book('6732019') }.should_not raise_error
   end
   
-  it 'should return a book found by title' do
+  it 'returns a book by title' do
     stub_with_key_get('/book/title', {:title => 'Rework'}, 'book.xml')
     proc { @client.book_by_title('Rework') }.should_not raise_error
   end
   
-  it 'should raise Goodreads::NotFound if book was not found' do
+  it 'raises Goodreads::NotFound if book was not found' do
     stub_request(:get, "http://www.goodreads.com/book/isbn?format=xml&isbn=123456789&key=SECRET_KEY").
       to_return(:status => 404, :body => "", :headers => {})
          
     proc { @client.book_by_isbn('123456789') }.should raise_error Goodreads::NotFound
   end
   
-  it 'should return recent reviews' do
+  it 'returns recent reviews' do
     stub_with_key_get('/review/recent_reviews', {}, 'recent_reviews.xml')
     
     proc { @reviews = @client.recent_reviews }.should_not raise_error
@@ -41,7 +49,7 @@ describe 'Client' do
     end
   end
   
-  it 'should return recent reviews with clean reviews' do
+  it 'returns only full reviewes' do
     stub_with_key_get('/review/recent_reviews', {}, 'recent_reviews.xml')
     
     proc { @reviews = @client.recent_reviews(:skip_cropped => true) }.should_not raise_error
@@ -52,7 +60,7 @@ describe 'Client' do
     end
   end
   
-  it 'should return single review details' do
+  it 'returns review details' do
     stub_with_key_get('/review/show', {:id => '166204831'}, 'review.xml')
     
     proc { @review = @client.review('166204831') }.should_not raise_error
@@ -61,14 +69,14 @@ describe 'Client' do
     @review.id.should == '166204831'
   end
   
-  it 'should raise Goodreads::NotFound if review was not found' do
+  it 'raises Goodreads::NotFound if review was not found' do
     stub_request(:get, "http://www.goodreads.com/review/show?format=xml&id=12345&key=SECRET_KEY").
       to_return(:status => 404, :body => "", :headers => {})
 
     proc { @client.review('12345') }.should raise_error Goodreads::NotFound
   end
   
-  it 'should return author details' do
+  it 'returns author details' do
     stub_with_key_get('/author/show', {:id => '18541'}, 'author.xml')
     
     proc { @author = @client.author('18541') }.should_not raise_error
@@ -78,14 +86,14 @@ describe 'Client' do
     @author.name.should == "Tim O'Reilly"
   end
   
-  it 'should raise Goodreads::NotFound if author was not found' do
+  it 'raises Goodreads::NotFound if author was not found' do
     stub_request(:get, "http://www.goodreads.com/author/show?format=xml&id=12345&key=SECRET_KEY").
       to_return(:status => 404, :body => "", :headers => {})
     
     proc { @client.author('12345') }.should raise_error Goodreads::NotFound
   end
   
-  it 'should return user details' do
+  it 'returns user details' do
     stub_with_key_get('/user/show', {:id => '878044'}, 'user.xml')
     
     proc { @user = @client.user('878044') }.should_not raise_error
@@ -96,14 +104,14 @@ describe 'Client' do
     @user.user_name.should == 'janmt'
   end
   
-  it 'should raise Goodreads::NotFound if user was not found' do
+  it 'raiser Goodreads::NotFound if user was not found' do
     stub_request(:get, "http://www.goodreads.com/user/show?format=xml&id=12345&key=SECRET_KEY").
       to_return(:status => 404, :body => "", :headers => {})
     
     proc { @client.user('12345') }.should raise_error Goodreads::NotFound
   end
   
-  it 'should return book search results' do
+  it 'returns book search results' do
     stub_with_key_get('/search/index', {:q => 'Rework'}, 'search_books_by_name.xml')
     
     proc { @search = @client.search_books('Rework') }.should_not raise_error
