@@ -32,4 +32,10 @@ module Goodreads
   def self.configuration
     @@options
   end
+  
+  # Resets the global configuration
+  #
+  def self.reset_configuration
+    @@options = {}
+  end
 end

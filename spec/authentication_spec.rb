@@ -1,6 +1,10 @@
 require 'spec_helper'
 
 describe 'Client' do
+  before :each do
+    Goodreads.reset_configuration
+  end
+  
   it 'raises Goodreads::ConfigurationError if API key was not provided' do
     client = Goodreads::Client.new
     
