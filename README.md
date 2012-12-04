@@ -106,6 +106,18 @@ review.book       # => Book information
 review.rating     # => User rating
 ```
 
+### Shelves
+
+Get the books on a user's shelf:
+
+```ruby
+shelf = client.shelf(user_id, shelf_name)
+shelf.books  # array of books on this shelf
+shelf.start  # start index of this page of paginated results
+shelf.end    # end index of this page of paginated results
+shelf.total  # total number of books on this shelf
+```
+
 ## Contributions
 
 Feel free to contribute any patches or new features.

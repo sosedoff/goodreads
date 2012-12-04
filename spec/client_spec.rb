@@ -125,4 +125,46 @@ describe 'Client' do
     @search.results.work.size.should == 3
     @search.results.work.first.id.should == 6928276
   end
+
+  it "should return list of books for a user's specified shelf" do
+    stub_with_key_get('/review/list/1.xml', 
+                      {:shelf => 'to-read', :v=> '2'}, 
+                      'to-read.xml')
+
+    proc { @shelf = @client.shelf('1', 'to-read') }.should_not raise_error
+    @shelf.respond_to?(:start).should == true
+    @shelf.respond_to?(:end).should == true
+    @shelf.respond_to?(:total).should == true
+    @shelf.respond_to?(:books).should == true
+    @shelf.start.should == 1
+    @shelf.end.should == 20
+    @shelf.total.should == 40
+    @shelf.books.length.should == 20
+    @shelf.books.first.id.should == '45590939'
+    @shelf.books.first.book.title.strip.should == 'The Demon-Haunted World: Science as a Candle in the Dark'
+  end
+
+  it "should paginate book lists from a user's shelf" do
+    stub_with_key_get('/review/list/1.xml', 
+                      {:shelf => 'to-read', :v=> '2', :page => '2'}, 
+                      'to-read-p2.xml')
+    proc { @shelf = @client.shelf('1', 'to-read', :page => 2) }.should_not raise_error
+    @shelf.start.should == 21
+    @shelf.end.should == 40
+    @shelf.total.should == 40
+    @shelf.books.length.should == 20
+    @shelf.books.first.id.should == '107804211'
+    @shelf.books.first.book.title.should =~ /Your Money or Your Life/
+  end
+
+  it "should return an empty array for empty shelves" do
+    stub_with_key_get('/review/list/1.xml', 
+                      {:shelf => 'to-read', :v=> '2'}, 
+                      'empty.xml')
+    proc { @shelf = @client.shelf('1', 'to-read') }.should_not raise_error
+    @shelf.start.should == 0
+    @shelf.end.should == 0
+    @shelf.total.should == 0
+    @shelf.books.length.should == 0
+  end
 end
