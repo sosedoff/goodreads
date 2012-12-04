@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="21" end="40" total="40">
+    <review>
+  <id>107804211</id>
+        <book>
+  <id type="integer">78428</id>
+  <isbn>0140286780</isbn>
+  <isbn13>9780140286786</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">9</publication_month>
+  <publication_year type="integer">1999</publication_year>
+  <publisher>Penguin (Non-Classics)</publisher>
+  <text_reviews_count type="integer">249</text_reviews_count>
+  <title>
+    <![CDATA[Your Money or Your Life: Transforming Your Relationship with Money and Achieving Financial Independence]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1170943850m/78428.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1170943850s/78428.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life</link>
+  <num_pages>400</num_pages>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1172</ratings_count>
+  <description>
+    <![CDATA[Find financial freedom in the new millennium with a new edition of the life-changing national bestseller<br/><br/>More than three-quarters of a million people everywhere, from all walks of life, have found the keys to gaining control of their money--and their lives--in this comprehensive and revolutionary book on money management. Considered the bible of the voluntary simplicity movement, <em>Your Money or Your Life</em> is now updated with a new Preface, Index, and Resource list to help you put the program into practice. This simple, nine-step program shows you how to:<br/><br/>* get out of debt and develop savings<br/>* slow down the work-and-spend treadmill<br/>* make values-based decisions about your spending<br/>* save the planet while saving money <br/><br/>* Over three years on the <em>Business Week</em> bestseller list <br/>* <em>Your Money or Your Life</em> made all major bestseller lists in hardcover and paperback, including the <em>New York Times</em>, <em>USA Today</em>, <em>Business Week</em>, <em>Publishers Weekly</em>, and <em>Washington Post</em>]]>
+  </description>
+<authors>
+    <author>
+    <id>44528</id>
+        <name><![CDATA[Joe Dominguez]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/44528.Joe_Dominguez]]></link>
+    <average_rating>4.03</average_rating>
+    <ratings_count>1181</ratings_count>
+    <text_reviews_count>282</text_reviews_count>
+  </author>
+  </authors>  <published>1992</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jun 19 11:06:06 -0700 2010</date_added>
+  <date_updated>Sat Jun 19 11:06:06 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/107804211]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/107804211]]></link>
+</review>
+
+    <review>
+  <id>108299739</id>
+        <book>
+  <id type="integer">385</id>
+  <isbn>0691122946</isbn>
+  <isbn13>9780691122946</isbn13>
+  <publication_day type="integer">10</publication_day>
+  <publication_month type="integer">1</publication_month>
+  <publication_year type="integer">2005</publication_year>
+  <publisher>Princeton University Press</publisher>
+  <text_reviews_count type="integer">244</text_reviews_count>
+  <title>
+    <![CDATA[On Bullshit]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1156913179m/385.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1156913179s/385.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/385.On_Bullshit</link>
+  <num_pages>68</num_pages>
+  <average_rating>3.30</average_rating>
+  <ratings_count>1766</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>219</id>
+        <name><![CDATA[Harry G. Frankfurt]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1210214477p5/219.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1210214477p2/219.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/219.Harry_G_Frankfurt]]></link>
+    <average_rating>3.34</average_rating>
+    <ratings_count>2078</ratings_count>
+    <text_reviews_count>296</text_reviews_count>
+  </author>
+  </authors>  <published>2005</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 22 17:48:11 -0700 2010</date_added>
+  <date_updated>Tue Dec 14 12:39:23 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/108299739]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/108299739]]></link>
+</review>
+
+    <review>
+  <id>111464874</id>
+        <book>
+  <id type="integer">2780549</id>
+  <isbn>0195092899</isbn>
+  <isbn13>9780195092899</isbn13>
+  <publication_day type="integer">31</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">1996</publication_year>
+  <publisher>Oxford University Press, USA</publisher>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>
+    <![CDATA[Buzz: The Science and Lore of Alcohol and Caffeine]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1267264322m/2780549.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1267264322s/2780549.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2780549-buzz</link>
+  <num_pages>224</num_pages>
+  <average_rating>3.53</average_rating>
+  <ratings_count>43</ratings_count>
+  <description>
+    <![CDATA[<p>Alcohol and caffeine are deeply woven into the fabric of life for most of the world's population, as close and as comfortable as a cup of coffee or a can of beer. Yet for most people they remain as mysterious and unpredictable as the spirits they were once thought to be. Now, in <strong>Buzz</strong>, Stephen Braun takes us on a myth-shattering tour of these two popular substances, one that blends fascinating science with colorful lore, and that includes cameo appearances by Shakespeare and Balzac, Buddhist monks and Arabian goat herders, even Mikhail Gorbachev and David Letterman (who once quipped, &quot;If it weren't for the coffee, I'd have no identifiable personality whatsoever&quot;).<br/>Much of what Braun reveals directly contradicts conventional wisdom about alcohol and caffeine. Braun shows, for instance, that alcohol is not simply a depressant as popularly believed, but is instead &quot;a pharmacy in a bottle&quot;&#151;mimicking the action of drugs such as cocaine, amphetamine, valium, and opium. At low doses, it increases electrical activity in the same brain systems affected by stimulants, influences the same circuits targeted by valium, and causes the release of morphine-like compounds known as endorphins&#151;all at the same time. This explains why alcohol can produce a range of reactions, from boisterous euphoria to dark, brooding hopelessness. Braun also shatters the myth that alcohol kills brain cells, reveals why wood alcohol or methanol causes blindness, and explains the biological reason behind the one-drink-per-hour sobriety rule (that's how long it takes the liver, working full tilt, to disable the 200 quintillion ethanol molecules found in a typical drink). The author then turns to caffeine and shows it to be no less remarkable. We discover that more than 100 plant species produce caffeine molecules in their seeds, leaves, or bark, a truly amazing distribution throughout nature (nicotine, in comparison, is found only in tobacco; opium only in the poppy). It's not surprising then that caffeine is far and away the most widely used mind altering substance on the planet, found in tea, coffee, cocoa, chocolate, soft drinks, and more than 2,000 non-prescription drugs. (Tea is the most popular drink on earth, with coffee a close second.) Braun also explores the role of caffeine in creativity&#58; Johann Sebastian Bach, for one, loved coffee so much he wrote a Coffee Cantata (as Braun notes, no music captures the caffeinated experience better than one of Bachs frenetic fugues), Balzac would work for 12 hours non-stop, drinking coffee all the while, and Kant, Rousseau, and Voltaire all loved coffee. And throughout the book, Braun takes us on many engaging factual sidetrips&#151;we learn, for instance, that Theodore Roosevelt coined the phrase &quot;Good to the last drop&quot; used by Maxwell House ever since; that distances between Tibetan villages are sometimes reckoned by the number of cups of tea needed to sustain a person (three cups being roughly 8 kilometers); and that John Pemberton's original recipe for Coca-Cola included not only kola extract, but also cocaine.<br/> Whether you are a sophisticated consumer of cabernet sauvignon and Kenya AA or just someone who needs a cup of joe in the morning and a cold one after work, you will find <strong>Buzz</strong> to be an eye-opening, informative, and often amusing look at two substances at once utterly familiar and deeply mysterious.</p>]]>
+  </description>
+<authors>
+    <author>
+    <id>515754</id>
+        <name><![CDATA[Stephen Braun]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/515754.Stephen_Braun]]></link>
+    <average_rating>3.55</average_rating>
+    <ratings_count>157</ratings_count>
+    <text_reviews_count>42</text_reviews_count>
+  </author>
+  </authors>  <published>1996</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+        <shelf name="wishlist" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 13 13:57:13 -0700 2010</date_added>
+  <date_updated>Tue Jun 07 19:05:31 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/111464874]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/111464874]]></link>
+</review>
+
+    <review>
+  <id>91829956</id>
+        <book>
+  <id type="integer">1842</id>
+  <isbn>0739467352</isbn>
+  <isbn13>9780739467350</isbn13>
+  <publication_day type="integer">30</publication_day>
+  <publication_month type="integer">6</publication_month>
+  <publication_year type="integer">2005</publication_year>
+  <publisher>W.W. Norton and Company</publisher>
+  <text_reviews_count type="integer">2849</text_reviews_count>
+  <title>
+    <![CDATA[Guns, Germs, and Steel]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1158959888m/1842.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1158959888s/1842.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel</link>
+  <num_pages>494</num_pages>
+  <average_rating>3.94</average_rating>
+  <ratings_count>26981</ratings_count>
+  <description>
+    <![CDATA[Life isn't fair--here's why: Since 1500, Europeans have, for better &amp; worse, called the tune that the world has danced to. In <em>Guns, Germs &amp; Steel,</em> Jared Diamond explains the  reasons why things worked out that way. It's an elemental question. Diamond is certainly not the 1st to ask it. However, he performs a singular service by relying on scientific fact rather than specious theories of European genetic superiority. Diamond, a UCLA physiologist,  suggests that the geography of Eurasia was best suited to farming, the domestication of animals &amp; the free flow of information. The more populous cultures that developed as a result had more complex forms of government &amp; communication, &amp; increased resistance to disease. Finally, fragmented Europe harnessed the power of competitive innovation in ways that China didn't. (For example, the Europeans used the Chinese invention of gunpowder to create guns &amp; subjugate the New World.) Diamond's book is complex &amp; a bit overwhelming. But the thesis he methodically puts forth--examining the &quot;positive feedback loop&quot; of farming, then  domestication, then population density, then innovation etc.--makes sense. Written  without bias, <em>Guns, Germs &amp; Steel</em> is good global history.]]>
+  </description>
+<authors>
+    <author>
+    <id>256</id>
+        <name><![CDATA[Jared Diamond]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1205143138p5/256.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1205143138p2/256.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/256.Jared_Diamond]]></link>
+    <average_rating>3.92</average_rating>
+    <ratings_count>38724</ratings_count>
+    <text_reviews_count>4966</text_reviews_count>
+  </author>
+  </authors>  <published>1997</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at>Sun Jun 06 15:40:42 -0700 2010</started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 28 12:33:44 -0800 2010</date_added>
+  <date_updated>Mon Jan 17 16:53:49 -0800 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/91829956]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/91829956]]></link>
+</review>
+
+    <review>
+  <id>146415885</id>
+        <book>
+  <id type="integer">6422238</id>
+  <isbn>0765312794</isbn>
+  <isbn13>9780765312792</isbn13>
+  <publication_day type="integer">27</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">2009</publication_year>
+  <publisher>Tor Books</publisher>
+  <text_reviews_count type="integer">219</text_reviews_count>
+  <title>
+    <![CDATA[Makers]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1266690436m/6422238.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1266690436s/6422238.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6422238-makers</link>
+  <num_pages>416</num_pages>
+  <average_rating>3.58</average_rating>
+  <ratings_count>992</ratings_count>
+  <description>
+    <![CDATA[<p>From the <em>New York Times </em>bestselling author of <em>Little Brother</em>, a major novel of the booms, busts, and further booms in store for America</p><p>Perry and Lester invent things—seashell robots that make toast, Boogie Woogie Elmo dolls that drive cars. They also invent entirely new economic systems, like the “New Work,” a New Deal for the technological era. Barefoot bankers cross the nation, microinvesting in high-tech communal mini-startups like Perry and Lester’s. Together, they transform the country, and Andrea Fleeks, a journo-turned-blogger, is there to document it. </p><p>Then it slides into collapse. The New Work bust puts the dot.combomb to shame. Perry and Lester build a network of interactive rides in abandoned Wal-Marts across the land. As their rides, which commemorate the New Work’s glory days, gain in popularity, a rogue Disney executive grows jealous, and convinces the police that Perry and Lester’s 3D printers are being used to run off AK-47s. </p><p>Hordes of goths descend on the shantytown built by the New Workers, joining the cult. Lawsuits multiply as venture capitalists take on a new investment strategy: backing litigation against companies like Disney. Lester and Perry’s friendship falls to pieces when Lester gets the ‘fatkins’ treatment, turning him into a sybaritic gigolo.</p><p>Then things get really interesting.</p>]]>
+  </description>
+<authors>
+    <author>
+    <id>12581</id>
+        <name><![CDATA[Cory Doctorow]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1212526024p5/12581.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1212526024p2/12581.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/12581.Cory_Doctorow]]></link>
+    <average_rating>3.79</average_rating>
+    <ratings_count>17912</ratings_count>
+    <text_reviews_count>3927</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 06 19:25:16 -0800 2011</date_added>
+  <date_updated>Sun Feb 06 19:25:16 -0800 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/146415885]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/146415885]]></link>
+</review>
+
+    <review>
+  <id>146416079</id>
+        <book>
+  <id type="integer">5776788</id>
+  <isbn>0061714305</isbn>
+  <isbn13>9780061714306</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">8</publication_month>
+  <publication_year type="integer">2009</publication_year>
+  <publisher>Eos</publisher>
+  <text_reviews_count type="integer">443</text_reviews_count>
+  <title>
+    <![CDATA[Sandman Slim (Sandman Slim, #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1267832873m/5776788.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1267832873s/5776788.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/5776788-sandman-slim</link>
+  <num_pages>388</num_pages>
+  <average_rating>3.88</average_rating>
+  <ratings_count>1762</ratings_count>
+  <description>
+    <![CDATA[<p>James Stark's great rep got him sent to hell.  When his fame as a teenage magician attracted the attention of demons, they snatched him up and dispatched him to the inferno, where he spent the next 11 years as a sideshow freak entertaining Satan's minions.  Now released and hell-bent for revenge, Stark loses no time seeking out the dark magic cabal that nearly destroyed him; but he soon discovers that in the war between heaven and hell, he is not the only one with big plans.<br/><br/><em>Sandman Slim</em> elicited raves from fellow cult figure William Gibson; &quot;A wild, weird, nail-biting supernatural thriller in the bestselling tradition of Chris Moore, Kim Harrison, and Warren Ellis. This man is mad, in the best way.&quot;<br/><br/><em>From Publishers Weekly</em><br/>Kadrey provides biting humor, an over-the-top antihero and a rich stew of metaphoric language in this testosterone- and adrenaline-charged noir thriller. James Stark spent 11 years killing monsters in Lucifer's arena for the entertainment of fallen angels, but now he's back in seedy, magic-riddled L.A., trying to avenge his girlfriend's murder and hunt down Mason Faim, the black magician responsible for getting him sent downtown. He meets with some initial success, beheading second-rate magician Kasabian (whose head becomes Stark's smart-mouthed sidekick), but he can't find Faim. Instead he encounters Homeland Security agents, a near-psychotic angel and some odd nonhuman, nonangelic beings called the kissi. Darkly atmospheric settings, such as a posh gentlemen's club where angels are tortured in an attempt to bring about Armageddon, bring this violent fantasy into sharp, compelling focus. (Aug.)<br/>Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.</p>]]>
+  </description>
+<authors>
+    <author>
+    <id>37557</id>
+        <name><![CDATA[Richard Kadrey]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1252945001p5/37557.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1252945001p2/37557.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/37557.Richard_Kadrey]]></link>
+    <average_rating>3.89</average_rating>
+    <ratings_count>2895</ratings_count>
+    <text_reviews_count>736</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 06 19:25:55 -0800 2011</date_added>
+  <date_updated>Sun Feb 06 19:25:55 -0800 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/146416079]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/146416079]]></link>
+</review>
+
+    <review>
+  <id>146416136</id>
+        <book>
+  <id type="integer">9665017</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <publication_day type="integer">4</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">2010</publication_year>
+  <publisher>Faber &amp; Faber</publisher>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <title>
+    <![CDATA[Bad Science: Quacks, Hacks, and Big Pharma Flacks]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/9665017-bad-science</link>
+  <num_pages>304</num_pages>
+  <average_rating>4.13</average_rating>
+  <ratings_count>1215</ratings_count>
+  <description>
+    <![CDATA[&lt;DIV&gt;&lt;DIV&gt;<p>Have you ever wondered how one day the media can assert that alcohol is bad for us and the next unashamedly run a story touting the benefits of daily alcohol consumption? Or how a drug that is pulled off the market for causing heart attacks ever got approved in the first place? How can average readers, who aren’t medical doctors or Ph.D.s in biochemistry, tell what they should be paying attention to and what’s, well, just more bullshit? </p>&lt;DIV&gt;<p></p>Ben Goldacre has made a point of exposing quack doctors and nutritionists, bogus credentialing programs, and biased scientific studies. He has also taken the media to task for its willingness to throw facts and proof out the window. But he’s not here just to tell you what’s wrong. Goldacre is here to teach you how to evaluate placebo effects, double-blind studies, and sample sizes, so that you can recognize bad science when you see it. You’re about to feel a whole lot better.&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;]]>
+  </description>
+<authors>
+    <author>
+    <id>1387272</id>
+        <name><![CDATA[Ben Goldacre]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1285983498p5/1387272.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1285983498p2/1387272.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1387272.Ben_Goldacre]]></link>
+    <average_rating>4.13</average_rating>
+    <ratings_count>1219</ratings_count>
+    <text_reviews_count>284</text_reviews_count>
+  </author>
+  </authors>  <published>2008</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 06 19:26:14 -0800 2011</date_added>
+  <date_updated>Wed Mar 16 17:49:37 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/146416136]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/146416136]]></link>
+</review>
+
+    <review>
+  <id>146416202</id>
+        <book>
+  <id type="integer">7985893</id>
+  <isbn>0596805888</isbn>
+  <isbn13>9780596805883</isbn13>
+  <publication_day type="integer">15</publication_day>
+  <publication_month type="integer">6</publication_month>
+  <publication_year type="integer">2010</publication_year>
+  <publisher>O'Reilly Media</publisher>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <title>
+    <![CDATA[Cooking for Geeks: Real Science, Great Hacks, and Good Food]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/7985893-cooking-for-geeks</link>
+  <num_pages>432</num_pages>
+  <average_rating>4.16</average_rating>
+  <ratings_count>134</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>275310</id>
+        <name><![CDATA[Jeff Potter]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1289524556p5/275310.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1289524556p2/275310.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/275310.Jeff_Potter]]></link>
+    <average_rating>4.16</average_rating>
+    <ratings_count>134</ratings_count>
+    <text_reviews_count>46</text_reviews_count>
+  </author>
+  </authors>  <published>2010</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 06 19:26:32 -0800 2011</date_added>
+  <date_updated>Sun Feb 06 19:26:32 -0800 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/146416202]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/146416202]]></link>
+</review>
+
+    <review>
+  <id>146416356</id>
+        <book>
+  <id type="integer">9515290</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <publication_day type="integer">4</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">2010</publication_year>
+  <publisher>Scott &amp; Nix, Inc.</publisher>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>
+    <![CDATA[Brain Cuttings]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/9515290-brain-cuttings</link>
+  <num_pages></num_pages>
+  <average_rating>3.82</average_rating>
+  <ratings_count>11</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>12815</id>
+        <name><![CDATA[Carl Zimmer]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1204924342p5/12815.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1204924342p2/12815.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/12815.Carl_Zimmer]]></link>
+    <average_rating>4.10</average_rating>
+    <ratings_count>1178</ratings_count>
+    <text_reviews_count>241</text_reviews_count>
+  </author>
+  </authors>  <published>2010</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 06 19:27:21 -0800 2011</date_added>
+  <date_updated>Sun Feb 06 19:27:21 -0800 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/146416356]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/146416356]]></link>
+</review>
+
+    <review>
+  <id>157682625</id>
+        <book>
+  <id type="integer">6772566</id>
+  <isbn>1933633840</isbn>
+  <isbn13>9781933633848</isbn13>
+  <publication_day type="integer">16</publication_day>
+  <publication_month type="integer">2</publication_month>
+  <publication_year type="integer">2010</publication_year>
+  <publisher>Melville House</publisher>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <title>
+    <![CDATA[The Hollywood Economist: The Hidden Financial Reality Behind the Movies]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1276254139m/6772566.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1276254139s/6772566.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6772566-the-hollywood-economist</link>
+  <num_pages>240</num_pages>
+  <average_rating>3.48</average_rating>
+  <ratings_count>71</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>21405</id>
+        <name><![CDATA[Edward Jay Epstein]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/21405.Edward_Jay_Epstein]]></link>
+    <average_rating>3.46</average_rating>
+    <ratings_count>181</ratings_count>
+    <text_reviews_count>38</text_reviews_count>
+  </author>
+  </authors>  <published>2010</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 30 06:57:04 -0700 2011</date_added>
+  <date_updated>Wed Mar 30 06:57:04 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/157682625]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/157682625]]></link>
+</review>
+
+    <review>
+  <id>158422813</id>
+        <book>
+  <id type="integer">2767052</id>
+  <isbn>0439023483</isbn>
+  <isbn13>9780439023481</isbn13>
+  <publication_day type="integer">14</publication_day>
+  <publication_month type="integer">9</publication_month>
+  <publication_year type="integer">2008</publication_year>
+  <publisher>Scholastic, Inc.</publisher>
+  <text_reviews_count type="integer">39088</text_reviews_count>
+  <title>
+    <![CDATA[The Hunger Games (The Hunger Games, #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1293504845m/2767052.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1293504845s/2767052.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2767052-the-hunger-games</link>
+  <num_pages>374</num_pages>
+  <average_rating>4.54</average_rating>
+  <ratings_count>185677</ratings_count>
+  <description>
+    <![CDATA[In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts.  The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.<br/><br/>Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she steps forward to take her sister's place in the Games.  But Katniss has been close to dead before—and survival, for her, is second nature.  Without really meaning to, she becomes a contender.  But if she is to win, she will have to start making choices that will weigh survival against humanity and life against love.]]>
+  </description>
+<authors>
+    <author>
+    <id>153394</id>
+        <name><![CDATA[Suzanne Collins]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1285984570p5/153394.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1285984570p2/153394.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+    <average_rating>4.36</average_rating>
+    <ratings_count>475573</ratings_count>
+    <text_reviews_count>95324</text_reviews_count>
+  </author>
+  </authors>  <published>2008</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Apr 02 19:25:11 -0700 2011</date_added>
+  <date_updated>Sat Apr 02 19:25:11 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/158422813]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/158422813]]></link>
+</review>
+
+    <review>
+  <id>167712046</id>
+        <book>
+  <id type="integer">838491</id>
+  <isbn>0596510519</isbn>
+  <isbn13>9780596510510</isbn13>
+  <publication_day type="integer">28</publication_day>
+  <publication_month type="integer">9</publication_month>
+  <publication_year type="integer">2007</publication_year>
+  <publisher>Make Books</publisher>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>
+    <![CDATA[Making Things Talk: Practical Methods for Connecting Physical Objects]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1266656103m/838491.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1266656103s/838491.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/838491.Making_Things_Talk</link>
+  <num_pages>352</num_pages>
+  <average_rating>3.94</average_rating>
+  <ratings_count>47</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>233582</id>
+        <name><![CDATA[Tom Igoe]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/233582.Tom_Igoe]]></link>
+    <average_rating>4.01</average_rating>
+    <ratings_count>84</ratings_count>
+    <text_reviews_count>7</text_reviews_count>
+  </author>
+  </authors>  <published>2007</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu May 12 11:53:07 -0700 2011</date_added>
+  <date_updated>Thu May 12 11:53:07 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/167712046]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/167712046]]></link>
+</review>
+
+    <review>
+  <id>167713232</id>
+        <book>
+  <id type="integer">413213</id>
+  <isbn>159200346X</isbn>
+  <isbn13>9781592003464</isbn13>
+  <publication_day type="integer">28</publication_day>
+  <publication_month type="integer">5</publication_month>
+  <publication_year type="integer">2004</publication_year>
+  <publisher>Course Technology PTR</publisher>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>
+    <![CDATA[Physical Computing: Sensing and Controlling the Physical World with Computers]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1174520739m/413213.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1174520739s/413213.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/413213.Physical_Computing</link>
+  <num_pages>496</num_pages>
+  <average_rating>4.09</average_rating>
+  <ratings_count>35</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>233582</id>
+        <name><![CDATA[Tom Igoe]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/233582.Tom_Igoe]]></link>
+    <average_rating>4.01</average_rating>
+    <ratings_count>84</ratings_count>
+    <text_reviews_count>7</text_reviews_count>
+  </author>
+  </authors>  <published>2004</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu May 12 11:58:16 -0700 2011</date_added>
+  <date_updated>Thu May 12 11:58:16 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/167713232]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/167713232]]></link>
+</review>
+
+    <review>
+  <id>168177404</id>
+        <book>
+  <id type="integer">7950231</id>
+  <isbn>0670021814</isbn>
+  <isbn13>9780670021819</isbn13>
+  <publication_day type="integer">29</publication_day>
+  <publication_month type="integer">4</publication_month>
+  <publication_year type="integer">2010</publication_year>
+  <publisher>Viking Adult</publisher>
+  <text_reviews_count type="integer">33</text_reviews_count>
+  <title>
+    <![CDATA[Steak: One Man's Search for the World's Tastiest Piece of Beef]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1276301449m/7950231.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1276301449s/7950231.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/7950231-steak</link>
+  <num_pages>304</num_pages>
+  <average_rating>3.62</average_rating>
+  <ratings_count>66</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>3452291</id>
+        <name><![CDATA[Mark Schatzker]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/3452291.Mark_Schatzker]]></link>
+    <average_rating>3.62</average_rating>
+    <ratings_count>66</ratings_count>
+    <text_reviews_count>36</text_reviews_count>
+  </author>
+  </authors>  <published>2010</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 14 10:53:40 -0700 2011</date_added>
+  <date_updated>Sat May 14 10:53:40 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/168177404]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/168177404]]></link>
+</review>
+
+    <review>
+  <id>168637585</id>
+        <book>
+  <id type="integer">9647532</id>
+  <isbn>0765328542</isbn>
+  <isbn13>9780765328540</isbn13>
+  <publication_day type="integer">10</publication_day>
+  <publication_month type="integer">5</publication_month>
+  <publication_year type="integer">2011</publication_year>
+  <publisher>Tor Books</publisher>
+  <text_reviews_count type="integer">167</text_reviews_count>
+  <title>
+    <![CDATA[Fuzzy Nation]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1303141796m/9647532.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1303141796s/9647532.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/9647532-fuzzy-nation</link>
+  <num_pages>301</num_pages>
+  <average_rating>4.12</average_rating>
+  <ratings_count>420</ratings_count>
+  <description>
+    <![CDATA[<p>It's a classic case of good news, bad news. Independent contractor Jack Holloway helps cause a cliff collapse, which gets him fired from his partnership; but the accident reveals a vein of valuable jewels, which gets him rehired and promises to make him rich. Of course, there's a catch&#58; To maintain the claim on his newfound wealth, the partners must be able to certify that the planet is not inhabited by any sentient beings&#151;and that, of course, is the cue for the small, lovable, furry little creatures to appear. A superbly plotted spin across the fantasy floor by the author of Old Man's War.</p>]]>
+  </description>
+<authors>
+    <author>
+    <id>4763</id>
+        <name><![CDATA[John Scalzi]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1236228326p5/4763.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1236228326p2/4763.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/4763.John_Scalzi]]></link>
+    <average_rating>3.96</average_rating>
+    <ratings_count>19031</ratings_count>
+    <text_reviews_count>2896</text_reviews_count>
+  </author>
+  </authors>  <published>2011</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon May 16 08:27:10 -0700 2011</date_added>
+  <date_updated>Mon May 16 08:27:10 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/168637585]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/168637585]]></link>
+</review>
+
+    <review>
+  <id>168778815</id>
+        <book>
+  <id type="integer">100467</id>
+  <isbn>1591841496</isbn>
+  <isbn13>9781591841494</isbn13>
+  <publication_day type="integer">27</publication_day>
+  <publication_month type="integer">3</publication_month>
+  <publication_year type="integer">2007</publication_year>
+  <publisher>Portfolio Trade</publisher>
+  <text_reviews_count type="integer">40</text_reviews_count>
+  <title>
+    <![CDATA[Small Giants: Companies That Choose to Be Great Instead of Big]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1171467695m/100467.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1171467695s/100467.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/100467.Small_Giants</link>
+  <num_pages>268</num_pages>
+  <average_rating>3.85</average_rating>
+  <ratings_count>217</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>58003</id>
+        <name><![CDATA[Bo Burlingham]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/58003.Bo_Burlingham]]></link>
+    <average_rating>3.88</average_rating>
+    <ratings_count>369</ratings_count>
+    <text_reviews_count>85</text_reviews_count>
+  </author>
+  </authors>  <published>2005</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon May 16 18:22:40 -0700 2011</date_added>
+  <date_updated>Mon May 16 18:22:40 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/168778815]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/168778815]]></link>
+</review>
+
+    <review>
+  <id>171875071</id>
+        <book>
+  <id type="integer">34484</id>
+  <isbn>0552152978</isbn>
+  <isbn13>9780552152976</isbn13>
+  <publication_day type="integer">6</publication_day>
+  <publication_month type="integer">9</publication_month>
+  <publication_year type="integer">2005</publication_year>
+  <publisher>Corgi</publisher>
+  <text_reviews_count type="integer">295</text_reviews_count>
+  <title>
+    <![CDATA[Small Gods (Discworld, #13)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1168566135m/34484.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1168566135s/34484.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/34484.Small_Gods</link>
+  <num_pages>389</num_pages>
+  <average_rating>4.13</average_rating>
+  <ratings_count>11994</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>1654</id>
+        <name><![CDATA[Terry Pratchett]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1235562205p5/1654.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1235562205p2/1654.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+    <average_rating>4.01</average_rating>
+    <ratings_count>442397</ratings_count>
+    <text_reviews_count>20188</text_reviews_count>
+  </author>
+  </authors>  <published>1992</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 28 20:03:19 -0700 2011</date_added>
+  <date_updated>Sat May 28 20:03:19 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/171875071]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/171875071]]></link>
+</review>
+
+    <review>
+  <id>179823388</id>
+        <book>
+  <id type="integer">8855321</id>
+  <isbn>1841499889</isbn>
+  <isbn13>9781841499888</isbn13>
+  <publication_day type="integer">2</publication_day>
+  <publication_month type="integer">6</publication_month>
+  <publication_year type="integer">2011</publication_year>
+  <publisher>Orbit</publisher>
+  <text_reviews_count type="integer">38</text_reviews_count>
+  <title>
+    <![CDATA[Leviathan Wakes (Expanse #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1289046195m/8855321.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1289046195s/8855321.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/8855321-leviathan-wakes</link>
+  <num_pages>561</num_pages>
+  <average_rating>4.17</average_rating>
+  <ratings_count>127</ratings_count>
+  <description>
+    <![CDATA[Welcome to the future. Humanity has colonized the solar system – Mars, the Moon, the Asteroid Belt and beyond – but the stars are still out of our reach.<br/><br/>Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, The Scopuli, they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for – and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why.<br/><br/>Detective Miller is looking for a girl. One girl in a system of billions, but her parents have money and money talks. When the trail leads him to The Scopuli and rebel sympathizer, Holden, he realizes that this girl may be the key to everything.<br/><br/>Holden and Miller must thread the needle between the Earth government, the Outer Planet revolutionaries, and secretive corporations – and the odds are against them. But out in the Belt, the rules are different, and one small ship can change the fate of the universe.]]>
+  </description>
+<authors>
+    <author>
+    <id>4192148</id>
+        <name><![CDATA[James S.A. Corey]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/4192148.James_S_A_Corey]]></link>
+    <average_rating>4.17</average_rating>
+    <ratings_count>126</ratings_count>
+    <text_reviews_count>53</text_reviews_count>
+  </author>
+  </authors>  <published>2011</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jun 26 13:34:05 -0700 2011</date_added>
+  <date_updated>Sun Jun 26 13:34:05 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/179823388]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/179823388]]></link>
+</review>
+
+    <review>
+  <id>180035724</id>
+        <book>
+  <id type="integer">6470498</id>
+  <isbn nil="true"></isbn>
+  <isbn13>9781596062801</isbn13>
+  <publication_day type="integer" nil="true"></publication_day>
+  <publication_month type="integer">12</publication_month>
+  <publication_year type="integer">2009</publication_year>
+  <publisher>Subterranean Press</publisher>
+  <text_reviews_count type="integer">117</text_reviews_count>
+  <title>
+    <![CDATA[The God Engines]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1255398826m/6470498.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1255398826s/6470498.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6470498-the-god-engines</link>
+  <num_pages>136</num_pages>
+  <average_rating>3.55</average_rating>
+  <ratings_count>488</ratings_count>
+  <description>
+    <![CDATA[Captain Ean Tephe is a man of faith, whose allegiance to his lord and to his ship is uncontested. The Bishopry Militant knows this&#8212;and so, when it needs a ship and crew to undertake a secret, sacred mission to a hidden land, Tephe is the captain to whom the task is given.<br/><br/>Tephe knows from that the start that his mission will be a test of his skill as a leader of men and as a devout follower of his god. It s what he doesn t know that matters: to what ends his faith and his ship will ultimately be put&#8212;and that the tests he will face will come not only from his god and the Bishopry Militant, but from another, more malevolent source entirely...]]>
+  </description>
+<authors>
+    <author>
+    <id>4763</id>
+        <name><![CDATA[John Scalzi]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1236228326p5/4763.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1236228326p2/4763.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/4763.John_Scalzi]]></link>
+    <average_rating>3.96</average_rating>
+    <ratings_count>19031</ratings_count>
+    <text_reviews_count>2896</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 27 09:27:37 -0700 2011</date_added>
+  <date_updated>Mon Jun 27 09:27:37 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/180035724]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/180035724]]></link>
+</review>
+
+    <review>
+  <id>180171257</id>
+        <book>
+  <id type="integer">9434537</id>
+  <isbn>0937381969</isbn>
+  <isbn13>9780937381960</isbn13>
+  <publication_day type="integer">16</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">2010</publication_year>
+  <publisher>Brewers Publications</publisher>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>
+    <![CDATA[Yeast: The Practical Guide to Beer Fermentation]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1288663010m/9434537.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1288663010s/9434537.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/9434537-yeast</link>
+  <num_pages>300</num_pages>
+  <average_rating>3.69</average_rating>
+  <ratings_count>13</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>220966</id>
+        <name><![CDATA[Chris White]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/220966.Chris_White]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>50</ratings_count>
+    <text_reviews_count>21</text_reviews_count>
+  </author>
+  </authors>  <published>2010</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 27 18:27:54 -0700 2011</date_added>
+  <date_updated>Mon Jun 27 18:27:54 -0700 2011</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/180171257]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/180171257]]></link>
+</review>
+
+  </reviews>
+
+</GoodreadsResponse>
