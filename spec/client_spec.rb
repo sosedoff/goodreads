@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'oauth'
 
 describe 'Client' do
   before :each do
@@ -166,5 +167,16 @@ describe 'Client' do
     @shelf.end.should == 0
     @shelf.total.should == 0
     @shelf.books.length.should == 0
+  end
+
+  it "should return the user id of the user who authorized OAuth" do
+    stub_request(:get, "http://www.goodreads.com/api/auth_user")
+      .to_return(:status => 200, :body => fixture('oauth_response.xml'), :headers => {})
+
+    consumer = OAuth::Consumer.new('API_KEY', 'SECRET_KEY', :site => 'http://www.goodreads.com')
+    oauth_token = OAuth::AccessToken.new(consumer, 'ACCESS_TOKEN', 'ACCESS_SECRET')
+
+    @client = Goodreads::Client.new(:api_key => 'SECRET_KEY', :oauth_token => oauth_token)
+    @client.user_id.should == '2003928'
   end
 end
