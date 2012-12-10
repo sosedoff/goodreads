@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[api_auth_user]]></method>
+</Request>
+  <user id="2003928">
+    <name>Thomas Mayfield</name>
+    <link><![CDATA[http://www.goodreads.com/user/show/2003928-thomas?utm_medium=api]]></link>
+  </user>
+</GoodreadsResponse>
