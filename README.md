@@ -106,6 +106,29 @@ review.book       # => Book information
 review.rating     # => User rating
 ```
 
+### Shelves
+
+Get the books on a user's shelf:
+
+```ruby
+shelf = client.shelf(user_id, shelf_name)
+shelf.books  # array of books on this shelf
+shelf.start  # start index of this page of paginated results
+shelf.end    # end index of this page of paginated results
+shelf.total  # total number of books on this shelf
+```
+
+### User Id
+
+Get the user id of the user who authorized via OAuth:
+
+```ruby
+client = Goodreads::Client.new(:api_key => 'YOUR_KEY', :oauth_token => token)
+client.user_id  # id of user who authorized via OAuth
+```
+
+`token` is an instance of `OAuth::AccessToken`. See the [Goodreads documentation](http://www.goodreads.com/api/oauth_example) for examples of how to correct create one.
+
 ## Contributions
 
 Feel free to contribute any patches or new features.
