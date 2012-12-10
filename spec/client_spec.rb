@@ -170,8 +170,8 @@ describe 'Client' do
   end
 
   it "should return the user id of the user who authorized OAuth" do
-    stub_request(:get, "http://www.goodreads.com/api/auth_user")
-      .to_return(:status => 200, :body => fixture('oauth_response.xml'), :headers => {})
+    stub_request(:get, "http://www.goodreads.com/api/auth_user").to_return(
+      :status => 200, :body => fixture('oauth_response.xml'), :headers => {})
 
     consumer = OAuth::Consumer.new('API_KEY', 'SECRET_KEY', :site => 'http://www.goodreads.com')
     oauth_token = OAuth::AccessToken.new(consumer, 'ACCESS_TOKEN', 'ACCESS_SECRET')
