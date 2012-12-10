@@ -34,10 +34,29 @@ module Goodreads
             raise Goodreads::NotFound
         end
       end
-      
-      hash = Hash.from_xml(resp)['GoodreadsResponse']
+
+      parse(resp)
+    end
+
+    def oauth_request(path, params=nil)
+      raise 'OAuth access token required!' unless @oauth_token
+      path = "#{path}?#{params.map{|k,v|"#{k}=#{v}"}.join('&')}" if params
+      resp = @oauth_token.get(path)
+      case resp
+      when Net::HTTPUnauthorized
+        raise Goodreads::Unauthorized
+      when Net::HTTPNotFound
+        raise Goodreads::NotFound
+      end
+
+      parse(resp)
+    end
+
+    def parse(resp)
+      hash = Hash.from_xml(resp.body)['GoodreadsResponse']
       hash.delete('Request')
       hash
     end
+
   end
 end

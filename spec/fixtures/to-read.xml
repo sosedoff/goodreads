@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1" end="20" total="40">
+    <review>
+  <id>45590939</id>
+        <book>
+  <id type="integer">17349</id>
+  <isbn>0345409469</isbn>
+  <isbn13>9780345409461</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">3</publication_month>
+  <publication_year type="integer">1997</publication_year>
+  <publisher>Ballantine Books</publisher>
+  <text_reviews_count type="integer">432</text_reviews_count>
+  <title>
+    <![CDATA[The Demon-Haunted World: Science as a Candle in the Dark]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1166806168m/17349.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1166806168s/17349.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/17349.The_Demon_Haunted_World</link>
+  <num_pages>480</num_pages>
+  <average_rating>4.33</average_rating>
+  <ratings_count>3959</ratings_count>
+  <description>
+    <![CDATA[Carl Sagan muses on the current state of scientific thought, which offers him  marvellous opportunities to entertain us with his own childhood experiences, the newspaper  morgues, UFO stories and the assorted flotsam and jetsam of pseudoscience. Along the way he  debunks alien abduction, faith-healing and channelling, refutes the arguments that science  destroys spirituality, and provides a &quot;baloney detection kit&quot; for thinking through  political, social, religious and other issues.]]>
+  </description>
+<authors>
+    <author>
+    <id>10538</id>
+        <name><![CDATA[Carl Sagan]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1208265594p5/10538.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1208265594p2/10538.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/10538.Carl_Sagan]]></link>
+    <average_rating>4.12</average_rating>
+    <ratings_count>25457</ratings_count>
+    <text_reviews_count>1987</text_reviews_count>
+  </author>
+  </authors>  <published>1995</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Feb 06 15:11:50 -0800 2009</date_added>
+  <date_updated>Tue Dec 14 12:37:07 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/45590939]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/45590939]]></link>
+</review>
+
+    <review>
+  <id>45590992</id>
+        <book>
+  <id type="integer">24807</id>
+  <isbn>1594482225</isbn>
+  <isbn13>9781594482229</isbn13>
+  <publication_day type="integer">24</publication_day>
+  <publication_month type="integer">8</publication_month>
+  <publication_year type="integer">2006</publication_year>
+  <publisher>Riverhead Trade</publisher>
+  <text_reviews_count type="integer">531</text_reviews_count>
+  <title>
+    <![CDATA[The Areas of My Expertise]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1309200692m/24807.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1309200692s/24807.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/24807.The_Areas_of_My_Expertise</link>
+  <num_pages>256</num_pages>
+  <average_rating>3.84</average_rating>
+  <ratings_count>3423</ratings_count>
+  <description>
+    <![CDATA[Hot on the heels of the #1 bestsellers <em>The Onion's Our Dumb Century</em> and Jon Stewart's <em>America</em> comes <em>The Areas of My Expertise</em>, the brilliant and uproarious #15 bestseller (i.e., a runaway phenomenon in its own right-no, seriously)-a lavish compendium of handy reference tables, fascinating trivia, and sage wisdom-all of it completely unresearched, completely undocumented and (presumably) completely untrue, fabricated by the illuminating, prodigious imagination of John Hodgman, certifiable genius.]]>
+  </description>
+<authors>
+    <author>
+    <id>13982</id>
+        <name><![CDATA[John Hodgman]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1189092596p5/13982.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1189092596p2/13982.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/13982.John_Hodgman]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>5074</ratings_count>
+    <text_reviews_count>978</text_reviews_count>
+  </author>
+  </authors>  <published>2005</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+        <shelf name="wishlist" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Feb 06 15:12:27 -0800 2009</date_added>
+  <date_updated>Tue Dec 14 12:37:14 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/45590992]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/45590992]]></link>
+</review>
+
+    <review>
+  <id>45591023</id>
+        <book>
+  <id type="integer">17841</id>
+  <isbn>015603297X</isbn>
+  <isbn13>9780156032971</isbn13>
+  <publication_day type="integer">5</publication_day>
+  <publication_month type="integer">3</publication_month>
+  <publication_year type="integer">2007</publication_year>
+  <publisher>Harvest Books</publisher>
+  <text_reviews_count type="integer">788</text_reviews_count>
+  <title>
+    <![CDATA[Foucault's Pendulum]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1286865219m/17841.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1286865219s/17841.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/17841.Foucault_s_Pendulum</link>
+  <num_pages>623</num_pages>
+  <average_rating>3.82</average_rating>
+  <ratings_count>11312</ratings_count>
+  <description>
+    <![CDATA[<p>Bored with their work, three Milanese editors cook up &quot;the Plan,&quot; a hoax that connects the medieval Knights Templar with other occult groups from ancient to modern times. This produces a map indicating the geographical point from which all the powers of the earth can be controlled&#151;a point located in Paris, France, at Foucault&#8217;s Pendulum. But in a fateful turn the joke becomes all too real, and when occult groups, including Satanists, get wind of the Plan, they go so far as to kill one of the editors in their quest to gain control of the earth. <p>Orchestrating these and other diverse characters into his multilayered semiotic adventure, Eco has created a superb cerebral entertainment.<p>&#160;<p></p></p></p></p>]]>
+  </description>
+<authors>
+    <author>
+    <id>1730</id>
+        <name><![CDATA[Umberto Eco]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1217498277p5/1730.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1217498277p2/1730.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1730.Umberto_Eco]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>53359</ratings_count>
+    <text_reviews_count>4284</text_reviews_count>
+  </author>
+  </authors>  <published>1988</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Feb 06 15:12:47 -0800 2009</date_added>
+  <date_updated>Fri Mar 26 13:10:23 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/45591023]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/45591023]]></link>
+</review>
+
+    <review>
+  <id>48860816</id>
+        <book>
+  <id type="integer">25059</id>
+  <isbn>0553573306</isbn>
+  <isbn13>9780553573305</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">1996</publication_year>
+  <publisher>Spectra</publisher>
+  <text_reviews_count type="integer">29</text_reviews_count>
+  <title>
+    <![CDATA[Brightness Reef (Uplift Storm Trilogy, #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1223649282m/25059.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1223649282s/25059.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/25059.Brightness_Reef</link>
+  <num_pages>688</num_pages>
+  <average_rating>3.73</average_rating>
+  <ratings_count>1351</ratings_count>
+  <description>
+    <![CDATA[The vast civilization of Five Galaxies has roled out its security arsenal to prevent resettlement on Jijo until it is revitalized. Over the centuries, groups of sentient beings have eluded the laws and made Jijo a home--but what will happen when the Five Galaxies catch on? A strange ship in Jijo's skies may hold the answer. HC: Bantam.]]>
+  </description>
+<authors>
+    <author>
+    <id>14078</id>
+        <name><![CDATA[David Brin]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1190308062p5/14078.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1190308062p2/14078.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/14078.David_Brin]]></link>
+    <average_rating>3.76</average_rating>
+    <ratings_count>20208</ratings_count>
+    <text_reviews_count>1181</text_reviews_count>
+  </author>
+  </authors>  <published>1995</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Mar 10 18:01:27 -0700 2009</date_added>
+  <date_updated>Sat Mar 14 18:41:30 -0700 2009</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/48860816]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/48860816]]></link>
+</review>
+
+    <review>
+  <id>51127376</id>
+        <book>
+  <id type="integer">22322</id>
+  <isbn>0399154302</isbn>
+  <isbn13>9780399154300</isbn13>
+  <publication_day type="integer">7</publication_day>
+  <publication_month type="integer">8</publication_month>
+  <publication_year type="integer">2007</publication_year>
+  <publisher>Putnam Adult</publisher>
+  <text_reviews_count type="integer">803</text_reviews_count>
+  <title>
+    <![CDATA[Spook Country (Bigend, #2)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1186350896m/22322.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1186350896s/22322.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/22322.Spook_Country</link>
+  <num_pages>371</num_pages>
+  <average_rating>3.47</average_rating>
+  <ratings_count>4809</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>9226</id>
+        <name><![CDATA[William Gibson]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1282769227p5/9226.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1282769227p2/9226.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/9226.William_Gibson]]></link>
+    <average_rating>3.65</average_rating>
+    <ratings_count>107689</ratings_count>
+    <text_reviews_count>5191</text_reviews_count>
+  </author>
+  </authors>  <published>2007</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+        <shelf name="wishlist" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 01 06:02:21 -0700 2009</date_added>
+  <date_updated>Tue Dec 14 12:37:25 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/51127376]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/51127376]]></link>
+</review>
+
+    <review>
+  <id>73370082</id>
+        <book>
+  <id type="integer">374233</id>
+  <isbn>0156439611</isbn>
+  <isbn13>9780156439619</isbn13>
+  <publication_day type="integer">20</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">1982</publication_year>
+  <publisher>Harvest/Harcourt Brace Jovanovich (NY)</publisher>
+  <text_reviews_count type="integer">925</text_reviews_count>
+  <title>
+    <![CDATA[If on a Winter's Night a Traveler]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1175386803m/374233.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1175386803s/374233.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler</link>
+  <num_pages>260</num_pages>
+  <average_rating>4.10</average_rating>
+  <ratings_count>10856</ratings_count>
+  <description>
+    <![CDATA[This exhilarating interactive novel--in which the reader, lured into the text by the enticements of Italo Calvino's splendid intelligence, turns into the book's central character--was its author's triumphant response to the question of whether the art of fiction could survive the vast changes taking place in the communications technology of our world.]]>
+  </description>
+<authors>
+    <author>
+    <id>155517</id>
+        <name><![CDATA[Italo Calvino]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1181521461p5/155517.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1181521461p2/155517.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/155517.Italo_Calvino]]></link>
+    <average_rating>4.03</average_rating>
+    <ratings_count>38831</ratings_count>
+    <text_reviews_count>3474</text_reviews_count>
+  </author>
+  </authors>  <published>1979</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 03 21:01:01 -0700 2009</date_added>
+  <date_updated>Sat Oct 03 21:01:01 -0700 2009</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/73370082]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/73370082]]></link>
+</review>
+
+    <review>
+  <id>75474892</id>
+        <book>
+  <id type="integer">55399</id>
+  <isbn>0765348780</isbn>
+  <isbn13>9780765348784</isbn13>
+  <publication_day type="integer">10</publication_day>
+  <publication_month type="integer">1</publication_month>
+  <publication_year type="integer">2005</publication_year>
+  <publisher>Tor Fantasy</publisher>
+  <text_reviews_count type="integer">416</text_reviews_count>
+  <title>
+    <![CDATA[Gardens of the Moon (Malazan Book of the Fallen, #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1255890454m/55399.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1255890454s/55399.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/55399.Gardens_of_the_Moon</link>
+  <num_pages>666</num_pages>
+  <average_rating>3.91</average_rating>
+  <ratings_count>3846</ratings_count>
+  <description>
+    <![CDATA[The Malazan Empire simmers with discontent, bled dry by interminable warfare, bitter infighting and bloody confrontations. Even the imperial legions, long inured to the bloodshed, yearn for some respite. Yet Empress Laseen's rule remains absolute, enforced by her dread Claw assassins.<br/><br/>For Sergeant Whiskeyjack and his squad of Bridgeburners, and for Tattersail, surviving cadre mage of the Second Legion, the aftermath of the siege of Pale should have been a time to mourn the many dead. But Darujhistan, last of the Free Cities of Genabackis, yet holds out. It is to this ancient citadel that Laseen turns her predatory gaze.<br/><br/>However, it would appear that the Empire is not alone in this great game. Sinister, shadowbound forces are gathering as the gods themselves prepare to play their hand . . . <br/><br/>Conceived and written on a panoramic scale, Gardens of the Moon is epic fantasy of the highest order--an enthralling adventure by an outstanding new voice.<br/>]]>
+  </description>
+<authors>
+    <author>
+    <id>31232</id>
+        <name><![CDATA[Steven Erikson]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1219169436p5/31232.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1219169436p2/31232.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/31232.Steven_Erikson]]></link>
+    <average_rating>4.20</average_rating>
+    <ratings_count>18498</ratings_count>
+    <text_reviews_count>1589</text_reviews_count>
+  </author>
+  </authors>  <published>1999</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Oct 23 07:21:18 -0700 2009</date_added>
+  <date_updated>Fri Oct 23 07:21:18 -0700 2009</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/75474892]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/75474892]]></link>
+</review>
+
+    <review>
+  <id>90551747</id>
+        <book>
+  <id type="integer">1982220</id>
+  <isbn>0321501926</isbn>
+  <isbn13>9780321501929</isbn13>
+  <publication_day type="integer">26</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">2007</publication_year>
+  <publisher>Peachpit Press</publisher>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>
+    <![CDATA[Scott Kelby's 7-Point System for Adobe Photoshop CS3]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1255748134m/1982220.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1255748134s/1982220.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1982220.Scott_Kelby_s_7_Point_System_for_Adobe_Photoshop_CS3</link>
+  <num_pages>352</num_pages>
+  <average_rating>4.10</average_rating>
+  <ratings_count>63</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>53283</id>
+        <name><![CDATA[Scott Kelby]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1303989350p5/53283.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1303989350p2/53283.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/53283.Scott_Kelby]]></link>
+    <average_rating>4.15</average_rating>
+    <ratings_count>2192</ratings_count>
+    <text_reviews_count>393</text_reviews_count>
+  </author>
+  </authors>  <published>2005</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="photography" />
+        <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 20 10:09:56 -0800 2010</date_added>
+  <date_updated>Sat Feb 20 10:09:56 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/90551747]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/90551747]]></link>
+</review>
+
+    <review>
+  <id>90551839</id>
+        <book>
+  <id type="integer">782156</id>
+  <isbn>0072259213</isbn>
+  <isbn13>9780072259216</isbn13>
+  <publication_day type="integer">15</publication_day>
+  <publication_month type="integer">9</publication_month>
+  <publication_year type="integer">2005</publication_year>
+  <publisher>McGraw-Hill Osborne Media</publisher>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>
+    <![CDATA[Perfect Digital Photography]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1178298801m/782156.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1178298801s/782156.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/782156.Perfect_Digital_Photography</link>
+  <num_pages>480</num_pages>
+  <average_rating>3.30</average_rating>
+  <ratings_count>10</ratings_count>
+  <description>
+    <![CDATA[Written by photography experts--including a Pulitzer-Prize winning National Geographic photographer--this full-color book is a must-have for amateur photographers serious about improving both the quality of their photographs and their proficiency in the digital darkroom. The book is the perfect combination of a technical treatise on digital imaging and an artistic exploration of light, composition, and form, allowing you to glean the essential techniques needed for digital photography without losing sight of the artistic and aesthetic aspects of the craft. Using an easy-to-follow approach, the authors explain the image conceptualization process through shooting, editing, and image correction to finished print. In addition, top photographers from a variety of disciplines offer real-world advice on how they use digital photography to create compelling images for high-profile magazine articles, advertising campaigns, and fine art prints.]]>
+  </description>
+<authors>
+    <author>
+    <id>410953</id>
+        <name><![CDATA[Jay Dickman]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/410953.Jay_Dickman]]></link>
+    <average_rating>3.30</average_rating>
+    <ratings_count>10</ratings_count>
+    <text_reviews_count>2</text_reviews_count>
+  </author>
+  </authors>  <published>2005</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="photography" />
+        <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 20 10:10:38 -0800 2010</date_added>
+  <date_updated>Fri May 07 22:36:29 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/90551839]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/90551839]]></link>
+</review>
+
+    <review>
+  <id>90552018</id>
+        <book>
+  <id type="integer">149280</id>
+  <isbn>0817441816</isbn>
+  <isbn13>9780817441814</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">10</publication_month>
+  <publication_year type="integer">2003</publication_year>
+  <publisher>Amphoto Books</publisher>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <title>
+    <![CDATA[Learning to See Creatively: Design, Color & Composition in Photography]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1172201424m/149280.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1172201424s/149280.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/149280.Learning_to_See_Creatively</link>
+  <num_pages>160</num_pages>
+  <average_rating>4.04</average_rating>
+  <ratings_count>165</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>82078</id>
+        <name><![CDATA[Bryan Peterson]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/82078.Bryan_Peterson]]></link>
+    <average_rating>4.25</average_rating>
+    <ratings_count>1298</ratings_count>
+    <text_reviews_count>274</text_reviews_count>
+  </author>
+  </authors>  <published>1988</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="photography" />
+        <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 20 10:12:01 -0800 2010</date_added>
+  <date_updated>Sat Feb 20 10:12:01 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/90552018]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/90552018]]></link>
+</review>
+
+    <review>
+  <id>90862714</id>
+        <book>
+  <id type="integer">7155450</id>
+  <isbn>1846142857</isbn>
+  <isbn13>9781846142857</isbn13>
+  <publication_day type="integer">28</publication_day>
+  <publication_month type="integer">1</publication_month>
+  <publication_year type="integer">2010</publication_year>
+  <publisher>Allen Lane</publisher>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>
+    <![CDATA[Whoops!: Why Everyone Owes Everyone and No One Can Pay]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/7155450-whoops</link>
+  <num_pages>256</num_pages>
+  <average_rating>4.07</average_rating>
+  <ratings_count>252</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>33359</id>
+        <name><![CDATA[John Lanchester]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-M-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-M-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/33359.John_Lanchester]]></link>
+    <average_rating>3.68</average_rating>
+    <ratings_count>1085</ratings_count>
+    <text_reviews_count>255</text_reviews_count>
+  </author>
+  </authors>  <published>2010</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+        <shelf name="wishlist" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 22 08:12:38 -0800 2010</date_added>
+  <date_updated>Tue Dec 14 12:37:37 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/90862714]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/90862714]]></link>
+</review>
+
+    <review>
+  <id>91829926</id>
+        <book>
+  <id type="integer">3109</id>
+  <isbn>1594200823</isbn>
+  <isbn13>9781594200823</isbn13>
+  <publication_day type="integer">11</publication_day>
+  <publication_month type="integer">4</publication_month>
+  <publication_year type="integer">2006</publication_year>
+  <publisher>The Penguin Press HC</publisher>
+  <text_reviews_count type="integer">6591</text_reviews_count>
+  <title>
+    <![CDATA[The Omnivore's Dilemma: A Natural History of Four Meals]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1309200117m/3109.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1309200117s/3109.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma</link>
+  <num_pages>464</num_pages>
+  <average_rating>4.20</average_rating>
+  <ratings_count>38572</ratings_count>
+  <description>
+    <![CDATA[The bestselling author of <em>The Botany of Desire</em> explores the ecology of eating to unveil why we consume what we consume in the twenty-first century <br/><br/> &quot;What should we have for dinner?&quot; To one degree or another this simple question assails any creature faced with a wide choice of things to eat. Anthropologists call it the omnivore's dilemma. Choosing from among the countless potential foods nature offers, humans have had to learn what is safe, and what isn't-which mushrooms should be avoided, for example, and which berries we can enjoy. Today, as America confronts what can only be described as a national eating disorder, the omnivore's dilemma has returned with an atavistic vengeance. The cornucopia of the modern American supermarket and fast-food outlet has thrown us back on a bewildering landscape where we once again have to worry about which of those tasty-looking morsels might kill us. At the same time we're realizing that our food choices also have profound implications for the health of our environment. <em>The Omnivore's Dilemma</em> is bestselling author Michael Pollan's brilliant and eye-opening exploration of these little-known but vitally important dimensions of eating in America. <br/><br/> Pollan has divided <em>The Omnivore's Dilemma</em> into three parts, one for each of the food chains that sustain us: industrialized food, alternative or &quot;organic&quot; food, and food people obtain by dint of their own hunting, gathering, or gardening. Pollan follows each food chain literally from the ground up to the table, emphasizing our dynamic coevolutionary relationship with the species we depend on. He concludes each section by sitting down to a meal--at McDonald's, at home with his family sharing a dinner from Whole Foods, and in a revolutionary &quot;beyond organic&quot; farm in Virginia. For each meal he traces the provenance of everything consumed, revealing the hidden components we unwittingly ingest and explaining how our taste for particular foods reflects our environmental and biological inheritance. <br/><br/> We are indeed what we eat-and what we eat remakes the world. A society of voracious and increasingly confused omnivores, we are just beginning to recognize the profound consequences of the simplest everyday food choices, both for ourselves and for the natural world. <em>The Omnivore's Dilemma</em> is a long-overdue book and one that will become known for bringing a completely fresh perspective to a question as ordinary and yet momentous as What shall we have for dinner?]]>
+  </description>
+<authors>
+    <author>
+    <id>2121</id>
+        <name><![CDATA[Michael Pollan]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1258275549p5/2121.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1258275549p2/2121.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/2121.Michael_Pollan]]></link>
+    <average_rating>4.09</average_rating>
+    <ratings_count>78670</ratings_count>
+    <text_reviews_count>16323</text_reviews_count>
+  </author>
+  </authors>  <published>2006</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+        <shelf name="wishlist" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 28 12:33:28 -0800 2010</date_added>
+  <date_updated>Tue Dec 14 12:37:51 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/91829926]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/91829926]]></link>
+</review>
+
+    <review>
+  <id>94422650</id>
+        <book>
+  <id type="integer">557743</id>
+  <isbn>068486780X</isbn>
+  <isbn13>9780684867809</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">9</publication_month>
+  <publication_year type="integer">2000</publication_year>
+  <publisher>Free Press</publisher>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <title>
+    <![CDATA[Between Silk and Cyanide: A Codemaker's War, 1941-1945]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1175791019m/557743.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1175791019s/557743.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/557743.Between_Silk_and_Cyanide</link>
+  <num_pages>624</num_pages>
+  <average_rating>4.22</average_rating>
+  <ratings_count>216</ratings_count>
+  <description>
+    <![CDATA[<p> In 1942, Leo Marks left his father's famous bookshop, 84 Charing Cross Road, and went off to fight the war. He was twenty-two. Soon recognized as a cryptographer of genius, he became head of communications at the Special Operations Executive (SOE), where he revolutionized the codemaking techniques of the Allies and trained some of the most famous agents dropped into occupied Europe, including &quot;the White Rabbit&quot; and Violette Szabo. As a top codemaker, Marks had a unique perspective on one of the most fascinating and, until now, little-known aspects of the Second World War.  <p> Writing with the narrative flair and vivid characterization of his famous screenplays, Marks gives free rein to his keen sense of the absurd and his wry wit, resulting in a thrilling and poignant memoir that celebrates individual courage and endeavor, without losing sight of the human cost and horror of war.</p></p>]]>
+  </description>
+<authors>
+    <author>
+    <id>305908</id>
+        <name><![CDATA[Leo Marks]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/305908.Leo_Marks]]></link>
+    <average_rating>4.22</average_rating>
+    <ratings_count>218</ratings_count>
+    <text_reviews_count>51</text_reviews_count>
+  </author>
+  </authors>  <published>1980</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Mar 16 19:15:03 -0700 2010</date_added>
+  <date_updated>Tue Mar 16 19:15:03 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/94422650]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/94422650]]></link>
+</review>
+
+    <review>
+  <id>94468207</id>
+        <book>
+  <id type="integer">43717</id>
+  <isbn>0060723939</isbn>
+  <isbn13>9780060723934</isbn13>
+  <publication_day type="integer">24</publication_day>
+  <publication_month type="integer">7</publication_month>
+  <publication_year type="integer">2007</publication_year>
+  <publisher>William Morrow</publisher>
+  <text_reviews_count type="integer">488</text_reviews_count>
+  <title>
+    <![CDATA[Crooked Little Vein]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1186350688m/43717.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1186350688s/43717.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/43717.Crooked_Little_Vein</link>
+  <num_pages>304</num_pages>
+  <average_rating>3.76</average_rating>
+  <ratings_count>2389</ratings_count>
+  <description>
+    <![CDATA[The bestselling comic-book writer of <em>Authority</em> and <em>Transmetropolitan</em> brings his trippy and fast-paced style to the publishing world with his first detective novel.<p></p><br/><br/>A burned-out private detective is enlisted by an army of presidential goons to retrieve the U.S. Constitution...the real one. Following in the steps of Neil Gaiman, <em>Crooked Little Vein</em> is packed with action, adventure, and a wild cast of characters that are sure to appease not only hardcore comic fans, but a whole new slew of mystery readers waiting for a surprisingly surreal treat that infuses the madness of the graphic-novel world.]]>
+  </description>
+<authors>
+    <author>
+    <id>12772</id>
+        <name><![CDATA[Warren Ellis]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1198679772p5/12772.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1198679772p2/12772.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/12772.Warren_Ellis]]></link>
+    <average_rating>4.12</average_rating>
+    <ratings_count>48160</ratings_count>
+    <text_reviews_count>2690</text_reviews_count>
+  </author>
+  </authors>  <published>2007</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 17 05:41:28 -0700 2010</date_added>
+  <date_updated>Wed Mar 17 05:41:28 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/94468207]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/94468207]]></link>
+</review>
+
+    <review>
+  <id>94645877</id>
+        <book>
+  <id type="integer">6463967</id>
+  <isbn>0393072231</isbn>
+  <isbn13>9780393072235</isbn13>
+  <publication_day type="integer">15</publication_day>
+  <publication_month type="integer">3</publication_month>
+  <publication_year type="integer">2010</publication_year>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <text_reviews_count type="integer">1512</text_reviews_count>
+  <title>
+    <![CDATA[The Big Short: Inside the Doomsday Machine]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1290480108m/6463967.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1290480108s/6463967.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6463967-the-big-short</link>
+  <num_pages>266</num_pages>
+  <average_rating>4.15</average_rating>
+  <ratings_count>5504</ratings_count>
+  <description>
+    <![CDATA[The real story of the crash began in bizarre feeder markets where the sun doesn't shine and the SEC doesn't dare, or bother, to tread: the bond and real estate derivative markets where geeks invent impenetrable securities to profit from the misery of lower- and middle-class Americans who can't pay their debts. The smart people who understood what was or might be happening were paralyzed by hope and fear; in any case, they weren't talking.<br/><br/>Michael Lewis creates a fresh, character-driven narrative brimming with indignation and dark humor, a fitting sequel to his #1 bestseller <em>Liar's Poker</em>. Out of a handful of unlikely-really unlikely-heroes, Lewis fashions a story as compelling and unusual as any of his earlier bestsellers, proving yet again that he is the finest and funniest chronicler of our time.]]>
+  </description>
+<authors>
+    <author>
+    <id>776</id>
+        <name><![CDATA[Michael Lewis]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1218743877p5/776.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1218743877p2/776.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/776.Michael_Lewis]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>28718</ratings_count>
+    <text_reviews_count>5744</text_reviews_count>
+  </author>
+  </authors>  <published>2010</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+        <shelf name="wishlist" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 18 08:28:39 -0700 2010</date_added>
+  <date_updated>Tue Dec 14 12:37:58 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/94645877]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/94645877]]></link>
+</review>
+
+    <review>
+  <id>96178843</id>
+        <book>
+  <id type="integer">67825</id>
+  <isbn>0932633439</isbn>
+  <isbn13>9780932633439</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">2</publication_month>
+  <publication_year type="integer">1999</publication_year>
+  <publisher>Dorset House Publishing Company, Incorporated</publisher>
+  <text_reviews_count type="integer">63</text_reviews_count>
+  <title>
+    <![CDATA[Peopleware : Productive Projects and Teams, 2nd Ed.]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1170680142m/67825.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1170680142s/67825.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/67825.Peopleware_</link>
+  <num_pages>245</num_pages>
+  <average_rating>4.30</average_rating>
+  <ratings_count>402</ratings_count>
+  <description>
+    <![CDATA[<br/> Two of the computer industry&#39;s best-selling authors and lecturers return with a new edition of the software management book that started a revolution. <p> With humor and wisdom drawn from years of management and consulting experience, DeMarco and Lister demonstrate that the major issues of software development are human, not technical - and that managers ignore them at their peril. <p> Now, with a new Preface and eight new chapters, the authors enlarge upon their previous ideas and add fresh insights, examples, and anecdotes. <p> Discover dozens of helpful tips on <p> &lt;ul&gt;&lt;li&gt;Putting more quality into a product &lt;li&gt;Loosening up formal methodologies &lt;li&gt;Fighting corporate entropy &lt;li&gt;Making it acceptable to be uninterruptible <p> Peopleware shows you how to cultivate teams that are healthy and productive. The answers aren&#39;t easy - just incredibly successful.</p></p></p></p></p>]]>
+  </description>
+<authors>
+    <author>
+    <id>38238</id>
+        <name><![CDATA[Tom DeMarco]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/38238.Tom_DeMarco]]></link>
+    <average_rating>4.14</average_rating>
+    <ratings_count>677</ratings_count>
+    <text_reviews_count>117</text_reviews_count>
+  </author>
+  </authors>  <published>1988</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Mar 28 19:20:47 -0700 2010</date_added>
+  <date_updated>Sun Mar 28 19:20:47 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/96178843]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/96178843]]></link>
+</review>
+
+    <review>
+  <id>98983677</id>
+        <book>
+  <id type="integer">2882454</id>
+  <isbn>0553385410</isbn>
+  <isbn13>9780553385410</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">5</publication_month>
+  <publication_year type="integer">2008</publication_year>
+  <publisher>Spectra Books</publisher>
+  <text_reviews_count type="integer">42</text_reviews_count>
+  <title>
+    <![CDATA[The Mirrored Heavens (Autumn Rain #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1308970043m/2882454.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1308970043s/2882454.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2882454-the-mirrored-heavens</link>
+  <num_pages>409</num_pages>
+  <average_rating>3.04</average_rating>
+  <ratings_count>142</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+<authors>
+    <author>
+    <id>88132</id>
+        <name><![CDATA[David J. Williams]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-M-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-M-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/88132.David_J_Williams]]></link>
+    <average_rating>3.29</average_rating>
+    <ratings_count>212</ratings_count>
+    <text_reviews_count>58</text_reviews_count>
+  </author>
+  </authors>  <published>2008</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Apr 17 21:30:44 -0700 2010</date_added>
+  <date_updated>Sat Apr 17 21:30:44 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/98983677]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/98983677]]></link>
+</review>
+
+    <review>
+  <id>100423862</id>
+        <book>
+  <id type="integer">68494</id>
+  <isbn>0345459407</isbn>
+  <isbn13>9780345459404</isbn13>
+  <publication_day type="integer">29</publication_day>
+  <publication_month type="integer">7</publication_month>
+  <publication_year type="integer">2003</publication_year>
+  <publisher>Del Rey</publisher>
+  <text_reviews_count type="integer">942</text_reviews_count>
+  <title>
+    <![CDATA[Perdido Street Station]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/68494.Perdido_Street_Station</link>
+  <num_pages>623</num_pages>
+  <average_rating>4.00</average_rating>
+  <ratings_count>7087</ratings_count>
+  <description>
+    <![CDATA[Beneath the towering bleached ribs of a dead, ancient beast lies New Crobuzon, a squalid city where humans, Re-mades, and arcane races live in perpetual fear of Parliament and its brutal militia. The air and rivers are thick with factory pollutants and the strange effluents of alchemy, and the ghettos contain a vast mix of workers, artists, spies, junkies, and whores. In New Crobuzon, the unsavory deal is stranger to none—not even to Isaac, a brilliant scientist with a penchant for Crisis Theory.<br/><br/>Isaac has spent a lifetime quietly carrying out his unique research. But when a half-bird, half-human creature known as the Garuda comes to him from afar, Isaac is faced with challenges he has never before fathomed. Though the Garuda's request is scientifically daunting, Isaac is sparked by his own curiosity and an uncanny reverence for this curious stranger.<br/><br/>While Isaac's experiments for the Garuda turn into an obsession, one of his lab specimens demands attention: a brilliantly colored caterpillar that feeds on nothing but a hallucinatory drug and grows larger—and more consuming—by the day. What finally emerges from the silken cocoon will permeate every fiber of New Crobuzon—and not even the Ambassador of Hell will challenge the malignant terror it invokes . . .<br/><br/>A magnificent fantasy rife with scientific splendor, magical intrigue, and wonderfully realized characters, told in a storytelling style in which Charles Dickens meets Neal Stephenson, Perdido Street Station offers an eerie, voluptuously crafted world that will plumb the depths of every reader's imagination.]]>
+  </description>
+<authors>
+    <author>
+    <id>33918</id>
+        <name><![CDATA[China Miéville]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1243988363p5/33918.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1243988363p2/33918.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/33918.China_Mi_ville]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>27494</ratings_count>
+    <text_reviews_count>4977</text_reviews_count>
+  </author>
+  </authors>  <published>2000</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 28 07:04:19 -0700 2010</date_added>
+  <date_updated>Wed Apr 28 07:04:19 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/100423862]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/100423862]]></link>
+</review>
+
+    <review>
+  <id>101279926</id>
+        <book>
+  <id type="integer">6289283</id>
+  <isbn>0307266303</isbn>
+  <isbn13>9780307266309</isbn13>
+  <publication_day type="integer">5</publication_day>
+  <publication_month type="integer">5</publication_month>
+  <publication_year type="integer">2009</publication_year>
+  <publisher>Knopf</publisher>
+  <text_reviews_count type="integer">3227</text_reviews_count>
+  <title>
+    <![CDATA[Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1255657150m/6289283.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1255657150s/6289283.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6289283-born-to-run</link>
+  <num_pages>287</num_pages>
+  <average_rating>4.34</average_rating>
+  <ratings_count>9848</ratings_count>
+  <description>
+    <![CDATA[Full of incredible characters, amazing athletic achievements, cutting-edge science, and, most of all, pure inspiration, <em>Born to Run </em>is an epic adventure that began with one simple question: <em>Why does my foot hurt? </em>In search of an answer, Christopher McDougall sets off to find a tribe of the world’s greatest distance runners and learn their secrets, and in the process shows us that everything we thought we knew about running is wrong.<br/><br/>Isolated by the most savage terrain in North America, the reclusive Tarahumara Indians of Mexico’s deadly Copper Canyons are custodians of a lost art. For centuries they have practiced techniques that allow them to run hundreds of miles without rest and chase down anything from a deer to an Olympic marathoner while enjoying every mile of it. Their superhuman talent is matched by uncanny health and serenity, leaving the Tarahumara immune to the diseases and strife that plague modern existence. With the help of Caballo Blanco, a mysterious loner who lives among the tribe, the author was able not only to uncover the secrets of the Tarahumara but also to find his own inner ultra-athlete, as he trained for the challenge of a lifetime: a fifty-mile race through the heart of Tarahumara country pitting the tribe against an odd band of Americans, including a star ultramarathoner, a beautiful young surfer, and a barefoot wonder.<br/><br/>With a sharp wit and wild exuberance, McDougall takes us from the high-tech science labs at Harvard to the sun-baked valleys and freezing peaks across North America, where ever-growing numbers of ultrarunners are pushing their bodies to the limit, and, finally, to the climactic race in the Copper Canyons. <em>Born to Run</em> is that rare book that will not only engage your mind but inspire your body when you realize that the secret to happiness is right at your feet, and that you, indeed all of us, were born to run.<br/><br/><br/><em>From the Hardcover edition.</em>]]>
+  </description>
+<authors>
+    <author>
+    <id>133538</id>
+        <name><![CDATA[Christopher McDougall]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1294361251p5/133538.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1294361251p2/133538.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/133538.Christopher_McDougall]]></link>
+    <average_rating>4.34</average_rating>
+    <ratings_count>9868</ratings_count>
+    <text_reviews_count>3373</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 04 10:21:35 -0700 2010</date_added>
+  <date_updated>Tue May 04 10:21:48 -0700 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/101279926]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/101279926]]></link>
+</review>
+
+    <review>
+  <id>106684834</id>
+        <book>
+  <id type="integer">2785070</id>
+  <isbn>1934170011</isbn>
+  <isbn13>9781934170014</isbn13>
+  <publication_day type="integer">1</publication_day>
+  <publication_month type="integer">4</publication_month>
+  <publication_year type="integer">2008</publication_year>
+  <publisher>Process</publisher>
+  <text_reviews_count type="integer">144</text_reviews_count>
+  <title>
+    <![CDATA[The Urban Homestead: Your Guide to Self-sufficient Living in the Heart of the City (Process Self-Reliance Series)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1256044299m/2785070.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1256044299s/2785070.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2785070-the-urban-homestead</link>
+  <num_pages>307</num_pages>
+  <average_rating>4.09</average_rating>
+  <ratings_count>533</ratings_count>
+  <description>
+    <![CDATA[<p><em>The Urban Homestead</em> is the essential handbook for a fast-growing new movement: urbanites are becoming gardeners and farmers. Rejecting both end-times hand wringing and dewy-eyed faith that technology will save us from ourselves, urban homesteaders choose instead to act. By growing their own food and harnessing natural energy, they are planting seeds for the future of our cities.</p><p>If you would like to harvest your own vegetables, raise city chickens, or convert to solar energy, this practical, hands-on book is full of step-by-step projects that will get you started homesteading immediately, whether you live in an apartment or a house. It is also a guidebook to the larger movement and will point you to the best books and Internet resources on self-sufficiency topics.</p><p>Projects include:</p>&lt;ul&gt;&lt;li&gt;How to grow food on a patio or balcony&lt;li&gt;How to clean your house without toxins&lt;li&gt;How to preserve food&lt;li&gt;How to cook with solar energy&lt;li&gt;How to divert your greywater to your garden&lt;li&gt;How to choose the best homestead for you&lt;/ul&gt;<p>Written by city dwellers for city dwellers, this illustrated, smartly designed, two-color instruction book proposes a paradigm shift that will improve our lives, our community, and our planet. Authors Kelly Coyne and Erik Knutzen happily farm in Los Angeles and run the urban homestead blog www.homegrownrevolution.org.</p>]]>
+  </description>
+<authors>
+    <author>
+    <id>1215015</id>
+        <name><![CDATA[Kelly Coyne]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1215015.Kelly_Coyne]]></link>
+    <average_rating>4.10</average_rating>
+    <ratings_count>546</ratings_count>
+    <text_reviews_count>172</text_reviews_count>
+  </author>
+  </authors>  <published>2008</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+
+  
+    <spoiler_flag>false</spoiler_flag>
+  <shelves>
+            <shelf name="to-read" />
+        <shelf name="wishlist" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jun 11 17:15:35 -0700 2010</date_added>
+  <date_updated>Tue Dec 14 12:38:47 -0800 2010</date_updated>
+  <read_count></read_count>
+      <body>
+      <![CDATA[]]>
+    </body>
+    <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/106684834]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/106684834]]></link>
+</review>
+
+  </reviews>
+
+</GoodreadsResponse>
