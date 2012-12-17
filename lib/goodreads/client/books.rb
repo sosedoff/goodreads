@@ -31,5 +31,11 @@ module Goodreads
     def book_by_title(title)
       Hashie::Mash.new(request('/book/title', :title => title)['book'])
     end
+
+    # Get book details by book title
+    #
+    def book_by_author(author)
+      Hashie::Mash.new(request('/api/author_url/' + author)['book'])
+    end
   end
 end
