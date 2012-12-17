@@ -11,7 +11,6 @@ module Goodreads
     def search_books(query, params={})
       params[:q] = query.to_s.strip
       data = request('/search/index', params)
-      puts data
       Hashie::Mash.new(data['search'])
     end
     
