@@ -11,6 +11,7 @@ module Goodreads
     def search_books(query, params={})
       params[:q] = query.to_s.strip
       data = request('/search/index', params)
+      puts data
       Hashie::Mash.new(data['search'])
     end
     
@@ -30,12 +31,6 @@ module Goodreads
     #
     def book_by_title(title)
       Hashie::Mash.new(request('/book/title', :title => title)['book'])
-    end
-
-    # Get book details by book author
-    #
-    def book_by_author(author)
-      Hashie::Mash.new(request('/api/author_url/' + author)['book'])
     end
   end
 end
