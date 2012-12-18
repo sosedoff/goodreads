@@ -13,5 +13,11 @@ module Goodreads
       data = request('/api/author_url', params)
       Hashie::Mash.new(data['author'])
     end
+
+    def authorList(id, params={})
+      params[:id] = id
+      data = request('/author/list', params)
+      Hashie::Mash.new(data['author'])
+    end
   end
 end
