@@ -10,7 +10,7 @@ module Goodreads
 
     def author2(id, params={})
       params[:id] = id
-      data = request('/api/author_url', params)
+      data = request('/author/list', params)
       Hashie::Mash.new(data['author'])
     end
   end
