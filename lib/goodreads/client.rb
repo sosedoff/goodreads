@@ -5,6 +5,7 @@ require 'goodreads/client/authors'
 require 'goodreads/client/users'
 require 'goodreads/client/shelves'
 require 'goodreads/client/authorized'
+require 'goodreads/client/groups'
 
 module Goodreads
   class Client
@@ -15,6 +16,7 @@ module Goodreads
     include Goodreads::Users
     include Goodreads::Shelves
     include Goodreads::Authorized
+    include Goodreads::Groups
     
     attr_reader :api_key, :api_secret, :oauth_token
     
