@@ -179,4 +179,8 @@ describe 'Client' do
     @client = Goodreads::Client.new(:api_key => 'SECRET_KEY', :oauth_token => oauth_token)
     @client.user_id.should == '2003928'
   end
+
+  it "should return group details" do
+    stub_with_key_get('/group/show', {:id => '1'}, 'group.xml')
+  end
 end
