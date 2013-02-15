@@ -51,7 +51,7 @@ describe 'Client' do
     end
   end
   
-  it 'returns only full reviewes' do
+  it 'returns only full reviews' do
     stub_with_key_get('/review/recent_reviews', {}, 'recent_reviews.xml')
     
     proc { @reviews = @client.recent_reviews(:skip_cropped => true) }.should_not raise_error
