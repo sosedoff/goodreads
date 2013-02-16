@@ -51,7 +51,7 @@ describe 'Client' do
     end
   end
   
-  it 'returns only full reviewes' do
+  it 'returns only full reviews' do
     stub_with_key_get('/review/recent_reviews', {}, 'recent_reviews.xml')
     
     proc { @reviews = @client.recent_reviews(:skip_cropped => true) }.should_not raise_error
@@ -179,4 +179,19 @@ describe 'Client' do
     @client = Goodreads::Client.new(:api_key => 'SECRET_KEY', :oauth_token => oauth_token)
     @client.user_id.should == '2003928'
   end
+
+  it "should return details for a specified group" do
+    stub_with_key_get('/group/show', {:id => '1'}, 'group.xml')
+ 
+    proc { @group = @client.group('1') }.should_not raise_error
+    @group.should be_an_instance_of Hashie::Mash
+    @group.respond_to?(:id).should == true
+    @group.id.should == '1'
+    @group.title.should == 'Goodreads Feedback'
+    @group.access.should == 'public'
+    @group.location.should == ''
+    @group.category.should == 'Business'
+    @group.subcategory.should == 'Companies'
+    @group.group_users_count.should == '10335'
+ end
 end

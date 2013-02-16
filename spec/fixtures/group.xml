@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[group_show]]></method>
+  </Request>
+  <group>
+<id>1</id>
+<title><![CDATA[Goodreads Feedback]]></title>
+<description><![CDATA[This is a place to give feedback about Goodreads.  Feature ideas, bugs, or any other suggestion for improvement.  The Goodreads staff monitors this group closely.<br /><br />For book edits or other issues regarding a specific book or books, try the <a href="http://www.goodreads.com/group/show/220-goodreads-librarians-group">Goodreads Librarians Group</a> instead.]]></description>
+<access>public</access>
+<location><![CDATA[]]></location>
+<last_activity_at>Thu Feb 14 22:34:56 -0800 2013</last_activity_at>
+<display_folder_count>5</display_folder_count>
+<display_topics_per_folder>10</display_topics_per_folder>
+<bookshelves_public_flag>false</bookshelves_public_flag>
+<add_books_flag>false</add_books_flag>
+<add_events_flag>false</add_events_flag>
+<polls_flag>false</polls_flag>
+<discussion_public_flag>false</discussion_public_flag>
+<real_world_flag>false</real_world_flag>
+<accepting_new_members_flag>false</accepting_new_members_flag>
+<bookshelves_public_flag>false</bookshelves_public_flag>
+<category>Business</category>
+<subcategory>Companies</subcategory>
+<rules><![CDATA[Please keep all discussion civil.  Focus on the ideas and suggestions being discussed and not the user suggesting them.  Comments like "I like this idea" or "I don't like this idea" are fine, but comments that attack the user are not.<br /><br />If you are providing feedback on a feature or reporting a bug, please be as specific as possible.  Include the steps you took that produced the problem, the browser you are using, and, whenever possible, a URL and a screenshot to show what is confusing you or what you think is broken.]]></rules>
+<link><![CDATA[http://www.goodreads.com/group/show/1-goodreads-feedback]]></link>
+<image_url><![CDATA[http://d.gr-assets.com/groups/1182455834p2/1.jpg]]></image_url>
+<group_users_count>10335</group_users_count>
+  <folders>
+    	<folder>
+    		<id>121</id>
+    		<name><![CDATA[Welcome]]></name>
+    		<items_count>2</items_count>
+    		<sub_items_count>76</sub_items_count>
+    		<updated_at>Tue Jul 10 13:59:59 -0700 2012</updated_at>
+    	</folder>
+    	<folder>
+    		<id>2</id>
+    		<name><![CDATA[Suggestions &amp; Questions]]></name>
+    		<items_count>6391</items_count>
+    		<sub_items_count>88668</sub_items_count>
+    		<updated_at>Sun Feb 10 22:17:35 -0800 2013</updated_at>
+    	</folder>
+    	<folder>
+    		<id>1</id>
+    		<name><![CDATA[Bugs]]></name>
+    		<items_count>3930</items_count>
+    		<sub_items_count>43335</sub_items_count>
+    		<updated_at>Sun Feb 03 23:33:09 -0800 2013</updated_at>
+    	</folder>
+    	<folder>
+    		<id>446</id>
+    		<name><![CDATA[Announcements]]></name>
+    		<items_count>162</items_count>
+    		<sub_items_count>11933</sub_items_count>
+    		<updated_at>Tue Jul 10 14:01:02 -0700 2012</updated_at>
+    	</folder>
+    	<folder>
+    		<id>123533</id>
+    		<name><![CDATA[Official iOS and Android Apps]]></name>
+    		<items_count>58</items_count>
+    		<sub_items_count>432</sub_items_count>
+    		<updated_at>Tue Jul 10 14:01:21 -0700 2012</updated_at>
+    	</folder>
+  </folders>
+  <currently_reading>
+  </currently_reading>
+<moderators>
+    <group_user>
+  <comments_count type="integer">4131</comments_count>
+  <title>Chief Goodreader</title>
+  <user>
+    <first_name>Otis</first_name>
+    <id type="integer">1</id>
+    <last_name>Chandler</last_name>
+    <user_name>otis</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1189644957p2/1.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">13</comments_count>
+  <title>Chief Wordsmith</title>
+  <user>
+    <first_name>Elizabeth</first_name>
+    <id type="integer">5</id>
+    <last_name>K. Chandler</last_name>
+    <user_name>elizabeth</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1169594940p2/5.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">1959</comments_count>
+  <title>Problems Architect</title>
+  <user>
+    <first_name>Michael</first_name>
+    <id type="integer">73</id>
+    <last_name>Economy</last_name>
+    <user_name>michaeleconomy</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1347491383p2/73.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">125</comments_count>
+  <title>Features Editor</title>
+  <user>
+    <first_name>Jessica</first_name>
+    <id type="integer">603238</id>
+    <last_name>Donaghy</last_name>
+    <user_name nil="true"/>
+    <p2_image_url>http://d.gr-assets.com/users/1268901139p2/603238.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">366</comments_count>
+  <title>Programher</title>
+  <user>
+    <first_name>Louise</first_name>
+    <id type="integer">2450538</id>
+    <last_name>Yang</last_name>
+    <user_name>louise</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1343064457p2/2450538.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">847</comments_count>
+  <title>Community Manager</title>
+  <user>
+    <first_name>Patrick</first_name>
+    <id type="integer">175283</id>
+    <last_name>Brown</last_name>
+    <user_name>patrick</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1338417589p2/175283.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">9855</comments_count>
+  <title>title goes here</title>
+  <user>
+    <first_name>rivka</first_name>
+    <id type="integer">171430</id>
+    <last_name></last_name>
+    <user_name>rivka</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1183776182p2/171430.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">1321</comments_count>
+  <title>Customer Care Manager</title>
+  <user>
+    <first_name>Kara</first_name>
+    <id type="integer">1677824</id>
+    <last_name>Erickson</last_name>
+    <user_name>kara</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1342489703p2/1677824.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">92</comments_count>
+  <title>Software Engineer</title>
+  <user>
+    <first_name>William</first_name>
+    <id type="integer">5006423</id>
+    <last_name>Cline</last_name>
+    <user_name nil="true"/>
+    <p2_image_url>http://d.gr-assets.com/users/1318898294p2/5006423.jpg</p2_image_url>
+  </user>
+</group_user>
+
+    <group_user>
+  <comments_count type="integer">164</comments_count>
+  <title>Makes problems disappear</title>
+  <user>
+    <first_name>Brian</first_name>
+    <id type="integer">145381</id>
+    <last_name>Percival</last_name>
+    <user_name>bmpercy</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1320266357p2/145381.jpg</p2_image_url>
+  </user>
+</group_user>
+
+</moderators>
+<members>
+  	<group_user>
+  <comments_count type="integer">1</comments_count>
+  <title></title>
+  <user>
+    <first_name>Elly</first_name>
+    <id type="integer">12047226</id>
+    <last_name>Helcl</last_name>
+    <user_name>ellymae</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1350971038p2/12047226.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">0</comments_count>
+  <title></title>
+  <user>
+    <first_name>Elisabeth</first_name>
+    <id type="integer">16099129</id>
+    <last_name>Bird</last_name>
+    <user_name>eabird12</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1360370766p2/16099129.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">1</comments_count>
+  <title></title>
+  <user>
+    <first_name>Debora</first_name>
+    <id type="integer">11651566</id>
+    <last_name>Lindh</last_name>
+    <user_name nil="true"/>
+    <p2_image_url>http://d.gr-assets.com/users/1356907745p2/11651566.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">0</comments_count>
+  <title></title>
+  <user>
+    <first_name>Michelle</first_name>
+    <id type="integer">11618764</id>
+    <last_name>Parsons</last_name>
+    <user_name>Limabean74</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1348494117p2/11618764.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">0</comments_count>
+  <title></title>
+  <user>
+    <first_name>Ashley</first_name>
+    <id type="integer">10846447</id>
+    <last_name></last_name>
+    <user_name nil="true"/>
+    <p2_image_url>http://d.gr-assets.com/users/1348201812p2/10846447.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">2</comments_count>
+  <title></title>
+  <user>
+    <first_name>Alexis</first_name>
+    <id type="integer">2326664</id>
+    <last_name></last_name>
+    <user_name>alexist</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1357014224p2/2326664.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">1</comments_count>
+  <title></title>
+  <user>
+    <first_name>Jae</first_name>
+    <id type="integer">6877680</id>
+    <last_name>Rivera</last_name>
+    <user_name nil="true"/>
+    <p2_image_url>http://d.gr-assets.com/users/1328207725p2/6877680.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">0</comments_count>
+  <title></title>
+  <user>
+    <first_name>Diane</first_name>
+    <id type="integer">2446463</id>
+    <last_name>patel</last_name>
+    <user_name>readingrl</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1357622396p2/2446463.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">1</comments_count>
+  <title></title>
+  <user>
+    <first_name>Ryan</first_name>
+    <id type="integer">17463386</id>
+    <last_name nil="true"/>
+    <user_name nil="true"/>
+    <p2_image_url>http://www.goodreads.com/assets/nophoto/nophoto-U-50x66-251a730d696018971ef4a443cdeaae05.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">0</comments_count>
+  <title></title>
+  <user>
+    <first_name>Hala</first_name>
+    <id type="integer">4868330</id>
+    <last_name>Elbanna</last_name>
+    <user_name nil="true"/>
+    <p2_image_url>http://d.gr-assets.com/users/1357756466p2/4868330.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">1</comments_count>
+  <title></title>
+  <user>
+    <first_name>pax</first_name>
+    <id type="integer">3524962</id>
+    <last_name></last_name>
+    <user_name>pax_athena</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1270217093p2/3524962.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">1</comments_count>
+  <title></title>
+  <user>
+    <first_name>Heinrich</first_name>
+    <id type="integer">17127383</id>
+    <last_name nil="true"/>
+    <user_name nil="true"/>
+    <p2_image_url>http://www.goodreads.com/assets/nophoto/nophoto-U-50x66-251a730d696018971ef4a443cdeaae05.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">1</comments_count>
+  <title></title>
+  <user>
+    <first_name>Chuck</first_name>
+    <id type="integer">9212473</id>
+    <last_name>Jones</last_name>
+    <user_name>GeneralTHC</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1335942263p2/9212473.jpg</p2_image_url>
+  </user>
+</group_user>
+
+  	<group_user>
+  <comments_count type="integer">73</comments_count>
+  <title></title>
+  <user>
+    <first_name>C.J.</first_name>
+    <id type="integer">12291660</id>
+    <last_name>Anderson</last_name>
+    <user_name>CJ_Anderson</user_name>
+    <p2_image_url>http://d.gr-assets.com/users/1358058100p2/12291660.jpg</p2_image_url>
+  </user>
+</group_user>
+
+</members>
+</group>
+
+</GoodreadsResponse>
