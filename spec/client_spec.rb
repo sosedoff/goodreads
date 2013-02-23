@@ -106,7 +106,7 @@ describe 'Client' do
     @user.user_name.should == 'janmt'
   end
   
-  it 'raiser Goodreads::NotFound if user was not found' do
+  it 'raises Goodreads::NotFound if user was not found' do
     stub_request(:get, "http://www.goodreads.com/user/show?format=xml&id=12345&key=SECRET_KEY").
       to_return(:status => 404, :body => "", :headers => {})
     
@@ -193,5 +193,5 @@ describe 'Client' do
     @group.category.should == 'Business'
     @group.subcategory.should == 'Companies'
     @group.group_users_count.should == '10335'
- end
+  end
 end
