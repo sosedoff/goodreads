@@ -141,11 +141,11 @@ Get details of each of the groups in a list:
 ```ruby
 group_list.group.each do |g|
   g.id                 # => group id
-  g.access             # => group access settings (private, public)
-  g.users_count        # => number of group members
-  g.title              # => group title
+  g.access             # => access settings (private, public)
+  g.users_count        # => number of members
+  g.title              # => title
   g.image_url          # => url of the group's image
-  g.last_activity_at   # => the last time the group had activity
+  g.last_activity_at   # => date and time of the group's last activity
 end
 ```
 
