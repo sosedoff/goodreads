@@ -2,7 +2,7 @@
 <GoodreadsResponse>
   <Request>
     <authentication>true</authentication>
-      <key><![CDATA[ymcG8EP9qJnGSD6zzsuohQ]]></key>
+      <key><![CDATA[SECRET_KEY]]></key>
     <method><![CDATA[friend_user]]></method>
   </Request>
   <friends start="1" end="2" total="2">
