@@ -252,10 +252,10 @@ describe 'Client' do
     end
   end
 
-  describe '#list_groups_of_given_user' do
+  describe '#group_list' do
     before { stub_with_key_get('/group/list', {:id => '1', :sort => 'my_activity'}, 'group_list.xml') }
 
-    it "lists groups a given user is a member of" do
+    it "returns groups a given user is a member of" do
       group_list = client.group_list('1')
 
       group_list.should be_a Hashie::Mash
