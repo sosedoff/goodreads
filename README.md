@@ -1,4 +1,4 @@
-# Goodreads [![Build Status](https://secure.travis-ci.org/sosedoff/goodreads.png)](http://travis-ci.org/sosedoff/goodreads)
+# Goodreads [![Build Status](https://secure.travis-ci.org/ivanoblomov/goodreads.png)](http://travis-ci.org/ivanoblomov/goodreads)
 
 Ruby wrapper to communicate with Goodreads API.
 
@@ -30,7 +30,7 @@ client = Goodreads.new(:api_key => 'KEY') # short version
 ### Global configuration
 
 You can define client credentials on global level. Just create an initializer file (if using rails) under
-`config/initializers`: 
+`config/initializers`:
 
 ``` ruby
 Goodreads.configure(
@@ -62,7 +62,7 @@ client.book('id')
 client.book_by_isbn('ISBN')
 client.book_by_title('Book title')
 ```
-  
+
 Search for books (by title, isbn, genre):
 
 ```ruby
@@ -86,7 +86,7 @@ client.recent_reviews.each do |r|
   r.user.name     # => review user name
 end
 ```
-  
+
 Get review details:
 
 ```ruby
@@ -120,7 +120,7 @@ group = client.group('id')
 
 group.id                 # => group id
 group.title              # => group title
-group.access             # => group's access settings 
+group.access             # => group's access settings
                          # => (e.g., public or private)
 group.group_users_count  # => number of users in the group
 ```
@@ -147,20 +147,67 @@ end
 
 The `sort` parameter is optional, and defaults to `my_activity`. For other sorting options, [see here](http://www.goodreads.com/api#group.list).
 
-### User ID
+### OAuth
+
+#### Authorizing Goodreads with an OAuth Access Token
+
+For services requiring permission, such as write operations or browsing friends, get authorization via OAuth.
+
+First, get an OAuth *request* token:
+
+```ruby
+request_token = OAuth::Consumer.new(
+  Goodreads.configuration[:api_key],
+  Goodreads.configuration[:api_secret],
+  :site => 'http://www.goodreads.com'
+).get_request_token
+```
+
+Next, authorize by opening the authorization URL in a browser:
+
+```ruby
+request_token.authorize_url
+```
+
+Then request an OAuth *access* token:
+
+```ruby
+access_token = request_token.get_access_token
+```
+
+Finally, initialize a Goodreads client with it:
+
+```ruby
+goodreads_client = Goodreads.new :oauth_token => access_token
+```
+
+For more info, see the [Goodreads documentation](http://www.goodreads.com/api/oauth_example).
+
+#### User ID
 
 Get the user id of the user who authorized via OAuth:
 
 ```ruby
-client = Goodreads::Client.new(:api_key => 'YOUR_KEY', :oauth_token => token)
-client.user_id  # id of user who authorized via OAuth
+goodreads_client.user_id
 ```
 
-Where `token` is an instance of `OAuth::AccessToken`. See the [Goodreads documentation](http://www.goodreads.com/api/oauth_example) for examples of how to correct create one.
+#### Friends
+
+Get the friend details for a user:
+
+```ruby
+friends_hash = goodreads_client.friends [user_id]
+```
+
+Get a list of their names:
+
+```ruby
+friends_hash.user.map{ |u| u.name }
+```
 
 ## Testing
 
-To run test suite:
+To run the test suite:
 
 ```
 rake test
@@ -168,7 +215,7 @@ rake test
 
 ## Contributions
 
-You're welcome to submit patches and new features. 
+You're welcome to submit patches and new features.
 
 - Create a new branch for your feature of bugfix
 - Add tests so it does not break any existing code
