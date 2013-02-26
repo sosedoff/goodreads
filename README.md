@@ -125,6 +125,28 @@ group.access             # => group's access settings
 group.group_users_count  # => number of users in the group
 ```
 
+List the groups a given user is a member of:
+
+```ruby
+group_list = client.group_list('user_id', 'sort')
+
+group_list.total         # => total number of groups
+group_list.group!.count  # => number of groups returned in the request
+
+# Loop through the list to get details for each of the groups.
+
+group_list.group.each do |g|
+  g.id                 # => group id
+  g.access             # => access settings (private, public)
+  g.users_count        # => number of members
+  g.title              # => title
+  g.image_url          # => url of the group's image
+  g.last_activity_at   # => date and time of the group's last activity
+end
+```
+
+The `sort` parameter is optional, and defaults to `my_activity`. For other sorting options, [see here](http://www.goodreads.com/api#group.list).
+
 ### User ID
 
 Get the user id of the user who authorized via OAuth:

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[group_list]]></method>
+  </Request>
+  <groups>
+  <user>
+  <first_name>Otis</first_name>
+  <id type="integer">1</id>
+  <last_name>Chandler</last_name>
+  <user_name>otis</user_name>
+  <p2_image_url>http://d.gr-assets.com/users/1189644957p2/1.jpg</p2_image_url>
+</user>
+
+  <count>50</count>
+  <list start="1" end="50" total="107">
+    	<group>
+    		<id>1</id>
+    		<access>public</access>
+    		<users_count>10459</users_count>
+    		<title><![CDATA[Goodreads Feedback]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1182455834p2/1.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 21:54:52 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>220</id>
+    		<access>public</access>
+    		<users_count>25247</users_count>
+    		<title><![CDATA[Goodreads Librarians Group]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1269147049p2/220.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 22:10:35 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>8095</id>
+    		<access>public</access>
+    		<users_count>530</users_count>
+    		<title><![CDATA[Goodreads Developers]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1220414390p2/8095.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Thu Feb 21 18:19:10 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>375</id>
+    		<access>public</access>
+    		<users_count>321</users_count>
+    		<title><![CDATA[Quotable Quotes]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1184567491p2/375.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Tue Mar 29 12:13:43 -0700 2011]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>179</id>
+    		<access>public</access>
+    		<users_count>68</users_count>
+    		<title><![CDATA[Ruby on Rails Reading]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1181600807p2/179.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Wed Aug 29 11:01:19 -0700 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>12246</id>
+    		<access>public</access>
+    		<users_count>291</users_count>
+    		<title><![CDATA[Sign the Goodreads Holiday Card]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1230070177p2/12246.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Wed Sep 19 05:33:08 -0700 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>18130</id>
+    		<access>public</access>
+    		<users_count>452</users_count>
+    		<title><![CDATA[Goodreads Author Outreach Project]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1241222641p2/18130.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 18 15:16:13 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>7606</id>
+    		<access>public</access>
+    		<users_count>2003</users_count>
+    		<title><![CDATA[Oprah's Book Club at Goodreads]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1251587224p2/7606.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 18 19:48:33 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>354</id>
+    		<access>public</access>
+    		<users_count>5205</users_count>
+    		<title><![CDATA[Harry Potter]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1183921559p2/354.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 21:38:13 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>35066</id>
+    		<access>public</access>
+    		<users_count>9</users_count>
+    		<title><![CDATA[Goodreads Live Video Chat]]></title>
+    		<image_url><![CDATA[http://www.goodreads.com/assets/nophoto/groups_nophoto-50x66.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Jun 28 13:08:29 -0700 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>2</id>
+    		<access>restricted</access>
+    		<users_count>97</users_count>
+    		<title><![CDATA[Stanford Book Club]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1177033183p2/2.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Sat Jul 07 14:02:24 -0700 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>2332</id>
+    		<access>public</access>
+    		<users_count>37</users_count>
+    		<title><![CDATA[2008 Political Reading Checklist]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1199999010p2/2332.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri Jun 05 00:19:07 -0700 2009]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>2802</id>
+    		<access>public</access>
+    		<users_count>5808</users_count>
+    		<title><![CDATA[Amazon Kindle]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1285085695p2/2802.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 19:26:25 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>3048</id>
+    		<access>public</access>
+    		<users_count>78</users_count>
+    		<title><![CDATA[GoodReads Anti-Spammer Initiative]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1203456705p2/3048.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri Jun 05 00:19:15 -0700 2009]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>31471</id>
+    		<access>public</access>
+    		<users_count>2645</users_count>
+    		<title><![CDATA[Goodreads Author Feedback Group]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1268776347p2/31471.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 20:47:16 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>2117</id>
+    		<access>public</access>
+    		<users_count>2389</users_count>
+    		<title><![CDATA[Movies We've Just Watched]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1199758028p2/2117.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 12:11:29 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>20707</id>
+    		<access>public</access>
+    		<users_count>450</users_count>
+    		<title><![CDATA[Goodreads Official Southern California Events ]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1249424586p2/20707.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 11 12:41:08 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>47316</id>
+    		<access>public</access>
+    		<users_count>60</users_count>
+    		<title><![CDATA[Ask Aimee Bender]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1304094368p2/47316.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri May 06 22:28:33 -0700 2011]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>1410</id>
+    		<access>public</access>
+    		<users_count>153</users_count>
+    		<title><![CDATA[Nobody Reads In L.A.]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1192770276p2/1410.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri Aug 20 13:04:26 -0700 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>1335</id>
+    		<access>public</access>
+    		<users_count>128</users_count>
+    		<title><![CDATA[Barbara Delinsky Reading Group and Q&amp;A ]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1192138536p2/1335.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Wed Jun 17 23:33:16 -0700 2009]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>1623</id>
+    		<access>public</access>
+    		<users_count>13</users_count>
+    		<title><![CDATA[gary's goodreads group]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1194472046p2/1623.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Thu Jul 08 02:25:57 -0700 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>10</id>
+    		<access>public</access>
+    		<users_count>498</users_count>
+    		<title><![CDATA[World Peace ]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1191579563p2/10.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Sun Nov 28 19:07:34 -0800 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>14149</id>
+    		<access>public</access>
+    		<users_count>230</users_count>
+    		<title><![CDATA[Goodreads Status Update Writing Contest]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1233957554p2/14149.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri May 25 12:59:09 -0700 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>13</id>
+    		<access>public</access>
+    		<users_count>90</users_count>
+    		<title><![CDATA[Santa Monica Book Club]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1177438363p2/13.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Tue Aug 28 21:06:34 -0700 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>97</id>
+    		<access>public</access>
+    		<users_count>734</users_count>
+    		<title><![CDATA[Great African Reads]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1224549760p2/97.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri Feb 22 11:01:04 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>75382</id>
+    		<access>public</access>
+    		<users_count>54</users_count>
+    		<title><![CDATA[The End of Your Life Book Club]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1344391074p2/75382.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Sat Dec 08 17:06:00 -0800 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>596</id>
+    		<access>public</access>
+    		<users_count>1848</users_count>
+    		<title><![CDATA[Audiobooks]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1341749706p2/596.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 22:10:59 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>74</id>
+    		<access>public</access>
+    		<users_count>136</users_count>
+    		<title><![CDATA[Southern California Readers]]></title>
+    		<image_url><![CDATA[http://www.goodreads.com/assets/nophoto/groups_nophoto-50x66.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Sun Feb 17 14:19:19 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>23763</id>
+    		<access>public</access>
+    		<users_count>7</users_count>
+    		<title><![CDATA[Half the Sky Book Club]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1251738757p2/23763.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Wed Sep 02 14:11:14 -0700 2009]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>23713</id>
+    		<access>public</access>
+    		<users_count>158</users_count>
+    		<title><![CDATA[Secret Speakers]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1253147856p2/23713.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Sat Apr 10 10:03:24 -0700 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>21519</id>
+    		<access>public</access>
+    		<users_count>79</users_count>
+    		<title><![CDATA[Lance Carbuncle Q&amp;A]]></title>
+    		<image_url><![CDATA[http://www.goodreads.com/assets/nophoto/groups_nophoto-50x66.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri Aug 20 15:00:35 -0700 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>20342</id>
+    		<access>public</access>
+    		<users_count>37</users_count>
+    		<title><![CDATA[Q &amp; A with Cornelia Amiri]]></title>
+    		<image_url><![CDATA[http://www.goodreads.com/assets/nophoto/groups_nophoto-50x66.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri Dec 17 00:34:33 -0800 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>1210</id>
+    		<access>public</access>
+    		<users_count>534</users_count>
+    		<title><![CDATA[Philip K Dick]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1361233435p2/1210.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 07:12:03 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>19522</id>
+    		<access>public</access>
+    		<users_count>68</users_count>
+    		<title><![CDATA[Q&amp;A with Dave Cullen]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1243961859p2/19522.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Aug 09 14:02:17 -0700 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>5450</id>
+    		<access>public</access>
+    		<users_count>29</users_count>
+    		<title><![CDATA[Twitter Book Club]]></title>
+    		<image_url><![CDATA[http://www.goodreads.com/assets/nophoto/groups_nophoto-50x66.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Tue Sep 06 10:40:53 -0700 2011]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>16557</id>
+    		<access>public</access>
+    		<users_count>836</users_count>
+    		<title><![CDATA[PPS BOOK TITLE PROMOTION]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1273209517p2/16557.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 12:24:36 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>19313</id>
+    		<access>public</access>
+    		<users_count>26</users_count>
+    		<title><![CDATA[Q&amp;A with Jayce O'Neal]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1243554498p2/19313.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Fri Sep 04 13:24:13 -0700 2009]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>19267</id>
+    		<access>public</access>
+    		<users_count>21</users_count>
+    		<title><![CDATA[Q&amp;A with Tracy Darity]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1246398173p2/19267.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Thu Jul 02 18:16:26 -0700 2009]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>1153</id>
+    		<access>public</access>
+    		<users_count>174</users_count>
+    		<title><![CDATA[Armchair Sailors]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1190886119p2/1153.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Tue Sep 11 05:09:20 -0700 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>17991</id>
+    		<access>public</access>
+    		<users_count>54</users_count>
+    		<title><![CDATA[Q&amp;A with Lacresha Hayes]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1241016728p2/17991.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Tue Apr 05 13:02:02 -0700 2011]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>17740</id>
+    		<access>public</access>
+    		<users_count>158</users_count>
+    		<title><![CDATA[Q&amp;A with Beth Groundwater]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1289839683p2/17740.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Dec 17 16:23:34 -0800 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>25167</id>
+    		<access>public</access>
+    		<users_count>32</users_count>
+    		<title><![CDATA[Literary News Stories]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1254480072p2/25167.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Tue Nov 30 02:56:51 -0800 2010]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>27842</id>
+    		<access>private</access>
+    		<users_count>798</users_count>
+    		<title><![CDATA[Moderator Support Group]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1261239434p2/27842.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon Feb 25 18:48:11 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>43169</id>
+    		<access>public</access>
+    		<users_count>117</users_count>
+    		<title><![CDATA[Q&amp;A with Chef Eric Ripert]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1296073856p2/43169.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Thu Mar 17 15:37:54 -0700 2011]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>43519</id>
+    		<access>public</access>
+    		<users_count>1905</users_count>
+    		<title><![CDATA[readers advisory for all]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1297736676p2/43519.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Sun Feb 24 22:29:57 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>51943</id>
+    		<access>public</access>
+    		<users_count>197</users_count>
+    		<title><![CDATA[Summer Reads! One-Day-Only Discussion Group]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1311812884p2/51943.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Mon May 14 17:13:16 -0700 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>53465</id>
+    		<access>public</access>
+    		<users_count>48</users_count>
+    		<title><![CDATA[Ask Lisa Lutz!]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1314055423p2/53465.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Sun Dec 30 02:21:32 -0800 2012]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>55303</id>
+    		<access>public</access>
+    		<users_count>222</users_count>
+    		<title><![CDATA[The Millions]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1316443330p2/55303.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Tue Jan 22 16:47:53 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>3183</id>
+    		<access>public</access>
+    		<users_count>286</users_count>
+    		<title><![CDATA[Tournament of Books]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1203717118p2/3183.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Tue Feb 19 14:13:18 -0800 2013]]></last_activity_at>
+    	</group>
+    	<group>
+    		<id>1722</id>
+    		<access>public</access>
+    		<users_count>2450</users_count>
+    		<title><![CDATA[A Song of Ice &amp; Fire Fans]]></title>
+    		<image_url><![CDATA[http://d.gr-assets.com/groups/1195297038p2/1722.jpg]]></image_url>
+    		<last_activity_at><![CDATA[Sun Feb 24 11:45:04 -0800 2013]]></last_activity_at>
+    	</group>
+  </list>
+</groups>
+
+</GoodreadsResponse>
