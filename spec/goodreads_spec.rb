@@ -1,13 +1,13 @@
 require 'spec_helper'
 
 describe 'Goodreads' do
-  context '.new' do
+  describe '.new' do
     it 'returns a new client instance' do
       Goodreads.new.should be_a Goodreads::Client
     end
   end
 
-  context '.configure' do
+  describe '.configure' do
     it 'sets a global configuration options' do
       r = Goodreads.configure(:api_key => 'FOO', :api_secret => 'BAR')
       r.should be_a Hash
@@ -26,7 +26,7 @@ describe 'Goodreads' do
     end
   end
 
-  context '.configuration' do
+  describe '.configuration' do
     before do
       Goodreads.configure(:api_key => 'FOO', :api_secret => 'BAR')
     end
@@ -41,7 +41,7 @@ describe 'Goodreads' do
     end
   end
 
-  context '.reset_configuration' do
+  describe '.reset_configuration' do
     before do
       Goodreads.configure(:api_key => 'FOO', :api_secret => 'BAR')
     end
