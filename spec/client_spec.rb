@@ -251,4 +251,19 @@ describe 'Client' do
       group.group_users_count.should eq '10335'
     end
   end
+
+  describe '#list_groups_of_given_user' do
+    before { stub_with_key_get('/group/list', {:id => '1', :sort => 'my_activity'}, 'group_list.xml') }
+
+    it "lists groups a given user is a member of" do
+      group_list = client.group_list('1')
+
+      group_list.should be_a Hashie::Mash
+      group_list.total.should eq '107'
+      group_list.group!.count.should eq 50
+      group_list.group[0].id.should eq "1"
+      group_list.group[0].title.should eq 'Goodreads Feedback'
+      group_list.group[1].id.should eq "220"
+    end
+  end
 end
