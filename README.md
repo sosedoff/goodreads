@@ -131,14 +131,10 @@ List the groups a given user is a member of:
 group_list = client.group_list('user_id', 'sort')
 
 group_list.total         # => total number of groups
-group_list.group!.count  # => count of groups returned in the request 
-```
+group_list.group!.count  # => number of groups returned in the request
 
-The `sort` parameter is optional, and defaults to `my_activity`. For other sorting options, [see here](http://www.goodreads.com/api#group.list).
+# Loop through the list to get details for each of the groups.
 
-Get details of each of the groups in a list:
-
-```ruby
 group_list.group.each do |g|
   g.id                 # => group id
   g.access             # => access settings (private, public)
@@ -148,6 +144,8 @@ group_list.group.each do |g|
   g.last_activity_at   # => date and time of the group's last activity
 end
 ```
+
+The `sort` parameter is optional, and defaults to `my_activity`. For other sorting options, [see here](http://www.goodreads.com/api#group.list).
 
 ### User ID
 
