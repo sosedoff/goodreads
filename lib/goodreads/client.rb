@@ -6,6 +6,7 @@ require 'goodreads/client/users'
 require 'goodreads/client/shelves'
 require 'goodreads/client/authorized'
 require 'goodreads/client/groups'
+require 'goodreads/client/friends'
 
 module Goodreads
   class Client
@@ -17,6 +18,7 @@ module Goodreads
     include Goodreads::Shelves
     include Goodreads::Authorized
     include Goodreads::Groups
+    include Goodreads::Friends
 
     attr_reader :api_key, :api_secret, :oauth_token
 
@@ -24,7 +26,7 @@ module Goodreads
     #
     # options[:api_key]     - Account API key
     # options[:api_secret]  - Account API secret
-    # options[:oauth_token] - OAuth token (optional, required for some calls)
+    # options[:oauth_token] - OAuth access token (optional, required for some calls)
     #
     def initialize(options={})
       unless options.kind_of?(Hash)
