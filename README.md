@@ -1,4 +1,4 @@
-# Goodreads [![Build Status](https://secure.travis-ci.org/sosedoff/goodreads.png)](http://travis-ci.org/sosedoff/goodreads)
+# Goodreads [![Build Status](https://secure.travis-ci.org/ivanoblomov/goodreads.png)](http://travis-ci.org/ivanoblomov/goodreads)
 
 Ruby wrapper to communicate with Goodreads API.
 
@@ -30,7 +30,7 @@ client = Goodreads.new(:api_key => 'KEY') # short version
 ### Global configuration
 
 You can define client credentials on global level. Just create an initializer file (if using rails) under
-`config/initializers`: 
+`config/initializers`:
 
 ``` ruby
 Goodreads.configure(
@@ -62,7 +62,7 @@ client.book('id')
 client.book_by_isbn('ISBN')
 client.book_by_title('Book title')
 ```
-  
+
 Search for books (by title, isbn, genre):
 
 ```ruby
@@ -86,7 +86,7 @@ client.recent_reviews.each do |r|
   r.user.name     # => review user name
 end
 ```
-  
+
 Get review details:
 
 ```ruby
@@ -120,7 +120,7 @@ group = client.group('id')
 
 group.id                 # => group id
 group.title              # => group title
-group.access             # => group's access settings 
+group.access             # => group's access settings
                          # => (e.g., public or private)
 group.group_users_count  # => number of users in the group
 ```
@@ -147,20 +147,13 @@ end
 
 The `sort` parameter is optional, and defaults to `my_activity`. For other sorting options, [see here](http://www.goodreads.com/api#group.list).
 
-### User ID
+### OAuth
 
-Get the user id of the user who authorized via OAuth:
-
-```ruby
-client = Goodreads::Client.new(:api_key => 'YOUR_KEY', :oauth_token => token)
-client.user_id  # id of user who authorized via OAuth
-```
-
-Where `token` is an instance of `OAuth::AccessToken`. See the [Goodreads documentation](http://www.goodreads.com/api/oauth_example) for examples of how to correct create one.
+For API calls requiring permission, such as write operations or browsing friends, see our [OAuth tutorial](examples/oauth.md).
 
 ## Testing
 
-To run test suite:
+To run the test suite:
 
 ```
 rake test
@@ -168,7 +161,7 @@ rake test
 
 ## Contributions
 
-You're welcome to submit patches and new features. 
+You're welcome to submit patches and new features.
 
 - Create a new branch for your feature of bugfix
 - Add tests so it does not break any existing code
