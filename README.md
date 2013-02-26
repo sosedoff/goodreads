@@ -1,18 +1,16 @@
-# Goodreads API wrapper
+# Goodreads [![Build Status](https://secure.travis-ci.org/sosedoff/goodreads.png)](http://travis-ci.org/sosedoff/goodreads)
 
-Ruby library to connect with Goodreads API.
-
-[![Build Status](https://secure.travis-ci.org/sosedoff/goodreads.png)](http://travis-ci.org/sosedoff/goodreads)
+Ruby wrapper to communicate with Goodreads API.
 
 ## Installation
 
-You can install this library via rubygems:
+Install gem with rubygems:
 
 ```
 gem install goodreads
 ```
 
-Or using rake:
+Or manually:
 
 ```
 rake install
@@ -20,28 +18,30 @@ rake install
 
 ## Getting Started
 
-In order to use Goodreads API you must obtain an API key for your account.
+Before using Goodreads API you must create a new application. Visit [signup form](http://www.goodreads.com/api/keys) for details.
 
 Setup client:
 
-```ruby
-client = Goodreads::Client.new(:api_key => 'YOUR_KEY')
-
-# or using a shortcut
-client = Goodreads.new(:api_key => 'YOUR_KEY')
+``` ruby
+client = Goodreads::Client.new(:api_key => 'KEY', :api_secret => 'SECRET')
+client = Goodreads.new(:api_key => 'KEY') # short version
 ```
 
 ### Global configuration
 
-Library allows you to define a global configuration options.
+You can define client credentials on global level. Just create an initializer file (if using rails) under
+`config/initializers`: 
 
-```ruby
-Goodreads.configure(:api_key => 'YOUR_KEY')
+``` ruby
+Goodreads.configure(
+  :api_key => 'KEY',
+  :api_secret => 'SECRET'
+)
 ```
 
-Get current options:
+Get global configuration:
 
-```ruby
+``` ruby
 Goodreads.configuration # => {:api_key => 'YOUR_KEY'}
 ```
 
@@ -55,30 +55,21 @@ Goodreads.reset_configuration
 
 ### Lookup books
 
-Find a book by ISBN:
+You can lookup a book by ISBN, ID or Title:
 
 ```ruby
-book = client.book_by_isbn('ISBN')
-```
-  
-Find a book by Goodreads ID:
-
-```ruby
-book = client.book('id')
-```
-  
-Find a book by title:
-
-```ruby
-book = client.book_by_title('Book title')
+client.book('id')
+client.book_by_isbn('ISBN')
+client.book_by_title('Book title')
 ```
   
 Search for books (by title, isbn, genre):
 
 ```ruby
-search = client.search_books('Your search query')
+search = client.search_books('The Lord Of The Rings')
+
 search.results.work.each do |book|
-  book.id        # => book ID
+  book.id        # => book id
   book.title     # => book title
 end
 ```
@@ -100,10 +91,11 @@ Get review details:
 
 ```ruby
 review = client.review('id')
-review.id         # => ID
-review.user       # => User information
-review.book       # => Book information
-review.rating     # => User rating
+
+review.id         # => review id
+review.user       # => user information
+review.book       # => uook information
+review.rating     # => user rating
 ```
 
 ### Shelves
@@ -112,6 +104,7 @@ Get the books on a user's shelf:
 
 ```ruby
 shelf = client.shelf(user_id, shelf_name)
+
 shelf.books  # array of books on this shelf
 shelf.start  # start index of this page of paginated results
 shelf.end    # end index of this page of paginated results
@@ -124,6 +117,7 @@ Get group details:
 
 ```ruby
 group = client.group('id')
+
 group.id                 # => group id
 group.title              # => group title
 group.access             # => group's access settings 
@@ -131,7 +125,7 @@ group.access             # => group's access settings
 group.group_users_count  # => number of users in the group
 ```
 
-### User Id
+### User ID
 
 Get the user id of the user who authorized via OAuth:
 
@@ -140,15 +134,24 @@ client = Goodreads::Client.new(:api_key => 'YOUR_KEY', :oauth_token => token)
 client.user_id  # id of user who authorized via OAuth
 ```
 
-`token` is an instance of `OAuth::AccessToken`. See the [Goodreads documentation](http://www.goodreads.com/api/oauth_example) for examples of how to correct create one.
+Where `token` is an instance of `OAuth::AccessToken`. See the [Goodreads documentation](http://www.goodreads.com/api/oauth_example) for examples of how to correct create one.
+
+## Testing
+
+To run test suite:
+
+```
+rake test
+```
 
 ## Contributions
 
-Feel free to contribute any patches or new features.
+You're welcome to submit patches and new features. 
 
-Make sure to add a test coverage so it does not break any existing code.
-
-For documentation please visit [API Reference](http://www.goodreads.com/api)
+- Create a new branch for your feature of bugfix
+- Add tests so it does not break any existing code
+- Open a new pull request
+- Check official [API documentation](http://www.goodreads.com/api)
 
 ## License
 
