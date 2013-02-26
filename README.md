@@ -118,6 +118,19 @@ shelf.end    # end index of this page of paginated results
 shelf.total  # total number of books on this shelf
 ```
 
+### Groups
+
+Get group details:
+
+```ruby
+group = client.group('id')
+group.id                 # => group id
+group.title              # => group title
+group.access             # => group's access settings 
+                         # => (e.g., public or private)
+group.group_users_count  # => number of users in the group
+```
+
 ### User Id
 
 Get the user id of the user who authorized via OAuth:
