@@ -1,4 +1,4 @@
-# Goodreads [![Build Status](https://secure.travis-ci.org/ivanoblomov/goodreads.png)](http://travis-ci.org/ivanoblomov/goodreads) [![Dependency Status](https://gemnasium.com/ivanoblomov/goodreads.png)](https://gemnasium.com/ivanoblomov/goodreads)
+# Goodreads [![Code Climate](https://codeclimate.com/github/ivanoblomov/goodreads.png)](https://codeclimate.com/github/ivanoblomov/goodreads) [![Build Status](https://secure.travis-ci.org/ivanoblomov/goodreads.png)](http://travis-ci.org/ivanoblomov/goodreads) [![Dependency Status](https://gemnasium.com/ivanoblomov/goodreads.png)](https://gemnasium.com/ivanoblomov/goodreads)
 
 Ruby wrapper to communicate with Goodreads API.
 
