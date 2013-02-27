@@ -125,6 +125,17 @@ describe 'Client' do
       author.should be_a Hashie::Mash
       author.id.should eq '18541'
       author.name.should eq "Tim O'Reilly"
+      author.link.should eq 'http://www.goodreads.com/author/show/18541.Tim_O_Reilly'
+      author.fans_count.should eq 109
+      author.image_url.should eq 'http://photo.goodreads.com/authors/1199698411p5/18541.jpg'
+      author.small_image_url.should eq 'http://photo.goodreads.com/authors/1199698411p2/18541.jpg'
+      author.about.should eq '' 
+      author.influences.should eq ''
+      author.works_count.should eq '34'
+      author.gender.should eq 'male'
+      author.hometown.should eq 'Cork'
+      author.born_at.should eq '1954/06/06'
+      author.died_at.should be_nil
     end
 
     context 'when author does not exist' do
