@@ -131,7 +131,7 @@ List the groups a given user is a member of:
 group_list = client.group_list('user_id', 'sort')
 
 group_list.total         # => total number of groups
-group_list.group!.count  # => number of groups returned in the request
+group_list.group.count  # => number of groups returned in the request
 
 # Loop through the list to get details for each of the groups.
 

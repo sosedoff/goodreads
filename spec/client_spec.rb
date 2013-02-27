@@ -260,7 +260,7 @@ describe 'Client' do
 
       group_list.should be_a Hashie::Mash
       group_list.total.should eq '107'
-      group_list.group!.count.should eq 50
+      group_list.group.count.should eq 50
       group_list.group[0].id.should eq '1'
       group_list.group[0].title.should eq 'Goodreads Feedback'
       group_list.group[1].id.should eq '220'
