@@ -74,24 +74,24 @@ search.results.work.each do |book|
 end
 ```
 
-### Lookup authors
-
-You can look up an author by their Goodreads Author id:
+### Authors
+ 
+Look up an author by their Goodreads Author ID:
 
 ```ruby
 author = client.author('id')
 
 author.id              # => author id
-author.name            # => author name
+author.name            # => author's name
 author.link            # => link to author's Goodreads page
 author.fans_count      # => number of fans author has on Goodreads
 author.image_url       # => link to image of the author
 author.small_image_url # => link to smaller of the author
 author.about           # => description of the author
-author.influences      # => array of links to author's influences
+author.influences      # => list of links to author's influences
 author.works_count     # => number of works by the author in Goodreads
-author.gender          # => author gender
-author.hometown        # => author hometown
+author.gender          # => author's gender
+author.hometown        # => author's hometown
 author.born_at         # => author's birthdate
 author.died_at         # => date of author's death
 ```
