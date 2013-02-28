@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[friend_user]]></method>
+  </Request>
+  <friends start="1" end="2" total="2">
+    <user>
+      <id>1421455</id>
+      <name>Amy Chamberlain</name>
+      <link><![CDATA[http://www.goodreads.com/user/show/1421455-amy-chamberlain]]></link>
+      <image_url><![CDATA[http://d.gr-assets.com/users/1315014486p3/1421455.jpg]]></image_url>
+      <small_image_url><![CDATA[http://d.gr-assets.com/users/1315014486p2/1421455.jpg]]></small_image_url>
+      <friends_count>29</friends_count>
+      <reviews_count>475</reviews_count>
+  			<created_at>Sun Mar 20 19:39:06 -0700 2011</created_at>
+    </user>
+    <user>
+      <id>17764795</id>
+      <name>Lisa Teran</name>
+      <link><![CDATA[http://www.goodreads.com/user/show/17764795-lisa-teran]]></link>
+      <image_url><![CDATA[http://d.gr-assets.com/users/1361688877p3/17764795.jpg]]></image_url>
+      <small_image_url><![CDATA[http://d.gr-assets.com/users/1361688877p2/17764795.jpg]]></small_image_url>
+      <friends_count>35</friends_count>
+      <reviews_count>5</reviews_count>
+  			<created_at>Sat Feb 23 22:53:57 -0800 2013</created_at>
+    </user>
+</friends>
+</GoodreadsResponse>
