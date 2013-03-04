@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[api_author_link]]></method>
+  </Request>
+  
+
+		<author id="589">
+			<name><![CDATA[Orson Scott Card]]></name>
+			<link>http://www.goodreads.com/author/show/589.Orson_Scott_Card?utm_medium=api&amp;utm_source=author_link</link>
+		</author>
+	
+	
+
+</GoodreadsResponse>

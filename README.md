@@ -96,6 +96,16 @@ author.born_at         # => author's birthdate
 author.died_at         # => date of author's death
 ```
 
+Look up an author by name:
+
+```ruby
+author = client.author_by_name('Author Name')
+
+author.id     # => author id
+author.name   # => author name
+author.link   # => link to author's Goodreads page
+```
+
 ### Reviews
 
 Pull recent reviews:
