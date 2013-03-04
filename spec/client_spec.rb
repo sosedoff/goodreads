@@ -150,6 +150,23 @@ describe 'Client' do
     end
   end
 
+  describe '#author_by_name' do
+    before do
+      # Spaces in author name pre-encoded to get past quirk in webmock
+      #
+      stub_with_key_get('/api/author_url', {:id => 'Orson%2BScott%2BCard'}, 'author_by_name.xml')
+    end
+
+    it 'returns author details' do
+      author = client.author_by_name('Orson Scott Card')
+
+      author.should be_a Hashie::Mash
+      author.id.should eq   '589'
+      author.name.should eq 'Orson Scott Card'
+      author.link.should eq 'http://www.goodreads.com/author/show/589.Orson_Scott_Card?utm_medium=api&utm_source=author_link'
+    end
+  end
+
   describe '#user' do
     before { stub_with_key_get('/user/show', {:id => '878044'}, 'user.xml') }
 
