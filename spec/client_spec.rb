@@ -152,9 +152,7 @@ describe 'Client' do
 
   describe '#author_by_name' do
     before do
-      # Spaces in author name pre-encoded to get past quirk in webmock
-      #
-      stub_with_key_get('/api/author_url', {:id => 'Orson%2BScott%2BCard'}, 'author_by_name.xml')
+      stub_with_key_get('/api/author_url', {:id => 'Orson Scott Card'}, 'author_by_name.xml')
     end
 
     it 'returns author details' do
@@ -236,7 +234,7 @@ describe 'Client' do
       shelf.books.first.book.title.should match /Your Money or Your Life/
     end
 
-    it "returns an ampty array when shelf is empty" do
+    it "returns an empty array when shelf is empty" do
       stub_with_key_get('/review/list/1.xml', {:shelf => 'to-read', :v => '2'}, 'empty.xml')
 
       shelf = client.shelf('1', 'to-read')
