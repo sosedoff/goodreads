@@ -1,5 +1,3 @@
 module Goodreads
-  unless defined?(Goodreads::VERSION)
-    VERSION = '0.2.2'.freeze
-  end
+  VERSION = "0.3.0"
 end
