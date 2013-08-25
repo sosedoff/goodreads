@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.homepage    = "http://github.com/sosedoff/goodreads"
   s.authors     = ["Dan Sosedoff"]
   s.email       = ["dan.sosedoff@gmail.com"]
+  s.license     = "MIT"
   
   s.add_development_dependency 'webmock',   '~> 1.11'
   s.add_development_dependency 'rake',      '~> 0.9'
