@@ -75,7 +75,7 @@ module Goodreads
           raise Goodreads::NotFound
       end
 
-      parse(resp)
+      resp
     end
 
     def parse(resp)
