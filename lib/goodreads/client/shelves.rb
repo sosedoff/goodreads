@@ -49,7 +49,7 @@ module Goodreads
 
     # Add book to shelf
     def add_book_to_shelf(book_id, shelf)
-      data = oauth_update('/shelf/add_book_to_shelf.xml', 
+      data = oauth_update('/shelf/add_to_shelf.xml', 
         {:book_id => book_id, :name => shelf})
     end
 
@@ -61,7 +61,7 @@ module Goodreads
 
     # Remove book from shelf
     def remove_book_from_shelf(book_id, shelf)
-      data = oauth_update('/shelf/add_book_to_shelf.xml', 
+      data = oauth_update('/shelf/add_to_shelf.xml', 
         {:book_id => book_id, :name => shelf, :a => 'remove'})
     end
 
