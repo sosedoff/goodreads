@@ -22,5 +22,13 @@ module Goodreads
       })
     end
 
+    def owned_books(id)
+      data = oauth_request('/owned_books/user', :id => id)
+      owned_books = data['owned_books']['owned_book']
+
+      books = []
+      books = owned_books.map {|e| Hashie::Mash.new(e)} 
+    end
+
   end
 end
