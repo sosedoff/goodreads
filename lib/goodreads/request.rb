@@ -58,6 +58,26 @@ module Goodreads
       parse(resp)
     end
 
+    # Perform an OAuth API update. Goodreads must have been initialized with a valid OAuth access token.
+    #
+    # path   - Request path
+    # params - Parameters hash
+    #
+    def oauth_update(path, params=nil)
+      raise 'OAuth access token required!' unless @oauth_token
+      path = "#{path}?#{params.map{|k,v|"#{k}=#{v}"}.join('&')}" if params
+      resp = @oauth_token.post(path, {'Accept'=>'application/xml'})
+
+      case resp
+        when Net::HTTPUnauthorized
+          raise Goodreads::Unauthorized
+        when Net::HTTPNotFound
+          raise Goodreads::NotFound
+      end
+
+      parse(resp)
+    end
+
     def parse(resp)
       hash = Hash.from_xml(resp.body)['GoodreadsResponse']
       hash.delete('Request')
