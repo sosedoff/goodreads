@@ -37,8 +37,14 @@ module Goodreads
     # Get the list of series for an author
     #
     def series_by_author(id)
-      data = request('/series/list', {:id => id})
-      series_list = data['series_works']
+      resp = request_with_no_hash('/series/list', {:id => id})
+
+      # work around for malformed XML response
+      resp = resp.gsub(/&lt;/, '<').gsub(/&gt;/, '>').gsub(/&quot;/, '"')
+      data = Hash.from_xml(resp)['GoodreadsResponse']
+      data.delete('Request')
+
+      series_list = data['series_works']['series_work']
 
       series = []
       series = series_list.map {|s| Hashie::Mash.new(s)}
