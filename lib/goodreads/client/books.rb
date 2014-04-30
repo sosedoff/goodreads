@@ -50,7 +50,7 @@ module Goodreads
 
       Hashie::Mash.new({
         :book_count => data['series']['primary_work_count'],
-        :series_title => data['series']['title'].gsub(/^\s+/, '').gsub(/\s+$/, ''),
+        :series_title => data['series']['title'].strip,
         :series => series,
         :titles => titles
       })
