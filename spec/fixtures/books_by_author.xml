@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[author_list]]></method>
+  </Request>
+  <author>
+  <id>18541</id>
+  <name>Tim O&apos;Reilly</name>
+  <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+  <books start="1" end="30" total="50">
+    <book>
+  <id type="integer">104744</id>
+  <isbn>1565927249</isbn>
+  <isbn13>9781565927247</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>The Cathedral &amp; the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/104744.The_Cathedral_the_Bazaar</link>
+  <num_pages>279</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>1405</ratings_count>
+  <description>"This is how we did it." --Linus Torvalds, creator of the Linux kernel&lt;br&gt;&lt;br&gt;It all started with a series of odd statistics. The leading challenger to Microsoft's stranglehold on the computer industry is an operating system called Linux, the product of thousands of volunteer programmers who collaborate over the Internet. The software behind a majority of all the world's web sites doesn't come from a big company either, but from a loosely coordinated group of volunteer programmers called the Apache Group. The Internet itself, and much of its core software, was developed through a process of networked collaboration.&lt;br&gt;&lt;br&gt;The key to these stunning successes is a movement that has come to be called open source, because it depends on the ability of programmers to freely share their program source code so that others can improve it. In 1997, Eric S. Raymond outlined the core principles of this movement in a manifesto called "The Cathedral and the Bazaar," which was published and freely redistributed over the Internet.&lt;br&gt;&lt;br&gt;Mr. Raymond's thinking electrified the computer industry. He argues that the development of the Linux operating system by a loose confederation of thousands of programmers--without central project management or control--turns on its head everything we thought we knew about software project management. Internet-enabled collaboration and free information sharing, not monopolistic control, is the key to innovation and product quality.&lt;br&gt;&lt;br&gt;This idea was interesting to more than programmers and software project leaders. It suggested a whole new way of doing business, and the possibility of unprecedented shifts in the power structures of the computer industry.&lt;br&gt;&lt;br&gt;The rush to capitalize on the idea of open source started with Netscape's decision to release its flagship Netscape Navigator product under open source licensing terms in early 1998. Before long, Fortune 500 companies like Intel, IBM, and Oracle were joining the party. By August 1999, when the leading Linux distributor, Red Hat Software, made its hugely successful public stock offering, it had become clear that open source was "the next big thing" in the computer industry.&lt;br&gt;&lt;br&gt;This revolutionary book starts out with "A Brief History of Hackerdom"--the historical roots of the open-source movement--and details the events that led to the recognition of the power of open source. It contains the full text of "The Cathedral &amp;amp; the Bazaar," updated and expanded for this book, plus Mr. Raymond's other key essays on the social and economic dynamics of open source software development.&lt;br&gt;&lt;br&gt;Open source is the competitive advantage in the Internet Age. &lt;em&gt;The Cathedral &amp;amp; the Bazaar&lt;/em&gt; is a must for anyone who cares about the computer industry or the dynamics of the information economy. Already, billions of dollars have been made and lost based on the ideas in this book. Its conclusions will be studied, debated, and implemented for years to come.</description>
+<authors>
+  <author>
+    <id>18542</id>
+    <name>Eric S. Raymond</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1265508525p5/18542.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1265508525p2/18542.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18542.Eric_S_Raymond]]></link>
+    <average_rating>3.90</average_rating>
+    <ratings_count>2070</ratings_count>
+    <text_reviews_count>125</text_reviews_count>
+  </author>
+</authors>
+  <published>1999</published>
+</book>
+    <book>
+  <id type="integer">172314</id>
+  <isbn>1565922603</isbn>
+  <isbn13>9781565922600</isbn13>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <title>UNIX Power Tools</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/172314.UNIX_Power_Tools</link>
+  <num_pages>1122</num_pages>
+  <format>Paperback</format>
+  <edition_information>2nd edition</edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>242</ratings_count>
+  <description>Ideal for UNIX users who hunger for technical -- yet accessible -- information, &lt;em&gt;UNIX Power Tools, 2nd Edition&lt;/em&gt;, consists of tips, tricks, concepts, and freeware (CD-ROM included). It also covers add-on utilities and how to take advantage of clever features in the most popular UNIX utilities.&lt;br&gt;&lt;br&gt;Loaded with even more practical advice about almost every aspect of UNIX, this edition addresses the technology that UNIX users face today, differing from the first edition in a number of important ways.&lt;br&gt;&lt;br&gt;First, it slants the blend of options and commands more toward the POSIX utilities, including the GNU versions; the &lt;em&gt;bash&lt;/em&gt; and &lt;em&gt;tcsh&lt;/em&gt; shells have greater coverage, but we've kept the first edition's emphasis on the core concepts of &lt;em&gt;sh&lt;/em&gt; and &lt;em&gt;csh&lt;/em&gt; that will help you use all UNIX shells; and, Perl is more important than &lt;em&gt;awk&lt;/em&gt; these days, so we've de-emphasized awk in this edition.&lt;br&gt;&lt;br&gt;This is a browser's book...like a magazine that you don't read from start to finish, but leaf through repeatedly until you realize that you've read it all. The book is structured so that it bursts at the seams with cross references. Interesting "sidebars" explore syntax or point out other directions for exploration, including relevant technical details that might not be immediately apparent. You'll find articles abstracted from other O'Reilly books, new information that highlights program "tricks" and "gotchas," tips posted to the Net over the years, and other accumulated wisdom.&lt;br&gt;&lt;br&gt;The 53 chapters in this book discuss topics like file management, text editors, shell programming -- even office automation. Overall, there's plenty of material here to satisfy even the most voracious appetites. The bottom line? &lt;em&gt;UNIX Power Tools&lt;/em&gt; is loaded with practical advice about almost every aspect of UNIX. It will help you think creatively about UNIX, and will help you get to the point where you can analyze your own problems. Your own solutions won't be far behind.&lt;br&gt;&lt;br&gt;The CD-ROM includes all of the scripts and aliases from the book, plus &lt;em&gt;perl&lt;/em&gt;, GNU &lt;em&gt;emacs&lt;/em&gt;, &lt;em&gt;netpbm&lt;/em&gt; (graphics manipulation utilities), &lt;em&gt;ispell&lt;/em&gt;,&lt;em&gt;screen&lt;/em&gt;, the &lt;em&gt;sc&lt;/em&gt; spreadsheet, and about 60 other freeware programs. In addition to the source code, all the software is precompiled for Sun4, Digital UNIX, IBM AIX, HP/UX, Red Hat Linux, Solaris, and SCO UNIX.</description>
+<authors>
+  <author>
+    <id>49587</id>
+    <name>Jerry Peek</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/49587.Jerry_Peek]]></link>
+    <average_rating>4.02</average_rating>
+    <ratings_count>429</ratings_count>
+    <text_reviews_count>31</text_reviews_count>
+  </author>
+</authors>
+  <published>1997</published>
+</book>
+    <book>
+  <id type="integer">6356381</id>
+  <isbn>0596802811</isbn>
+  <isbn13>9780596802813</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <title>The Twitter Book</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328834986m/6356381.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328834986s/6356381.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6356381-the-twitter-book</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>235</ratings_count>
+  <description>"Media organizations should take note of Twitter's power to quickly reach their target consumers." --Tim O'Reilly (@timoreilly), in a Los Angeles Times interview, March 2009&lt;br&gt;&lt;br&gt;This practical guide will teach you everything you need to know to quickly become a Twitter power user. It includes information on the latest third party applications, strategies and tactics for using Twitter's 140-character messages as a serious--and effective--way to boost your business, as well as how to turn Twitter into your personal newspaper, tracking breaking news and learning what matters to you and your friends.&lt;br&gt;&lt;br&gt;Co-written by Tim O'Reilly and Sarah Milstein, widely followed and highly respected twitterers, the practical information in &lt;em&gt;The Twitter Book&lt;/em&gt; is presented in an innovative, visually rich format that's packed with clear explanations and examples of best practices that show Twitter in action, as demonstrated by the work of over 60 twitterers.&lt;br&gt;&lt;br&gt;This book will help you:&lt;br&gt;&lt;br&gt;&lt;br&gt;Use Twitter to connect with colleagues, customers, family, and friends Stand out on Twitter Avoid common Twitter gaffes and pitfalls Build a critical professional communications channel with Twitter--and use the best third-party tools that help you manage it. If you want to know how to use Twitter like a pro, &lt;em&gt;The Twitter Book&lt;/em&gt; will quickly get you up to speed.&lt;br&gt;&lt;br&gt;About the authors:&lt;br&gt;&lt;br&gt; Tim O Reilly (@timoreilly), founder and CEO of O Reilly Media, has hundreds of thousands of followers on Twitter. Sarah Milstein (@SarahM) frequently writes, speaks and teaches about Twitter; she was the 21st user of Twitter.</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+    <book>
+  <id type="integer">21562603</id>
+  <isbn>1616960809</isbn>
+  <isbn13>9781616960803</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Context</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/21562603-context</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Tachyon Publications</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>164</ratings_count>
+  <description>One of the internet's most celebrated hi-tech culture mavens returns with this second collection of essays and polemics. Discussing complex topics in an accessible manner, Cory Doctorow shares visions of a future where artists control their own destinies and where freedom of expression is tempered with the view that creators need to benefit from their own creations. From extolling the Etsy marketverse to excoriating Apple for dumbing-down technology while creating an information monopoly, each unique piece is brief, witty, and at the cutting edge of tech. Now a stay-at-home dad as well as an international activist, Doctorow writes as eloquently about creating internet real-time theater with his daughter as he does in lambasting the corporations that want to limit and profit from inherent intellectual freedoms.</description>
+<authors>
+  <author>
+    <id>12581</id>
+    <name>Cory Doctorow</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361468756p5/12581.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361468756p2/12581.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/12581.Cory_Doctorow]]></link>
+    <average_rating>3.79</average_rating>
+    <ratings_count>73683</ratings_count>
+    <text_reviews_count>10134</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+    <book>
+  <id type="integer">6438581</id>
+  <isbn>0596522304</isbn>
+  <isbn13>9780596522308</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>Even Faster Web Sites</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328834858m/6438581.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328834858s/6438581.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6438581-even-faster-web-sites</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>138</ratings_count>
+  <description>Performance is critical to the success of any web site, and yet today's web applications push browsers to their limits with increasing amounts of rich content and heavy use of Ajax. In this book, Steve Souders, web performance evangelist at Google and former Chief Performance Yahoo!, provides valuable techniques to help you optimize your site's performance.&lt;br&gt;&lt;br&gt;Souders' previous book, the bestselling &lt;em&gt;High Performance Web Sites&lt;/em&gt;, shocked the web development world by revealing that 80% of the time it takes for a web page to load is on the client side. In &lt;em&gt;Even Faster Web Sites&lt;/em&gt;, Souders and eight expert contributors provide best practices and pragmatic advice for improving your site's performance in three critical categories:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;-Get advice for understanding Ajax performance, writing efficient JavaScript, creating responsive applications, loading scripts without blocking other components, and more.&lt;br&gt;&lt;strong&gt;Network&lt;/strong&gt;-Learn to share resources across multiple domains, reduce image size without loss of quality, and use chunked encoding to render pages faster.&lt;br&gt;&lt;strong&gt;Browser&lt;/strong&gt;-Discover alternatives to iframes, how to simplify CSS selectors, and other techniques. Speed is essential for today's rich media web sites and Web 2.0 applications. With this book, you'll learn how to shave precious seconds off your sites' load times and make them respond even faster.&lt;br&gt;&lt;br&gt;This book contains six guest chapters contributed by Dion Almaer, Doug Crockford, Ben Galbraith, Tony Gentilcore, Dylan Schiemann, Stoyan Stefanov, Nicole Sullivan, and Nicholas C. Zakas.</description>
+<authors>
+  <author>
+    <id>775693</id>
+    <name>Steve Souders</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/775693.Steve_Souders]]></link>
+    <average_rating>4.16</average_rating>
+    <ratings_count>435</ratings_count>
+    <text_reviews_count>48</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+    <book>
+  <id type="integer">53751</id>
+  <isbn>0425097854</isbn>
+  <isbn13>9780425097854</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Maker of Dune</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1370630957m/53751.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1370630957s/53751.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/53751.Maker_of_Dune</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Berkley Trade</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1987</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>55</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>58</id>
+    <name>Frank Herbert</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168661521p5/58.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168661521p2/58.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>595462</ratings_count>
+    <text_reviews_count>12358</text_reviews_count>
+  </author>
+</authors>
+  <published>1987</published>
+</book>
+    <book>
+  <id type="integer">17163003</id>
+  <isbn nil="true"/>
+  <isbn13>9788960772779</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>열린 정부 만들기: 모든 시민이 참여하는 투명한 정부 2.0 프로젝트</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1356238726m/17163003.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1356238726s/17163003.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/17163003</link>
+  <num_pages>549</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>에이콘</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>42</ratings_count>
+  <description>In a world where web services can make real-time data accessible to anyone, how can the government leverage this openness to improve its operations and increase citizen participation and awareness? Through a collection of essays and case studies, leading visionaries and practitioners both inside and outside of government share their ideas on how to achieve and direct this emerging world of online collaboration, transparency, and participation.Contributions and topics include:Beth Simone Noveck, U.S. Deputy Chief Technology Officer for open government, "The Single Point of Failure" Jerry Brito, senior research fellow at the Mercatus Center at George Mason University, "All Your Data Are Belong to Us: Liberating Government Data" Aaron Swartz, cofounder of reddit.com, OpenLibrary.org, and BoldProgressives.org, "When Is Transparency Useful?" Ellen S. Miller, executive director of the Sunlight Foundation, "Disrupting Washington's Golden Rule" Carl Malamud, founder of Public.Resource.Org, "By the People" Douglas Schuler, president of the Public Sphere Project, "Online Deliberation and Civic Intelligence" Howard Dierking, program manager on Microsoft's MSDN and TechNet Web platform team, "Engineering Good Government" Matthew Burton, Web entrepreneur and former intelligence analyst at the Defense Intelligence Agency, "A Peace Corps for Programmers" Gary D. Bass and Sean Moulton, OMB Watch, "Bringing the Web 2.0 Revolution to Government" Tim O'Reilly, founder and CEO of O'Reilly Media, "Defining Government 2.0: Lessons Learned from the Success of Computer Platforms" Open Government editors: Daniel Lathrop is a former investigative projects reporter with the Seattle Post Intelligencer who's covered politics in Washington state, Iowa, Florida, and Washington D.C. He's a specialist in campaign finance and "computer-assisted reporting" -- the practice of using data analysis to report the news. Laurel Ruma is the Gov 2.0 Evangelist at O'Reilly Media. She is also co-chair for the Gov 2.0 Expo.</description>
+<authors>
+  <author>
+    <id>3237990</id>
+    <name>Daniel Lathrop</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3237990.Daniel_Lathrop]]></link>
+    <average_rating>3.74</average_rating>
+    <ratings_count>42</ratings_count>
+    <text_reviews_count>11</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+    <book>
+  <id type="integer">265506</id>
+  <isbn>1565920902</isbn>
+  <isbn13>9781565920903</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Exploring Expect: A Tcl-based Toolkit for Automating Interactive Programs</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328752687m/265506.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328752687s/265506.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/265506.Exploring_Expect</link>
+  <num_pages>606</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>23</ratings_count>
+  <description>Expect is quickly becoming a part of every UNIX user's toolbox. It allows you to automate Telnet, FTP, passwd, rlogin, and hundreds of other applications that normally require human interaction. Using Expect to automate these applications will allow you to speed up tasks and, in many cases, solve new problems that you never would have even considered before.&lt;br&gt;&lt;br&gt;For example, you can use Expect to test interactive programs with no changes to their interfaces. Or wrap interactive programs with Motif-like front-ends to control applications by buttons, scrollbars, and other graphic elements with no recompilation of the original programs. You don't even need the source code! Expect works with remote applications, too. Use it to tie together Internet applications including Telnet, Archie, FTP, Gopher, and Mosaic.&lt;br&gt;&lt;br&gt;Don Libes is the creator of Expect as well as the author of this book. In &lt;em&gt;Exploring Expect&lt;/em&gt;, he provides a comprehensive tutorial on all of Expect's features, allowing you to put it immediately to work on your problems. In a down-to-earth and humorous style, he provides numerous examples of challenging real-world applications and how they can be automated using Expect to save you time and money.&lt;br&gt;&lt;br&gt;Expect is the first of a new breed of programs based on Tcl, the Tool Command Language that is rocking the computer science community. This book provides an introduction to Tcl and describes how Expect applies Tcl's power to the new field of interaction automation. Whether your interest is in Expect or interaction automation or you simply want to learn about Tcl and see how it has been used in real software, you will find &lt;em&gt;Exploring Expect&lt;/em&gt; a treasure trove of easy-to-understand and valuable information.</description>
+<authors>
+  <author>
+    <id>155064</id>
+    <name>Don Libes</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/155064.Don_Libes]]></link>
+    <average_rating>3.97</average_rating>
+    <ratings_count>39</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+  </author>
+</authors>
+  <published>1994</published>
+</book>
+    <book>
+  <id type="integer">16150704</id>
+  <isbn nil="true"/>
+  <isbn13>B008Y1O0M6</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>How Data Science is Transforming Health Care</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1354249809m/16150704.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1354249809s/16150704.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/16150704-how-data-science-is-transforming-health-care</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>O'Reilly</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>12</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+    <book>
+  <id type="integer">17608348</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Creative Entrepreneurship</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363109247m/17608348.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363109247s/17608348.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/17608348-creative-entrepreneurship</link>
+  <num_pages>262</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>kbs+ Ventures</publisher>
+  <publication_day/>
+  <publication_year>2013</publication_year>
+  <publication_month/>
+  <average_rating>4.25</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>A Collection of Articles From Around Silicon Alley &amp;amp; Silicon Valley That Stretch Our Entrepreneurial Minds</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+    <book>
+  <id type="integer">583674</id>
+  <isbn>0937175226</isbn>
+  <isbn13>9780937175224</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>termcap and terminfo</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328767445m/583674.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328767445s/583674.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/583674.termcap_and_terminfo</link>
+  <num_pages>264</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>1988</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>7</ratings_count>
+  <description>While termcap and terminfo are no longer as important as they once were, due to the growth of the X terminal market and increased standardization among ASCII terminals, handling different terminal types can still be a headache for system administrators. The termcap and terminfo databases are UNIX's solution to the difficulty of supporting many terminals without writing special drivers for each terminal. Termcap (BSD) and terminfo (System V) describe the features of hundreds of terminals, together with a library of routines that allow programs to use those capabilities.&lt;br&gt;&lt;br&gt;This book documents hundreds of capabilities and syntax for termcap and terminfo, writing and debugging terminal descriptions, and terminal initialization.&lt;br&gt;&lt;br&gt;Contents include:&lt;br&gt;&lt;br&gt;&lt;br&gt;Terminal independence: the need for termcap and terminfo. Reading termcap and terminfo entries. Capability syntax. Initializing the terminal environment. Writing termcap and terminfo entries. Converting between termcap and terminfo. Detailed descriptions of the capabilities. Screen dimensions and cursor movement. Initialization and reset. Special and equivalent terminals. Many useful appendices.</description>
+<authors>
+  <author>
+    <id>219895</id>
+    <name>Linda Mui</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/219895.Linda_Mui]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>141</ratings_count>
+    <text_reviews_count>2</text_reviews_count>
+  </author>
+</authors>
+  <published>1988</published>
+</book>
+    <book>
+  <id type="integer">1785723</id>
+  <isbn>0596002491</isbn>
+  <isbn13>9780596002497</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Windows XP in a Nutshell</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1785723.Windows_XP_in_a_Nutshell</link>
+  <num_pages>640</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>7</ratings_count>
+  <description>This compact and comprehensive book systematically unveils what resolute users of the new Windows XP operating system will find interesting and useful, with little-known details, utility programs, and configuration settings all captured in a consistent reference format.&lt;br&gt;&lt;br&gt;A hands-on guide, &lt;em&gt;Windows XP in a Nutshell&lt;/em&gt; cuts through the hype and gives practical details you can use every day. It's written by David A. Karp, the best-selling author whose no-nonsense "Annoyances" books and web site (Annoyances.org) have helped thousands of users solve problems and improve their experience with Windows®. The co-author is none other than Tim O'Reilly, founder of O'Reilly &amp;amp; Associates, whose books have revolutionized computer book publishing with their commonsense approach and depth of detail.&lt;br&gt;&lt;br&gt;At the heart of the book is a 200-plus-page reference section titled "Windows XP Applications and Tools," containing:&lt;br&gt;&lt;br&gt;&lt;br&gt;Detailed information on most of the commands and utilities available with Windows XP, including Start Menu accessories, command prompt tools, hidden system administration utilities such as the Registry Editor, Microsoft Management Console, and TweakUI. A comprehensive "Where to Find It?" section designed to give Windows 9x/Me and Windows NT/2000 users a guide to the XP counterparts to previously familiar features, plus information on installing and upgrading. The Task and Setting Index, which provides users with quick access to locations of the hundreds of settings in Windows XP, organized alphabetically. A complete reference to the command prompt-- not only covering the basics of the command line and the different ways to use it, but also the advanced commands and scripting features at Windows XP's disposal. Packed with numerous tips and tricks, while warning of potential pitfalls, &lt;em&gt;Windows XP in a Nutshell&lt;/em&gt; enables anyone to get the most out of all the resources available in XP.</description>
+<authors>
+  <author>
+    <id>7222990</id>
+    <name>David A.  Karp</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/7222990.David_A_Karp]]></link>
+    <average_rating>3.71</average_rating>
+    <ratings_count>56</ratings_count>
+    <text_reviews_count>10</text_reviews_count>
+  </author>
+</authors>
+  <published>2002</published>
+</book>
+    <book>
+  <id type="integer">2443857</id>
+  <isbn>156592486X</isbn>
+  <isbn13>9781565924864</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Windows 98 in a Nutshell (In a Nutshell</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328752727m/2443857.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328752727s/2443857.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/2443857.Windows_98_in_a_Nutshell_In_a_Nutshell</link>
+  <num_pages>634</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media, Inc.</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.25</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>"Windows 98 in a Nutshell" is a comprehensive, compact reference that systematically unveils what serious users of Windows 98 will find interesting and useful. Little known details of the operating system, utility programs, and configuration settings are all captured in a consistent reference format.&lt;br&gt;&lt;br&gt;Based on the bestselling "In a Nutshell" approach, this book contains more information about using Windows 98 than any other book on the market. Guaranteed. "Windows 98 in a Nutshell" was coauthored by Tim O'Reilly, the publisher whose books have revolutionized computer book publishing with their commonsense approach, depth of detail, and focus on practical information that you can really use. If you can't remember which option on a dialog box controls a function, or if you just want to have a better handle on what's available in Windows 98 and Windows 98 Second Edition, this is the book you need.&lt;br&gt;&lt;br&gt;It contains: Detailed information on almost every command and utility available with Windows 98, including Start Menu accessories, DOS commands, hidden system administration utilities such as the Registry Editor, Policy Editor, and TweakUI, as well as new utilities in Windows 98Detailed advice and documentation on system configuration via the Control Panel, system startup files, and the RegistryA detailed treatment of Internet configuration and access via Dial-Up NetworkingHundreds of tips, gotchas, and clever ways to do familiar and not-so-familiar tasksA focus on ways to integrate the command line into your work with Windows 98Pointers to dozens of useful online sites that contain additional informationInformation on how to use Win98's new Web integration features to build custom "Web applications" within folders or on your desktopDetailed information on Windows Script Host (WSH), the feature that lets you use VBScript or other scripting languages to automate common tasks&lt;br&gt;&lt;br&gt;This book follows the commonsense O'Reilly approach, cutting through the hype and giving practical details you can use every day. Any user who wants to make the most of Windows 98 and Windows 98 Second Edition will love this book.</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>1999</published>
+</book>
+    <book>
+  <id type="integer">2918269</id>
+  <isbn>0596527691</isbn>
+  <isbn13>9780596527693</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Web 2.0 Report</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/2918269-web-2-0-report</link>
+  <num_pages>101</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.75</average_rating>
+  <ratings_count>4</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>919529</id>
+    <name>John Musser</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/919529.John_Musser]]></link>
+    <average_rating>4.75</average_rating>
+    <ratings_count>4</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+    <book>
+  <id type="integer">2581204</id>
+  <isbn>059651056X</isbn>
+  <isbn13>9780596510565</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Craft, Volume 2: Transforming Traditional Crafts</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328834718m/2581204.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328834718s/2581204.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/2581204-craft-volume-2</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>4</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>2007</published>
+</book>
+    <book>
+  <id type="integer">1551276</id>
+  <isbn>0937175935</isbn>
+  <isbn13>9780937175934</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Managing UUCP and Usenet</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1551276.Managing_UUCP_and_Usenet</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.20</average_rating>
+  <ratings_count>5</ratings_count>
+  <description>For all its widespread use, UUCP is one of the most difficult UNIX utilities to master. Poor documentation, cryptic messages, and differences between various implementations make setting up UUCP links a nightmare for many a system administrator.&lt;br&gt;&lt;br&gt;This handbook is meant for system administrators who want to install and manage the UUCP and Usenet software. It covers HoneyDanBer UUCP as well as standard Version 2 UUCP, with special notes on Xenix. As one reader noted over the Net, "Don't even TRY to install UUCP without it!"&lt;br&gt;&lt;br&gt;Topics covered in &lt;em&gt;Managing UUCP&lt;/em&gt; include:&lt;br&gt;&lt;br&gt;&lt;br&gt;How UUCP works. RS-232 cabling. Talking with modems. Setting up a UUCP link. Security considerations. UUCP administration. Introduction to Usenet. Installing Netnews. Administering Netnews. The tenth edition of this classic work has been revised and expanded to include descriptions of:&lt;br&gt;&lt;br&gt;&lt;br&gt;How to use NNTP (Network News Transfer Protocol) to transfer Usenet news over TCP/IP and other high-speed networks. How to get DOS versions of UUCP. How to set up DOS-based laptop computers as traveling UUCP nodes. How the UUCP 'g' protocol works.</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>1990</published>
+</book>
+    <book>
+  <id type="integer">1477427</id>
+  <isbn>0672462915</isbn>
+  <isbn13>9780672462917</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>UNIX Text Processing</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1477427.UNIX_Text_Processing</link>
+  <num_pages>665</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hayden Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1987</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.67</average_rating>
+  <ratings_count>3</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>59930</id>
+    <name>Dale Dougherty</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/59930.Dale_Dougherty]]></link>
+    <average_rating>3.70</average_rating>
+    <ratings_count>380</ratings_count>
+    <text_reviews_count>23</text_reviews_count>
+  </author>
+</authors>
+  <published>1987</published>
+</book>
+    <book>
+  <id type="integer">20868741</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>What is Web 2.0</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/20868741-what-is-web-2-0</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>3</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+    <book>
+  <id type="integer">6060251</id>
+  <isbn>1565920147</isbn>
+  <isbn13>9781565920149</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Volume 3: X Window System User's Guide: Standard Edition (X Window System User's Guide Vol. 3)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6060251-volume-3</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>The &lt;em&gt;X Window System User's Guide&lt;/em&gt; orients the new user to window system concepts and provides detailed tutorials for many client programs, including the &lt;em&gt;xterm&lt;/em&gt; terminal emulator and window managers. Building on this basic knowledge, later chapters explain how to customize the X environment and provide sample configurations.&lt;br&gt;&lt;br&gt;This popular manual is available in two editions, one for users of the MIT software, one for users of Motif. The &lt;em&gt;Standard Edition&lt;/em&gt; uses the &lt;em&gt;twm&lt;/em&gt; manager in most examples and illustrations. Revised and updated for X11 Release 5.&lt;br&gt;&lt;br&gt;Contents include: - Starting the system and opening windows. - Using the &lt;em&gt;xterm&lt;/em&gt; terminal emulator and window managers. - Most standard release clients, including programs for graphics, printing, font manipulation, window/display information, removing windows, as well as several "desktop" utilities. - Customizing the window manager, keyboard, display, and certain basic features of any client program. - Using and customizing the &lt;em&gt;mwm&lt;/em&gt; window manager, for those using the OSF/Motif graphical user interface. - System administration tasks, including managing fonts, starting X automatically, and using the display manager, &lt;em&gt;xdm&lt;/em&gt;, to run X on a single or multiple display.&lt;br&gt;&lt;br&gt;New material covered in this fourth edition includes: - Overview of the X Color Management System (Xcms) - Creating your own Xcms color database - Tutorials for two "color editors": &lt;em&gt;xcoloredit&lt;/em&gt; and &lt;em&gt;xtici&lt;/em&gt; - Using the X font server - Tutorial for &lt;em&gt;editres&lt;/em&gt;, a resource editor - Extensive coverage of the new implementations of bitmap and &lt;em&gt;xmag&lt;/em&gt; - Overview of internationalization features</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+    <book>
+  <id type="integer">17397121</id>
+  <isbn>144936571X</isbn>
+  <isbn13>9781449365714</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Web Squared: Web 2.0 Five Years On</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/17397121-web-squared</link>
+  <num_pages>15</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>Ever since we first introduced the term Web 2.0, people have been asking, What (TM)s next? Assuming that Web 2.0 was meant to be a kind of software version number (rather than a statement about the second coming of the Web after the dotcom bust), we (TM)re constantly asked about Web 3.0. Is it the semantic web? The sentient web? Is it the social web? The mobile web? Is it some form of virtual reality? It is all of those, and more. The Web is no longer a collection of static pages of HTML that describe something in the world. Increasingly, the Web is the world "everything and everyone in the world casts an information shadow, an aura of data which, when captured and processed intelligently, offers extraordinary opportunity and mindbending implications. Web Squared is our way of exploring this phenomenon and giving it a name.</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+    <book>
+  <id type="integer">1305154</id>
+  <isbn>1565920155</isbn>
+  <isbn13>9781565920156</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>X Users Guide Motif R5: Motif Edition</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1305154.X_Users_Guide_Motif_R5</link>
+  <num_pages>955</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>The &lt;em&gt;X Window System User's Guide, Motif Edition,&lt;/em&gt; orients the new user to window system concepts and provides detailed tutorials for many client programs, including the &lt;em&gt;xterm&lt;/em&gt; terminal emulator and the window manager. Building on this basic knowledge, later chapters explain how to customize the X environment and provide sample configurations.&lt;br&gt;&lt;br&gt;This alternative edition of the &lt;em&gt;User's Guide&lt;/em&gt; highlights the Motif window manager for users of the Motif graphical user interface. Revised for Motif 1.2 and X11 Release 5.&lt;br&gt;&lt;br&gt;Topics include:&lt;br&gt;&lt;br&gt;&lt;br&gt;Starting the system and opening windows Using the &lt;em&gt;xterm&lt;/em&gt; terminal emulator and window managers Most standard release clients, including programs for graphics, printing, font manipulation, window/display information, removing windows, as well as several "desktop" utilities Customizing the window manager, keyboard, display, and certain basic features of any client program Using and customizing the &lt;em&gt;mwm&lt;/em&gt; window manager, for those using theOSF/Motif graphical interface System administration tasks, such as managing fonts, starting X automatically, and using the display manager, &lt;em&gt;xdm&lt;/em&gt;, to run X on single or multiple displays&lt;br&gt;Material covered in this second edition includes:&lt;br&gt;&lt;br&gt;&lt;br&gt;Overview of the X Color Management System (Xcms) Creating your own Xcms color database Tutorials for two "color editors": &lt;em&gt;xcoloredit&lt;/em&gt; and &lt;em&gt;xtici&lt;/em&gt;&lt;br&gt;Using the X font server Tutorial for &lt;em&gt;editres&lt;/em&gt;, a resource editor Extensive coverage of the new implementations of bitmap and &lt;em&gt;xmag&lt;/em&gt;&lt;br&gt;Overview of internationalization features Features common to Motif 1.2 applications: tear-off menus and drag-and-drop</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>1994</published>
+</book>
+    <book>
+  <id type="integer">19522586</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Economic Impact of Open Source on Small Business: A Case Study</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/19522586-economic-impact-of-open-source-on-small-business</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+    <book>
+  <id type="integer">1305153</id>
+  <isbn>0937175366</isbn>
+  <isbn13>9780937175361</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>X Window Sys Users GD</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1305153.X_Window_Sys_Users_GD</link>
+  <num_pages>567</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orient Book Distribution</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1989</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>1989</published>
+</book>
+    <book>
+  <id type="integer">18474265</id>
+  <isbn>0596157207</isbn>
+  <isbn13>9780596157203</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>The Facebook Application Platform: An O'Reilly Radar Report</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1379333731m/18474265.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1379333731s/18474265.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/18474265-the-facebook-application-platform</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Radar</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>Facebook bet that opening its Application Platform would spur growth and build buzz, giving it an edge in the white-hot social network popularity contest. Four months and nearly 5000 applications later, it looks like that bet is paying off. Is Facebook the next platform for profits, too? Find out what it takes to launch a successful Facebook application, understand the new rules of the application development game in a Web 2.0 world, and get the scoop on the most popular Facebook apps in this new report from Tim O'Reilly and the O'Reilly Radar team. The report: Sizes up the Facebook opportunity--who's making money, and how?Lays out best practices of marketing with Facebook Applications, aka Social Media Optimization (SMO)Identifies the top 200 Facebook applications and plots their growth ratesGoes beyond Facebook, and scopes out the emerging widget economy The social network economy is sizzling, and "The Facebook Application Platform" is a must-read for anyone who wants in on the Facebook opportunity.</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+    <book>
+  <id type="integer">13214782</id>
+  <isbn>0596519443</isbn>
+  <isbn13>9780596519445</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>S3 and Ec2 Cookbook</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/13214782-s3-and-ec2-cookbook</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published/>
+</book>
+    <book>
+  <id type="integer">3821714</id>
+  <isbn>0937175242</isbn>
+  <isbn13>9780937175248</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>X Window System in a Nutshell</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/3821714-x-window-system-in-a-nutshell</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orient Book Distribution</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1991</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>1991</published>
+</book>
+    <book>
+  <id type="integer">16608280</id>
+  <isbn>1449377351</isbn>
+  <isbn13>9781449377359</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>What Is Web 2.0</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1356164446m/16608280.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1356164446s/16608280.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/16608280-what-is-web-2-0</link>
+  <num_pages>12</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>The concept of "Web 2.0" began with a conference brainstorming session between O'Reilly and MediaLive International. Dale Dougherty, web pioneer and O'Reilly VP, noted that far from having "crashed," the web was more important than ever, with exciting new applications and sites popping up with surprising regularity. What's more, the companies that had survived the collapse seemed to have some things in common. Could it be that the dot-com collapse marked some kind of turning point for the web, such that a call to action such as "Web 2.0" might make sense? We agreed that it did, and so the Web 2.0 Conference was born. In the year and a half since, the term "Web 2.0" has clearly taken hold, with more than 9.5 million citations in Google. But there's still a huge amount of disagreement about just what Web 2.0 means, with some people decrying it as a meaningless marketing buzzword, and others accepting it as the new conventional wisdom. This article is an attempt to clarify just what we mean by Web 2.0.</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+    <book>
+  <id type="integer">13214293</id>
+  <isbn>0596003331</isbn>
+  <isbn13>9780596003333</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>The .Net CD Bookshelf</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/13214293-the-net-cd-bookshelf</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>Packed with seven key Microsoft .NET books, this CD-ROM delivers thousands ofpages of accessible and searchable information.</description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published/>
+</book>
+    <book>
+  <id type="integer">20821570</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>How Data Science Is Transforming Health Care</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/20821570-how-data-science-is-transforming-health-care</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+    <book>
+  <id type="integer">3236476</id>
+  <isbn>0937175579</isbn>
+  <isbn13>9780937175576</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>X Toolkit Intrinsics Reference Manual: R-4 Ed.</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/3236476-x-toolkit-intrinsics-reference-manual</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Associates</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18541</id>
+    <name>Tim O&apos;Reilly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>813</ratings_count>
+    <text_reviews_count>102</text_reviews_count>
+  </author>
+</authors>
+  <published>1990</published>
+</book>
+  </books>
+</author>
+
+</GoodreadsResponse>

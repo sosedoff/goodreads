@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[shelf_list]]></method>
+  </Request>
+  <shelves start="1" end="6" total="6">
+  <user_shelf>
+  <book_count type="integer">1264</book_count>
+  <description nil="true"/>
+  <display_fields></display_fields>
+  <exclusive_flag type="boolean">true</exclusive_flag>
+  <featured type="boolean">true</featured>
+  <id type="integer">22902821</id>
+  <name>read</name>
+  <order nil="true"/>
+  <per_page type="integer" nil="true"/>
+  <recommend_for type="boolean">false</recommend_for>
+  <sort></sort>
+  <sticky type="boolean" nil="true"/>
+</user_shelf>
+
+  <user_shelf>
+  <book_count type="integer">0</book_count>
+  <description nil="true"/>
+  <display_fields></display_fields>
+  <exclusive_flag type="boolean">true</exclusive_flag>
+  <featured type="boolean">false</featured>
+  <id type="integer">22902820</id>
+  <name>currently-reading</name>
+  <order nil="true"/>
+  <per_page type="integer" nil="true"/>
+  <recommend_for type="boolean">false</recommend_for>
+  <sort nil="true"/>
+  <sticky type="boolean" nil="true"/>
+</user_shelf>
+
+  <user_shelf>
+  <book_count type="integer">0</book_count>
+  <description nil="true"/>
+  <display_fields></display_fields>
+  <exclusive_flag type="boolean">true</exclusive_flag>
+  <featured type="boolean">false</featured>
+  <id type="integer">22902819</id>
+  <name>to-read</name>
+  <order>a</order>
+  <per_page type="integer" nil="true"/>
+  <recommend_for type="boolean">false</recommend_for>
+  <sort>position</sort>
+  <sticky type="boolean" nil="true"/>
+</user_shelf>
+
+  <user_shelf>
+  <book_count type="integer">0</book_count>
+  <description nil="true"/>
+  <display_fields></display_fields>
+  <exclusive_flag type="boolean">true</exclusive_flag>
+  <featured type="boolean">false</featured>
+  <id type="integer">97059685</id>
+  <name>to-be-processed</name>
+  <order nil="true"/>
+  <per_page type="integer" nil="true"/>
+  <recommend_for type="boolean">false</recommend_for>
+  <sort nil="true"/>
+  <sticky type="boolean" nil="true"/>
+</user_shelf>
+
+  <user_shelf>
+  <book_count type="integer">0</book_count>
+  <description nil="true"/>
+  <display_fields></display_fields>
+  <exclusive_flag type="boolean">false</exclusive_flag>
+  <featured type="boolean">false</featured>
+  <id type="integer">100229271</id>
+  <name>owned</name>
+  <order nil="true"/>
+  <per_page type="integer" nil="true"/>
+  <recommend_for type="boolean">true</recommend_for>
+  <sort nil="true"/>
+  <sticky type="boolean" nil="true"/>
+</user_shelf>
+
+  <user_shelf>
+  <book_count type="integer">0</book_count>
+  <description nil="true"/>
+  <display_fields></display_fields>
+  <exclusive_flag type="boolean">false</exclusive_flag>
+  <featured type="boolean">false</featured>
+  <id type="integer">93456925</id>
+  <name>want-to-own</name>
+  <order nil="true"/>
+  <per_page type="integer" nil="true"/>
+  <recommend_for type="boolean">true</recommend_for>
+  <sort nil="true"/>
+  <sticky type="boolean" nil="true"/>
+</user_shelf>
+
+</shelves>
+</GoodreadsResponse>

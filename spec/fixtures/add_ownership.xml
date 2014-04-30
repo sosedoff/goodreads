@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<owned-book>
+  <available-for-swap type="boolean">false</available-for-swap>
+  <book-id type="integer">1157446</book-id>
+  <book-trades-count type="integer">0</book-trades-count>
+  <comments-count type="integer">0</comments-count>
+  <condition-code type="integer" nil="true"/>
+  <condition-description nil="true"/>
+  <created-at type="datetime">2014-04-30T02:50:53+00:00</created-at>
+  <current-owner-id type="integer">6961231</current-owner-id>
+  <current-owner-name nil="true"/>
+  <id type="integer">21347038</id>
+  <last-comment-at type="datetime" nil="true"/>
+  <original-purchase-date type="datetime" nil="true"/>
+  <original-purchase-location nil="true"/>
+  <review-id type="integer">858592668</review-id>
+  <swappable-flag type="boolean">false</swappable-flag>
+  <unique-code nil="true"/>
+  <updated-at type="datetime">2014-04-30T02:50:53+00:00</updated-at>
+  <work-id type="integer">973</work-id>
+</owned-book>

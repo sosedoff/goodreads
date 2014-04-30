@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[series_list]]></method>
+  </Request>
+  <series_works>
+<series_work>
+<id>331195</id>
+<user_position>1</user_position>
+<series>
+<id>72147</id>
+<title>
+<![CDATA[
+    The Ballet Family
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;2073855&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;39&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;156&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;77&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;2068620&lt;/id&gt;
+    &lt;title&gt;The Ballet Family (The Ballet Family, #1)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;4114801&lt;/id&gt;
+      &lt;name&gt;Mabel Esther Allan&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>144541</id>
+<user_position>1</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;6990&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;346&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;1382&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;613&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;1151568&lt;/id&gt;
+    &lt;title&gt;Ballet for Drina (Drina, #1)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>331196</id>
+<user_position>2</user_position>
+<series>
+<id>72147</id>
+<title>
+<![CDATA[
+    The Ballet Family
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;2642559&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;27&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;106&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;56&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;2617904&lt;/id&gt;
+    &lt;title&gt;The Ballet Family Again (The Ballet Family, #2)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>155231</id>
+<user_position>2</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1139050&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;189&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;762&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;273&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;1151567&lt;/id&gt;
+    &lt;title&gt;Drina's Dancing Year (Drina, #2)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>144542</id>
+<user_position>3</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;6992&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;190&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;775&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;271&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3143&lt;/id&gt;
+    &lt;title&gt;Drina Dances in Exile (Drina, #3)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>144543</id>
+<user_position>4</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;6993&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;170&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;689&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;246&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3146&lt;/id&gt;
+    &lt;title&gt;Drina Dances in Italy (Drina, #4)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>144394</id>
+<user_position>5</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;121&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;166&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;675&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;244&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3150&lt;/id&gt;
+    &lt;title&gt;Drina Dances Again (Drina, #5)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>144544</id>
+<user_position>6</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;6997&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;111&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;463&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;191&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3151&lt;/id&gt;
+    &lt;title&gt;Drina Dances In New York (Drina, #6)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>167022</id>
+<user_position>7</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;3859327&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;101&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;422&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;175&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3645&lt;/id&gt;
+    &lt;title&gt;Drina Dances in Paris (Drina, #7)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>158664</id>
+<user_position>8</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1733579&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;106&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;433&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;177&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3156&lt;/id&gt;
+    &lt;title&gt;Drina Dances in Madeira (Drina, #8)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>144395</id>
+<user_position>9</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;122&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;107&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;434&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;180&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3644&lt;/id&gt;
+    &lt;title&gt;Drina Dances in Switzerland (Drina, #9)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>144393</id>
+<user_position>10</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;120&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;85&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;356&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;142&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3155&lt;/id&gt;
+    &lt;title&gt;Drina Goes on Tour (Drina, #10)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>144392</id>
+<user_position>11</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;118&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;96&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;400&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;178&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;3326&lt;/id&gt;
+    &lt;title&gt;Drina Ballerina (Drina, #11)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;227840&lt;/id&gt;
+      &lt;name&gt;Jean Estoril&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+
+</series_works>
+
+</GoodreadsResponse>
