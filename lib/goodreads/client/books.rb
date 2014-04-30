@@ -31,5 +31,30 @@ module Goodreads
     def book_by_title(title)
       Hashie::Mash.new(request('/book/title', :title => title)['book'])
     end
+
+    # Get the list of books in a series
+    #
+    def books_by_series(id)
+      resp = request_with_no_hash('/series/show', {:id => id})
+
+      # work around for malformed XML response
+      resp = resp.gsub(/&lt;/, '<').gsub(/&gt;/, '>').gsub(/&quot;/, '"')
+      data = Hash.from_xml(resp)['GoodreadsResponse']
+      data.delete('Request')
+      
+      series_list = data['series']['series_works']['series_work']
+      series = series_list.map {|b| Hashie::Mash.new(b)} 
+
+      titles = []
+      titles = series.map {|b| b.work.best_book.title} 
+
+      Hashie::Mash.new({
+        :book_count => data['series']['primary_work_count'],
+        :series_title => data['series']['title'].strip,
+        :series => series,
+        :titles => titles
+      })
+    end
+
   end
 end

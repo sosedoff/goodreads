@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[owned_books_user]]></method>
+  </Request>
+  <owned_books>
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21294670</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21294670</link>
+<book>
+  <id type="integer">7103688</id>
+  <isbn>1741856256</isbn>
+  <isbn13>9781741856255</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>101 Things to do Before You Grow Up</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/7103688-101-things-to-do-before-you-grow-up</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.57</average_rating>
+  <ratings_count>14</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>3156800</id>
+    <name>Sofija Stefanovic</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/3156800.Sofija_Stefanovic]]></link>
+    <average_rating>4.57</average_rating>
+    <ratings_count>14</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+<review>
+  <id>858784859</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 15:22:55 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:44:04 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858784859]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858784859]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295247</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295247</link>
+<book>
+  <id type="integer">15871988</id>
+  <isbn>054538494X</isbn>
+  <isbn13>9780545384940</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>13 Gifts</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/15871988-13-gifts</link>
+  <num_pages>341</num_pages>
+  <format>Paperback</format>
+  <edition_information>Scholastic School Market</edition_information>
+  <publisher>Scholastic</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>5004</ratings_count>
+  <description>Wendy Mass turns to another magical birthday: 13!&lt;br&gt;&lt;br&gt;When Tara, a self-proclaimed shrinking violet, steals the school mascot, a goat, in order to make some friends with the popular crowd and gets caught, she gets herself in a heap of trouble. In addition, her parents decide that instead of taking her on their summer trip to Madagascar to study the courtship rituals of the Bamboo Lemur, she must go stay with her aunt, uncle, and bratty cousin Emily St. Claire in Willow Falls. &lt;br&gt;&lt;br&gt;Tara thinks it's a good time to start over; she'll be turning 13 after all, so she might as well make the best of it and perhaps even attempt to break out of her shell (in a non-criminal manner). What Tara doesn't know is that this charmed town has something big in store for her on her 13th birthday. It's not a typical birthday. &lt;br&gt;&lt;br&gt;But then again, nothing is Willow Falls is exactly typical!</description>
+<authors>
+  <author>
+    <id>99650</id>
+    <name>Wendy Mass</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1235153849p5/99650.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1235153849p2/99650.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/99650.Wendy_Mass]]></link>
+    <average_rating>4.08</average_rating>
+    <ratings_count>78737</ratings_count>
+    <text_reviews_count>9259</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+<review>
+  <id>858587519</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 11:33:49 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 16:07:48 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858587519]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858587519]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21294647</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21294647</link>
+<book>
+  <id type="integer">783127</id>
+  <isbn>0684856093</isbn>
+  <isbn13>9780684856094</isbn13>
+  <text_reviews_count type="integer">710</text_reviews_count>
+  <title>The 7 Habits Of Highly Effective Teens</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/783127.The_7_Habits_Of_Highly_Effective_Teens</link>
+  <num_pages>268</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Touchstone</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>10642</ratings_count>
+  <description>National Bestseller.&lt;br&gt;&lt;br&gt;In the bestselling tradition of &lt;em&gt;Chicken Soup for the Teenage Soul&lt;/em&gt;, this invaluable guide speaks loudly and convincingly to teens and provides them with universal principles sure to enhance their effectiveness and guide their future decisions.</description>
+<authors>
+  <author>
+    <id>38343</id>
+    <name>Sean Covey</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1221279549p5/38343.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1221279549p2/38343.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/38343.Sean_Covey]]></link>
+    <average_rating>3.98</average_rating>
+    <ratings_count>12555</ratings_count>
+    <text_reviews_count>1100</text_reviews_count>
+  </author>
+</authors>
+  <published>1998</published>
+</book>
+<review>
+  <id>858794181</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 15:34:26 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:43:43 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858794181]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858794181]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21294530</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21294530</link>
+<book>
+  <id type="integer">16322</id>
+  <isbn>1579126243</isbn>
+  <isbn13>9781579126247</isbn13>
+  <text_reviews_count type="integer">704</text_reviews_count>
+  <title>The A.B.C. Murders (Hercule Poirot, #13)</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/16322.The_A_B_C_Murders</link>
+  <num_pages>256</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Black Dog &amp; Leventhal Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>30290</ratings_count>
+  <description>Alice Ascher, a shopkeeper in Andover, is bludgeoned to death at her place of work. Next to die is Miss Bernard in Bexhill, then Mr. Clarke in Churston. More disturbing than the alphabetic sequence of the killings or the ABC Railway guide that the killer leaves at the crime scenes are the taunting notes warning Hercule Poirot before each murder.</description>
+<authors>
+  <author>
+    <id>123715</id>
+    <name>Agatha Christie</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1321738793p5/123715.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1321738793p2/123715.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+    <average_rating>3.92</average_rating>
+    <ratings_count>1244628</ratings_count>
+    <text_reviews_count>46384</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+<review>
+  <id>873176208</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 05 19:46:34 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:35:07 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/873176208]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/873176208]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295149</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295149</link>
+<book>
+  <id type="integer">2216751</id>
+  <isbn>0590819186</isbn>
+  <isbn13>9780590819183</isbn13>
+  <text_reviews_count type="integer">162</text_reviews_count>
+  <title>The Absent Author (A to Z Mysteries, #1)</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1330112308m/2216751.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1330112308s/2216751.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2216751.The_Absent_Author</link>
+  <num_pages>86</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day/>
+  <publication_year>1997</publication_year>
+  <publication_month/>
+  <average_rating>3.87</average_rating>
+  <ratings_count>3335</ratings_count>
+  <description>A is for author.... Dink writes to his favorite author, mystery writer&lt;br&gt;Wallis Wallace, and invites him to visit Green Lawn. To Dink's amazement, &lt;br&gt;Wallace says he'll come! But when the big day arrives, Wallace is nowhere to be&lt;br&gt;found. The police think he just missed his plane, but Dink suspects foul play.&lt;br&gt;It's up to Dink and his two best friends, Josh and Ruth Rose, to find the&lt;br&gt;famous writer--before it's too late!</description>
+<authors>
+  <author>
+    <id>1279057</id>
+    <name>Ron Roy</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1311470530p5/1279057.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1311470530p2/1279057.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1279057.Ron_Roy]]></link>
+    <average_rating>3.99</average_rating>
+    <ratings_count>35902</ratings_count>
+    <text_reviews_count>1413</text_reviews_count>
+  </author>
+</authors>
+  <published>1997</published>
+</book>
+<review>
+  <id>858616177</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 12:07:11 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 16:05:54 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858616177]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858616177]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296322</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296322</link>
+<book>
+  <id type="integer">6294607</id>
+  <isbn>1556528221</isbn>
+  <isbn13>9781556528224</isbn13>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <title>Absinthe &amp; Flamethrowers: Projects and Ruminations on the Art of Living Dangerously</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1328757837m/6294607.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1328757837s/6294607.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6294607-absinthe-flamethrowers</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Chicago Review Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.40</average_rating>
+  <ratings_count>141</ratings_count>
+  <description>&lt;strong&gt;A Selection of the Scientific American Book Club&lt;/strong&gt; &lt;br&gt;&lt;br&gt;Want to add more excitement to your life?&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;This daring combination of science, history, and DIY projects will show you how. Written for smart risk takers, it explores why danger is good for you and details the art of living dangerously.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;Risk takers are more successful, more interesting individuals who lead more fulfilling lives. Unlike watching an action movie or playing a video game, real-life experience changes a person, and Gurstelle will help you discover the true thrill of making black powder along with dozens of other edgy activities.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;All of the projects—from throwing knives, drinking absinthe, and eating fugu to cracking a bull whip, learning bartitsu, and building a flamethrower—have short learning curves, are hands-on and affordable, and demonstrate true but reasonable risk.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;With a strong emphasis on safety, each potentially life-altering project includes step-by-step directions, photographs, and illustrations along with troubleshooting tips from experts in the field.</description>
+<authors>
+  <author>
+    <id>121251</id>
+    <name>William Gurstelle</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/121251.William_Gurstelle]]></link>
+    <average_rating>3.74</average_rating>
+    <ratings_count>533</ratings_count>
+    <text_reviews_count>96</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+<review>
+  <id>858470077</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 09:06:03 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:34:28 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858470077]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858470077]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21294667</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21294667</link>
+<book>
+  <id type="integer">104762</id>
+  <isbn>0374380449</isbn>
+  <isbn13>9780374380441</isbn13>
+  <text_reviews_count type="integer">98</text_reviews_count>
+  <title>Adèle and Simon</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1316729871m/104762.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1316729871s/104762.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/104762.Ad_le_and_Simon</link>
+  <num_pages>36</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Farrar, Straus and Giroux (BYR)</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>279</ratings_count>
+  <description>When Simon’s older sister, Adèle, picks him up from school, he has his hat and gloves and scarf and sweater, his coat and knapsack and books and crayons, and a drawing of a cat he made that morning. Adèle makes Simon promise to try not to lose anything. But as they make their way home, distractions cause Simon to leave something behind at every stop. What will they tell their mother?&lt;br&gt; &lt;br&gt;Detailed pen-and-ink drawings – filled with soft watercolors – make a game of this unforgettable tour through the streets and scenes of early-twentieth-century Paris. Illustrated endpapers extend the fun by replicating a 1907 Baedeker map of Paris.&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;/em&gt; &lt;br&gt;&lt;br&gt;&lt;em&gt;Adèle &amp;amp; Simon&lt;/em&gt; is a 2006 New York Times Book Review Best Illustrated Book of the Year and a 2007 Bank Street - Best Children's Book of the Year.</description>
+<authors>
+  <author>
+    <id>60633</id>
+    <name>Barbara McClintock</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1263502199p5/60633.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1263502199p2/60633.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/60633.Barbara_McClintock]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>5417</ratings_count>
+    <text_reviews_count>987</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+<review>
+  <id>858784876</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 15:22:56 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:44:01 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858784876]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858784876]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296394</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296394</link>
+<book>
+  <id type="integer">2956</id>
+  <isbn>0142437174</isbn>
+  <isbn13>9780142437179</isbn13>
+  <text_reviews_count type="integer">7029</text_reviews_count>
+  <title>The Adventures of Huckleberry Finn</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1274410225m/2956.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1274410225s/2956.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn</link>
+  <num_pages>327</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>782401</ratings_count>
+  <description>Of all the contenders for the title of The Great American Novel, none has a better claim than &lt;em&gt;The Adventures of Huckleberry Finn.&lt;/em&gt; Intended at first as a simple story of a boy's adventures in the Mississippi Valley - a sequel to &lt;em&gt;The Adventures of Tom Sawyer&lt;/em&gt; - the book grew and matured under Twain's hand into a work of immeasurable richness and complexity. More than a century after its publication, the critical debate over the symbolic significance of Huck's and Jim's voyage is still fresh, and it remains a major work that can be enjoyed at many levels: as an incomparable adventure story and as a classic of American humor.</description>
+<authors>
+  <author>
+    <id>1244</id>
+    <name>Mark Twain</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1322103868p5/1244.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1322103868p2/1244.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1244.Mark_Twain]]></link>
+    <average_rating>3.81</average_rating>
+    <ratings_count>1346113</ratings_count>
+    <text_reviews_count>23035</text_reviews_count>
+  </author>
+</authors>
+  <published>2002</published>
+</book>
+<review>
+  <id>858439297</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jan 31 00:00:00 -0800 2005</read_at>
+  <date_added>Tue Feb 18 08:25:28 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:36:00 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858439297]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858439297]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295143</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295143</link>
+<book>
+  <id type="integer">1110855</id>
+  <isbn>0590439448</isbn>
+  <isbn13>9780590439442</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <title>Afternoon of the Elves</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/1110855.Afternoon_of_the_Elves</link>
+  <num_pages>122</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1991</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.60</average_rating>
+  <ratings_count>1265</ratings_count>
+  <description>A friendship forms between unkempt Sara-Kate and pretty Hillary when Sara-Kate believes she has found a tiny village built by elves in her yard. "A remarkable, perceptive book to share aloud or savor alone".--Kirkus Reviews. Newbery Honor Book; School Library Journal Best Book of the Year; ABC Choice.</description>
+<authors>
+  <author>
+    <id>142894</id>
+    <name>Janet Taylor Lisle</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/142894.Janet_Taylor_Lisle]]></link>
+    <average_rating>3.60</average_rating>
+    <ratings_count>4065</ratings_count>
+    <text_reviews_count>593</text_reviews_count>
+  </author>
+</authors>
+  <published>1991</published>
+</book>
+<review>
+  <id>858617566</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 12:08:43 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 16:05:45 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858617566]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858617566]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295998</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295998</link>
+<book>
+  <id type="integer">180645</id>
+  <isbn>0679863729</isbn>
+  <isbn13>9780679863724</isbn13>
+  <text_reviews_count type="integer">182</text_reviews_count>
+  <title>Afternoon on the Amazon (Magic Tree House, #6)</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/180645.Afternoon_on_the_Amazon</link>
+  <num_pages>80</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Random House Books for Young Readers</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>6870</ratings_count>
+  <description>Jack and Annie are ready for their next fantasy adventure in the bestselling middle-grade series—the Magic Tree House!&lt;br&gt;&lt;br&gt; Vampire bats and killer ants?&lt;br&gt;&lt;br&gt;That's what Jack and Annie are about to run into when the Magic Tree House whisks them away to the Amazon River. It's not long before they get hopelessly lost. Will they be able to find their way back to the tree house? Or are Jack and Annie stuck forever in the rain forest?&lt;br&gt;&lt;br&gt; Visit the Magic Tree House website!&lt;br&gt; MagicTreeHouse.com&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;From the Trade Paperback edition.&lt;/em&gt;</description>
+<authors>
+  <author>
+    <id>578</id>
+    <name>Mary Pope Osborne</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1209048001p5/578.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1209048001p2/578.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/578.Mary_Pope_Osborne]]></link>
+    <average_rating>3.89</average_rating>
+    <ratings_count>226238</ratings_count>
+    <text_reviews_count>9205</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+<review>
+  <id>858558475</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 10:58:18 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:26:53 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858558475]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858558475]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21294980</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21294980</link>
+<book>
+  <id type="integer">1189666</id>
+  <isbn>0440400910</isbn>
+  <isbn13>9780440400912</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>All of a Kind Family Uptown</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1394383333m/1189666.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1394383333s/1189666.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1189666.All_of_a_Kind_Family_Uptown</link>
+  <num_pages>154</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dell Publishing Co. Inc.</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.29</average_rating>
+  <ratings_count>2790</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>5323</id>
+    <name>Sydney Taylor</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/5323.Sydney_Taylor]]></link>
+    <average_rating>4.25</average_rating>
+    <ratings_count>18429</ratings_count>
+    <text_reviews_count>576</text_reviews_count>
+  </author>
+</authors>
+  <published/>
+</book>
+<review>
+  <id>858654226</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 12:51:49 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:56:04 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858654226]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858654226]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295136</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295136</link>
+<book>
+  <id type="integer">7926</id>
+  <isbn>0385732953</isbn>
+  <isbn13>9780385732956</isbn13>
+  <text_reviews_count type="integer">385</text_reviews_count>
+  <title>All-of-a-Kind Family (All-of-a-Kind Family, #1)</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/7926.All_of_a_Kind_Family</link>
+  <num_pages>188</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Delacorte Press Books for Young Readers</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>10790</ratings_count>
+  <description>It's the turn of the century in New York's Lower East Side and a sense of adventure and excitement abounds for five young sisters - Ella, Henny, Sarah, Charlotte and Gertie. Follow along as they search for hidden buttons while dusting Mama's front parlor, or explore the basement warehouse of Papa's peddler's shop on rainy days. The five girls enjoy doing everything together, especially when it involves holidays and surprises. But no one could have prepared them for the biggest surprise of all!</description>
+<authors>
+  <author>
+    <id>5323</id>
+    <name>Sydney Taylor</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/5323.Sydney_Taylor]]></link>
+    <average_rating>4.25</average_rating>
+    <ratings_count>18429</ratings_count>
+    <text_reviews_count>576</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+<review>
+  <id>858624229</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 12:16:30 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 16:05:35 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858624229]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858624229]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21294981</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21294981</link>
+<book>
+  <id type="integer">2433139</id>
+  <isbn>0440420326</isbn>
+  <isbn13>9780440420323</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>All-of-a-Kind Family Downtown</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/2433139.All_of_a_Kind_Family_Downtown</link>
+  <num_pages>188</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Yearling</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>1973</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>1519</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>5323</id>
+    <name>Sydney Taylor</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/5323.Sydney_Taylor]]></link>
+    <average_rating>4.25</average_rating>
+    <ratings_count>18429</ratings_count>
+    <text_reviews_count>576</text_reviews_count>
+  </author>
+</authors>
+  <published>1973</published>
+</book>
+<review>
+  <id>858653643</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 12:51:13 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:56:06 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858653643]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858653643]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296406</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296406</link>
+<book>
+  <id type="integer">625605</id>
+  <isbn>0875791603</isbn>
+  <isbn13>9780875791609</isbn13>
+  <text_reviews_count type="integer">450</text_reviews_count>
+  <title>The Alliance</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/625605.The_Alliance</link>
+  <num_pages>330</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>3068</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>207452</id>
+    <name>Gerald N. Lund</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1238297551p5/207452.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1238297551p2/207452.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/207452.Gerald_N_Lund]]></link>
+    <average_rating>4.32</average_rating>
+    <ratings_count>108463</ratings_count>
+    <text_reviews_count>6813</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+<review>
+  <id>858438054</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Sep 30 00:00:00 -0700 2005</read_at>
+  <date_added>Tue Feb 18 08:24:14 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:37:22 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858438054]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858438054]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295970</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295970</link>
+<book>
+  <id type="integer">608448</id>
+  <isbn>0439691907</isbn>
+  <isbn13>9780439691901</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Amber The Orange Fairy</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1361883075m/608448.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1361883075s/608448.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/608448.Amber_The_Orange_Fairy</link>
+  <num_pages>80</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month/>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1603</ratings_count>
+  <description>&lt;p&gt;When Rachel and Kirsty arrive at Rainspell Island for vacation, they have no idea what kind of magical adventure awaits! The seven Rainbow Fairies have been banished from Fairyland by the wicked Jack Frost. If they don't return soon, Fairyland is doomed to be colorless and gray. The girls have already found one Rainbow Fairy, but now Amber the Orange Fairy is trapped in a seashell! Can they rescue her, too? (Spanish)&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>17618</id>
+    <name>Daisy Meadows</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/17618.Daisy_Meadows]]></link>
+    <average_rating>3.83</average_rating>
+    <ratings_count>47473</ratings_count>
+    <text_reviews_count>2280</text_reviews_count>
+  </author>
+</authors>
+  <published>2004</published>
+</book>
+<review>
+  <id>858587460</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 11:33:46 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:26:18 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858587460]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858587460]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296377</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296377</link>
+<book>
+  <id type="integer">31229</id>
+  <isbn>0312990693</isbn>
+  <isbn13>9780312990695</isbn13>
+  <text_reviews_count type="integer">240</text_reviews_count>
+  <title>The Ambler Warning</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/31229.The_Ambler_Warning</link>
+  <num_pages>632</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Paperbacks</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>6262</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>5293</id>
+    <name>Robert Ludlum</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1208465267p5/5293.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1208465267p2/5293.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/5293.Robert_Ludlum]]></link>
+    <average_rating>3.90</average_rating>
+    <ratings_count>534031</ratings_count>
+    <text_reviews_count>7435</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+<review>
+  <id>858463209</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 08:56:36 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:35:36 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858463209]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858463209]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296276</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296276</link>
+<book>
+  <id type="integer">587490</id>
+  <isbn>0380806517</isbn>
+  <isbn13>9780380806515</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>America Afire: Jefferson, Adams, and the First Contested Election</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/587490.America_Afire</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>63</ratings_count>
+  <description>&lt;em&gt;America Afire&lt;/em&gt; is the powerful story of the election of 1800, arguably the most important election in America's history and certainly one of the most hotly disputed. Former allies Adams and Jefferson, president versus vice president, Federalist versus Republican, squared off in a vicious contest that resulted in broken friendships, scandals, riots, slander, and jailings in the fourth presidential election under the Constitution.</description>
+<authors>
+  <author>
+    <id>201170</id>
+    <name>Bernard A. Weisberger</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/201170.Bernard_A_Weisberger]]></link>
+    <average_rating>3.60</average_rating>
+    <ratings_count>138</ratings_count>
+    <text_reviews_count>19</text_reviews_count>
+  </author>
+</authors>
+  <published>2001</published>
+</book>
+<review>
+  <id>858491222</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 09:35:05 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:33:26 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858491222]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858491222]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296278</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296278</link>
+<book>
+  <id type="integer">60997</id>
+  <isbn>0812976665</isbn>
+  <isbn13>9780812976663</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>American Gospel: God, the Founding Fathers, and the Making of a Nation</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/60997.American_Gospel</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>872</ratings_count>
+  <description>The American Gospel–literally, the good news about America–is that religion shapes our public life without controlling it. In this vivid book, New York Times bestselling author Jon Meacham tells the human story of how the Founding Fathers viewed faith, and how they ultimately created a nation in which belief in God is a matter of choice.&lt;br&gt;&lt;br&gt;At a time when our country seems divided by extremism, American Gospel draws on the past to offer a new perspective. Meacham re-creates the fascinating history of a nation grappling with religion and politics–from John Winthrop’s “city on a hill” sermon to Thomas Jefferson’s Declaration of Independence; from the Revolution to the Civil War; from a proposed nineteenth-century Christian Amendment to the Constitution to Martin Luther King, Jr.’s call for civil rights; from George Washington to Ronald Reagan.&lt;br&gt;&lt;br&gt;Debates about religion and politics are often more divisive than illuminating. Secularists point to a “wall of separation between church and state,” while many conservatives act as though the Founding Fathers were apostles in knee britches. As Meacham shows in this brisk narrative, neither extreme has it right. At the heart of the American experiment lies the God of what Benjamin Franklin called “public religion,” a God who invests all human beings with inalienable rights while protecting private religion from government interference. It is a great American balancing act, and it has served us well.&lt;br&gt;&lt;br&gt;Meacham has written and spoken extensively about religion and politics, and he brings historical authority and a sense of hope to the issue. American Gospel makes it compellingly clear that the nation’s best chance of summoning what Lincoln called “the better angels of our nature” lies in recovering the spirit and sense of the Founding. In looking back, we may find the light to lead us forward.&lt;br&gt;&lt;br&gt;“In his American Gospel, Jon Meacham provides a refreshingly clear, balanced, and wise historical portrait of religion and American politics at exactly the moment when such fairness and understanding are much needed. Anyone who doubts the relevance of history to our own time has only to read this exceptional book.”–David McCullough, author of 1776&lt;br&gt;&lt;br&gt;“Jon Meacham has given us an insightful and eloquent account of the spiritual foundation of the early days of the American republic. It is especially instructive reading at a time when the nation is at once engaged in and deeply divided on the question of religion and its place in public life.”–Tom Brokaw, author of The Greatest Generation&lt;br&gt;&lt;br&gt;“An absorbing narrative full of vivid characters and fresh thinking, American Gospel tells how the Founding Fathers–and their successors–struggled with their own religious and political convictions to work out the basic structure for freedom of religion. For me this book was nonstop reading.”–Elaine Pagels, professor of religion, Princeton University, author of Beyond Belief: The Secret Gospel of Thomas &lt;br&gt;&lt;br&gt;“Jon Meacham is one of our country’s most brilliant thinkers about religion’s impact on American society. In this scintillating and provocative book, Meacham reveals the often-hidden influence of religious belief on the Founding Fathers and on later generations of American citizens and leaders up to our own. Today, as we argue more strenuously than ever about the proper place of religion in our politics and the rest of American life, Meacham’s important book should serve as the touchstone of the debate.” &lt;br&gt;–Michael Beschloss, author of The Conquerors&lt;br&gt;&lt;br&gt;“At a time when faith and freedom seem increasingly polarized, American Gospel recovers our vital center–the middle ground where, historically, religion and public life strike a delicate balance. Well researched, well written, inspiring, and persuasive, this is a welcome addition to the literature.”–Jonathan D. Sarna, Joseph H. &amp;amp; Belle R. Braun Professor of American Jewish History, Brandeis University, author of American Judaism: A History&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;From the Hardcover edition.&lt;/em&gt;</description>
+<authors>
+  <author>
+    <id>3041</id>
+    <name>Jon Meacham</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1350679029p5/3041.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1350679029p2/3041.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/3041.Jon_Meacham]]></link>
+    <average_rating>3.86</average_rating>
+    <ratings_count>25314</ratings_count>
+    <text_reviews_count>2207</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+<review>
+  <id>858491210</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 09:35:04 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:33:28 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858491210]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858491210]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296281</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296281</link>
+<book>
+  <id type="integer">2502700</id>
+  <isbn>0964054604</isbn>
+  <isbn13>9780964054608</isbn13>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>American History Stories You Never Read in School but Should Have (Vol.1)</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/2502700.American_History_Stories_You_Never_Read_in_School_but_Should_Have</link>
+  <num_pages>2</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Randall Company</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>72</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>855418</id>
+    <name>Mara L. Pratt</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/855418.Mara_L_Pratt]]></link>
+    <average_rating>4.21</average_rating>
+    <ratings_count>104</ratings_count>
+    <text_reviews_count>24</text_reviews_count>
+  </author>
+</authors>
+  <published>1993</published>
+</book>
+<review>
+  <id>858491195</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 09:35:03 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:33:31 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858491195]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858491195]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296282</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296282</link>
+<book>
+  <id type="integer">2502703</id>
+  <isbn>0964054612</isbn>
+  <isbn13>9780964054615</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>American History Stories-- You Never Read in School-- But Should Have, Volume 2</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/2502703.American_History_Stories_You_Never_Read_in_School_But_Should_Have_Volume_2</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>29</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>855418</id>
+    <name>Mara L. Pratt</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/855418.Mara_L_Pratt]]></link>
+    <average_rating>4.21</average_rating>
+    <ratings_count>104</ratings_count>
+    <text_reviews_count>24</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+<review>
+  <id>858491187</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 09:35:03 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:33:35 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858491187]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858491187]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296283</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296283</link>
+<book>
+  <id type="integer">10802677</id>
+  <isbn>0898181631</isbn>
+  <isbn13>9780898181630</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>American Legacy: The United States Constitution And Other Documents</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/10802677-american-legacy</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>4</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>715616</id>
+    <name>Center for Civic Education</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/715616.Center_for_Civic_Education]]></link>
+    <average_rating>3.67</average_rating>
+    <ratings_count>21</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+<review>
+  <id>858491179</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 09:35:02 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:33:34 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858491179]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858491179]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21294975</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21294975</link>
+<book>
+  <id type="integer">703841</id>
+  <isbn>0394846966</isbn>
+  <isbn13>9780394846965</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>The American Revolution</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1320411474m/703841.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1320411474s/703841.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/703841.The_American_Revolution</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Random House Books for Young Readers</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1981</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.36</average_rating>
+  <ratings_count>22</ratings_count>
+  <description>In the American colonies of the 1770s, people were fed up with British laws. Local farmers and tradesmen secretly formed a militia. In 1775, when the British marched into Lexington and Concord, Massachusetts, the Americans were ready. From that first battle to the final showdown at Yorktown, the Americans fought against tremendous odds. The British army was bigger and better trained. Food and guns were scarce. But George Washington’s ragged army fought for–and won–the freedom and independence we cherish to this day.Illustrated with black-and-white photographs, the tale of our country's fight for independence is brought to life in fast-moving, dramatic detail.</description>
+<authors>
+  <author>
+    <id>32370</id>
+    <name>Bruce Bliven Jr.</name>
+    <image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/32370.Bruce_Bliven_Jr_]]></link>
+    <average_rating>3.56</average_rating>
+    <ratings_count>77</ratings_count>
+    <text_reviews_count>10</text_reviews_count>
+  </author>
+</authors>
+  <published>1981</published>
+</book>
+<review>
+  <id>858658266</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 12:56:35 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:55:59 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858658266]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858658266]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296231</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296231</link>
+<book>
+  <id type="integer">1373492</id>
+  <isbn>0679444904</isbn>
+  <isbn13>9780679444909</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>American Sphinx: The Character of Thomas Jefferson</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/1373492.American_Sphinx</link>
+  <num_pages>365</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf Publishing Group</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>9710</ratings_count>
+  <description>For a man who insisted that life on the public stage was not what he had in mind, Thomas Jefferson certainly spent a great deal of time in the spotlight--and not only during his active political career. After 1809, his longed-for retirement was compromised by a steady stream of guests and tourists who made of his estate at Monticello a virtual hotel, as well as by more than one thousand letters per year, most from strangers, which he insisted on answering personally. In his twilight years Jefferson was already taking on the luster of a national icon, which was polished off by his auspicious death (on July 4, 1896); and in the subsequent seventeen decades of his celebrity--now verging, thanks to virulent revisionists and television documentaries, on notoriety--has been inflated beyond recognition of the original person. &lt;br&gt;For the historian Joseph J. Ellis, the experience of writing about Jefferson was "as if a pathologist, just about to begin an autopsy, has discovered that the body on the operating table was still breathing." In American Sphinx, Ellis sifts the facts shrewdly from the legends and the rumors, treading a path between vilification and hero worship in order to formulate a plausible portrait of the man who still today "hover[s] over the political scene like one of those dirigibles cruising above a crowded football stadium, flashing words of inspiration to both teams." For, at the grass roots, Jefferson is no longer liberal or conservative, agrarian or industrialist, pro- or anti-slavery, privileged or populist. He is all things to all people. His own obliviousness to incompatible convictions within himself (which left him deaf to most forms of irony) has leaked out into the world at large--a world determined to idolize him despite his foibles. &lt;br&gt;From Ellis we learn that Jefferson sang incessantly under his breath; that he delivered only two public speeches in eight years as president, while spending ten hours a day at his writing desk; that sometimes his political sensibilities collided with his domestic agenda, as when he ordered an expensive piano from London during a boycott (and pledged to "keep it in storage"). We see him relishing such projects as the nailery at Monticello that allowed him to interact with his slaves more palatably, as pseudo-employer to pseudo-employees. We grow convinced that he preferred to meet his lovers in the rarefied region of his mind rather than in the actual bedchamber. We watch him exhibiting both great depth and great shallowness, combining massive learning with extraordinary naivete, piercing insights with self-deception on the grandest scale. We understand why we should neither beatify him nor consign him to the rubbish heap of history, though we are by no means required to stop loving him. He is Thomas Jefferson, after all--our very own sphinx.</description>
+<authors>
+  <author>
+    <id>1483</id>
+    <name>Joseph J. Ellis</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1240111454p5/1483.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1240111454p2/1483.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1483.Joseph_J_Ellis]]></link>
+    <average_rating>3.91</average_rating>
+    <ratings_count>50562</ratings_count>
+    <text_reviews_count>3009</text_reviews_count>
+  </author>
+</authors>
+  <published>1997</published>
+</book>
+<review>
+  <id>858491254</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 09:35:06 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:32:16 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858491254]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858491254]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21296061</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21296061</link>
+<book>
+  <id type="integer">547847</id>
+  <isbn>0525475834</isbn>
+  <isbn13>9780525475835</isbn13>
+  <text_reviews_count type="integer">47</text_reviews_count>
+  <title>Anatopsis</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1309284473m/547847.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1309284473s/547847.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/547847.Anatopsis</link>
+  <num_pages>336</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Juvenile</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.48</average_rating>
+  <ratings_count>260</ratings_count>
+  <description>Princess Anatopsis Solomon wants to be a knight-errant. But hermother, chairwoman of Amalgamated Witchcraft Corporation, plans for her immortal daughter to take over the family business. The Queen has even hired a new tutor: a demigod named Mr. Pound. But Mr. Pound’s plans go far beyond completing Ana’s education. He is searching for the mysterious and powerful Os &lt;em&gt;Divinitas.&lt;/em&gt; And if he finds it, nothing will survive. A shocking and powerful gift will catapult the Princess into an unlikely quest through the rich worlds of &lt;em&gt;Anatopsis,&lt;/em&gt; inhabited by magic immortals, a rebel army, and the last dog in the Universe.</description>
+<authors>
+  <author>
+    <id>301032</id>
+    <name>Chris Abouzeid</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1218206414p5/301032.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1218206414p2/301032.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/301032.Chris_Abouzeid]]></link>
+    <average_rating>3.48</average_rating>
+    <ratings_count>261</ratings_count>
+    <text_reviews_count>48</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+<review>
+  <id>858517000</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 10:08:18 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 17:28:16 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858517000]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858517000]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21294527</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21294527</link>
+<book>
+  <id type="integer">16299</id>
+  <isbn>0312330871</isbn>
+  <isbn13>9780312330873</isbn13>
+  <text_reviews_count type="integer">5733</text_reviews_count>
+  <title>And Then There Were None</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1391120695m/16299.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1391120695s/16299.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/16299.And_Then_There_Were_None</link>
+  <num_pages>264</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>203625</ratings_count>
+  <description>Ten people, each with something to hide and something to fear, are invited to a lonely mansion on Indian Island by a host who fails to appear but leaves a recording accusing all of undetected murder. Cut off by his orders, one by one each die according to a nursery rhyme &lt;em&gt;Ten Little Indians&lt;/em&gt;. A confession in a bottle solves how nobody remains alive.</description>
+<authors>
+  <author>
+    <id>123715</id>
+    <name>Agatha Christie</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1321738793p5/123715.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1321738793p2/123715.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+    <average_rating>3.92</average_rating>
+    <ratings_count>1244628</ratings_count>
+    <text_reviews_count>46384</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+<review>
+  <id>873176539</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 05 19:46:56 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:35:01 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/873176539]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/873176539]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295048</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295048</link>
+<book>
+  <id type="integer">923933</id>
+  <isbn>0439179815</isbn>
+  <isbn13>9780439179812</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>The Angry Elf (Pixie Tricks, #5)</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1328869181m/923933.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1328869181s/923933.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/923933.The_Angry_Elf</link>
+  <num_pages>96</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>89</ratings_count>
+  <description>Rediscover Tracey West's Pixie Tricks series and its cast of mischievous fairies, dwarfs, and wizards. This collectable early-chapter series is back with new covers and all the classic fun.Fourteen fairies have escaped from their world. Now they're causing trouble in out world! It's up to a girl named Violet and a fairy named Sprite to trick them all and send them back home. Who will they trick next?Fixit is breaking all the toys in town and Rusella is messing with everyone's messages. Violet and Sprite have to stop these sneaky fairies before they mess up everything - for good!</description>
+<authors>
+  <author>
+    <id>17719</id>
+    <name>Tracey West</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1393723420p5/17719.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1393723420p2/17719.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/17719.Tracey_West]]></link>
+    <average_rating>4.15</average_rating>
+    <ratings_count>11409</ratings_count>
+    <text_reviews_count>564</text_reviews_count>
+  </author>
+</authors>
+  <published>2000</published>
+</book>
+<review>
+  <id>858635333</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 12:29:49 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 15:57:26 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858635333]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858635333]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295231</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295231</link>
+<book>
+  <id type="integer">77390</id>
+  <isbn>0553213148</isbn>
+  <isbn13>9780553213140</isbn13>
+  <text_reviews_count type="integer">1356</text_reviews_count>
+  <title>Anne of Avonlea (Anne of Green Gables, #2)</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1305545757m/77390.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1305545757s/77390.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/77390.Anne_of_Avonlea</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>Special Collector's Edition</edition_information>
+  <publisher>Random House Children's Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>62545</ratings_count>
+  <description>At sixteen, Anne is grown up...almost.  Her gray eyes shine like evening stars, but her red hair is still as peppery as her temper.  In the years since she arrived at Green Gables as a freckle-faced orphan, she has earned the love of the people of Avonlea &lt;em&gt;and&lt;/em&gt; a reputation for getting into scrapes.  But when Anne begins her job as the new schoolteacher, the real test of her character begins.  Along with teaching the three Rs, she is learning how complicated life can be when she meddles in someone else's romance, finds two new orphans at Green Gables, and wonders about the strange behaviour of the very handsome Gilbert Blythe.  As Anne enters womanhood, her adventures touch the heart and the funny bone.</description>
+<authors>
+  <author>
+    <id>5350</id>
+    <name>L.M. Montgomery</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1188896723p5/5350.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1188896723p2/5350.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+    <average_rating>4.16</average_rating>
+    <ratings_count>793147</ratings_count>
+    <text_reviews_count>20495</text_reviews_count>
+  </author>
+</authors>
+  <published>1997</published>
+</book>
+<review>
+  <id>858595211</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 11:42:44 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 16:07:29 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858595211]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858595211]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295232</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295232</link>
+<book>
+  <id type="integer">8127</id>
+  <isbn>0451528824</isbn>
+  <isbn13>9780451528827</isbn13>
+  <text_reviews_count type="integer">6322</text_reviews_count>
+  <title>Anne of Green Gables (Anne of Green Gables, #1)</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/8127.Anne_of_Green_Gables</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Signet Classics</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>360136</ratings_count>
+  <description>Everyone's favorite redhead, the spunky Anne Shirley, begins her adventures at Green Gables, a farm outside Avonlea, Prince Edward Island. When the freckled girl realizes that the elderly Cuthberts wanted to adopt a boy instead, she begins to try to win them and, consequently, the reader, over.</description>
+<authors>
+  <author>
+    <id>5350</id>
+    <name>L.M. Montgomery</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1188896723p5/5350.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1188896723p2/5350.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+    <average_rating>4.16</average_rating>
+    <ratings_count>793147</ratings_count>
+    <text_reviews_count>20495</text_reviews_count>
+  </author>
+</authors>
+  <published>2003</published>
+</book>
+<review>
+  <id>858594963</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 11:42:25 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 16:07:30 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858594963]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858594963]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295225</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295225</link>
+<book>
+  <id type="integer">77391</id>
+  <isbn>0553213156</isbn>
+  <isbn13>9780553213157</isbn13>
+  <text_reviews_count type="integer">367</text_reviews_count>
+  <title>Anne of Ingleside (Anne of Green Gables, #6)</title>
+  <image_url>http://d202m5krfqbpi5.cloudfront.net/books/1285712495m/77391.jpg</image_url>
+  <small_image_url>http://d202m5krfqbpi5.cloudfront.net/books/1285712495s/77391.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/77391.Anne_of_Ingleside</link>
+  <num_pages>274</num_pages>
+  <format>Paperback</format>
+  <edition_information>Special Collector's Edition</edition_information>
+  <publisher>Starfire</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1984</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>24772</ratings_count>
+  <description>Anne is the mother of five, with never a dull moment in her lively home. And now with a new baby on the way and insufferable Aunt Mary visiting - and wearing out her welcome - Anne's life is full to bursting.&lt;br&gt;&lt;br&gt;Still, Mrs Doctor can't think of any place she'd rather be than her own beloved Ingleside. Until the day she begins to worry that her adored Gilbert doesn't love her anymore. How could that be? She may be a little older, but she's still the same irrepressible, irreplaceable redhead - the wonderful Anne of Green Gables, all grown up... She's ready to make her cherished husband fall in love with her all over again!</description>
+<authors>
+  <author>
+    <id>5350</id>
+    <name>L.M. Montgomery</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1188896723p5/5350.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1188896723p2/5350.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+    <average_rating>4.16</average_rating>
+    <ratings_count>793147</ratings_count>
+    <text_reviews_count>20495</text_reviews_count>
+  </author>
+</authors>
+  <published>1984</published>
+</book>
+<review>
+  <id>858595619</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 11:43:18 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 16:07:20 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858595619]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858595619]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+  <owned_book>
+  <current_owner_id type="integer">6921131</current_owner_id>
+  <id type="integer">21295230</id>
+  <original_purchase_date type="datetime" nil="true"/>
+  <original_purchase_location nil="true"/>
+  <condition>unspecified</condition>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/21295230</link>
+<book>
+  <id type="integer">77392</id>
+  <isbn>0553213172</isbn>
+  <isbn13>9780553213171</isbn13>
+  <text_reviews_count type="integer">1060</text_reviews_count>
+  <title>Anne of the Island (Anne of Green Gables, #3)</title>
+  <image_url>http://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>http://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>http://www.goodreads.com/book/show/77392.Anne_of_the_Island</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>Special Collector's Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>69049</ratings_count>
+  <description>This is the third story in the Anne of Green Gables series. Anne is growing up and leaving the Island to spend four years of her life at Redmond College. She meets a wonderful new friend in Philippa Gordon, offspring to an old and exclusive "bluenose" family. Phil's family ties, combined with her beauty and charm, open the gates of all the social cliques and clubs at Redmond. And where Phil went, Anne went. Thus, Anne found her social pathway at Redmond made very easy while other freshettes were doomed to remain on the fringe of things.</description>
+<authors>
+  <author>
+    <id>5350</id>
+    <name>L.M. Montgomery</name>
+    <image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1188896723p5/5350.jpg]]></image_url>
+    <small_image_url><![CDATA[http://d202m5krfqbpi5.cloudfront.net/authors/1188896723p2/5350.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+    <average_rating>4.16</average_rating>
+    <ratings_count>793147</ratings_count>
+    <text_reviews_count>20495</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+<review>
+  <id>858595264</id>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 18 11:42:47 -0800 2014</date_added>
+  <date_updated>Sat Apr 26 16:07:28 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[http://www.goodreads.com/review/show/858595264]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/858595264]]></link>
+    <owned>1</owned>
+</review>
+</owned_book>
+
+
+</owned_books>
+</GoodreadsResponse>

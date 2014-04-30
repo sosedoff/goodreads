@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[series_show]]></method>
+  </Request>
+  <series>
+<id>52928</id>
+<title>
+<![CDATA[
+    Matched
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+<series_works>
+<series_work>
+<id>206283</id>
+<user_position>1</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;9631645&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;274729&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;1027659&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;468072&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;7735333&lt;/id&gt;
+    &lt;title&gt;Matched (Matched, #1)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;1304470&lt;/id&gt;
+      &lt;name&gt;Ally Condie&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>206284</id>
+<user_position>2</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;14449475&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;104128&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;368774&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;179919&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;15812814&lt;/id&gt;
+    &lt;title&gt;Crossed (Matched, #2)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;1304470&lt;/id&gt;
+      &lt;name&gt;Ally Condie&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>206285</id>
+<user_position>3</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;14449480&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;61682&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;221941&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;142632&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;13125947&lt;/id&gt;
+    &lt;title&gt;Reached (Matched, #3)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;1304470&lt;/id&gt;
+      &lt;name&gt;Ally Condie&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>511060</id>
+<user_position>1-3</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;25223489&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;571&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;2452&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;1140&lt;/reviews_count&gt;
+  &lt;best_book type=&quot;Book&quot;&gt;
+    &lt;id type=&quot;integer&quot;&gt;17987508&lt;/id&gt;
+    &lt;title&gt;Matched Trilogy Box Set&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;1304470&lt;/id&gt;
+      &lt;name&gt;Ally Condie&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+
+</series_works>
+</series>
+
+
+</GoodreadsResponse>

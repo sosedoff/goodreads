@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[shelf_add_books_to_shelves]]></method>
+  </Request>
+  <result>ok</result>
+</GoodreadsResponse>

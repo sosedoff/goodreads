@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelf>
+  <created-at type="datetime">2014-04-30T03:29:11+00:00</created-at>
+  <id type="integer">681011096</id>
+  <position type="integer">1</position>
+  <review-id type="integer">858592668</review-id>
+  <updated-at type="datetime">2014-04-30T03:29:11+00:00</updated-at>
+  <user-shelf-id type="integer">22902819</user-shelf-id>
+  <name>to-read</name>
+</shelf>
