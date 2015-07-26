@@ -2,6 +2,10 @@
 
 Ruby wrapper to communicate with Goodreads API.
 
+## Requirements
+
+- Ruby 1.9.3+
+
 ## Installation
 
 Install gem with rubygems:
