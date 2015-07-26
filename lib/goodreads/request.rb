@@ -30,6 +30,8 @@ module Goodreads
             response.return!(request, result, &block)
           when 401
             raise Goodreads::Unauthorized
+          when 403
+            raise Goodreads::Forbidden
           when 404
             raise Goodreads::NotFound
         end
