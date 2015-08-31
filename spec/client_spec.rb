@@ -121,7 +121,8 @@ describe 'Client' do
     let(:user_id) { '5076380' }
     let(:shelf) { 'to-read' }
 
-    before { stub_with_key_get('/review/list', {:v => '2', :id => user_id, :shelf => shelf}, 'reviews.xml') }
+    before { stub_with_key_get('/review/list', {:v => '2', :id => user_id, :shelf => shelf}, response_fixture) }
+    let(:response_fixture) { 'reviews.xml' }
 
     it 'returns a list of reviews' do
       subject.should be_a Array
@@ -129,6 +130,15 @@ describe 'Client' do
       subject.first.should be_a Hashie::Mash
       subject.first.keys.should include(*['book', 'rating', 'started_at', 'read_at'])
       subject.map(&:id).should eq(['1371624338', '1371623371'])
+    end
+
+    context 'when there are no more reviews' do
+      let(:response_fixture) { 'reviews_empty.xml' }
+
+      it 'returns an empty array' do
+        subject.should be_a Array
+        subject.count.should eq 0
+      end
     end
 
     context 'when user does not exist' do
