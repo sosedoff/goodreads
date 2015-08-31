@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1" end="2" total="2">
+    <review>
+      <id>1371624338</id>
+      <book>
+        <id type="integer">77507</id>
+        <isbn>0553560735</isbn>
+        <isbn13>9780553560732</isbn13>
+        <text_reviews_count type="integer">1442</text_reviews_count>
+        <title>Red Mars (Mars Trilogy, #1)</title>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/77507.Red_Mars</link>
+        <num_pages>572</num_pages>
+        <format>Mass Market Paperback</format>
+        <edition_information/>
+        <publisher>Spectra</publisher>
+        <publication_day>1</publication_day>
+        <publication_year>1993</publication_year>
+        <publication_month>10</publication_month>
+        <average_rating>3.81</average_rating>
+        <ratings_count>36620</ratings_count>
+        <description>In his most ambitious project to date, award-winning author Kim Stanley Robinson utilizes years of research and cutting-edge science in the first of three novels that will chronicle the colonization of Mars.&lt;br&gt;&lt;br&gt;For eons, sandstorms have swept the barren desolate landscape of the red planet. For centuries, Mars has beckoned to mankind to come and conquer its hostile climate. Now, in the year 2026, a group of one hundred colonists is about to fulfill that destiny.&lt;br&gt;&lt;br&gt;John Boone, Maya Toitavna, Frank Chalmers, and Arkady Bogdanov lead a mission whose ultimate goal is the terraforming of Mars. For some, Mars will become a passion driving them to daring acts of courage and madness; for others it offers and opportunity to strip the planet of its riches. And for the genetic "alchemists, " Mars presents a chance to create a biomedical miracle, a breakthrough that could change all we know about life...and death.&lt;br&gt;&lt;br&gt;The colonists place giant satellite mirrors in Martian orbit to reflect light to the planets surface. Black dust sprinkled on the polar caps will capture warmth and melt the ice. And massive tunnels, kilometers in depth, will be drilled into the Martian mantle to create stupendous vents of hot gases. Against this backdrop of epic upheaval, rivalries, loves, and friendships will form and fall to pieces--for there are those who will fight to the death to prevent Mars from ever being changed.&lt;br&gt;&lt;br&gt;Brilliantly imagined, breathtaking in scope and ingenuity, &lt;em&gt;Red Mars&lt;/em&gt; is an epic scientific saga, chronicling the next step in human evolution and creating a world in its entirety. &lt;em&gt;Red Mars&lt;/em&gt; shows us a future, with both glory and tarnish, that awes with complexity and inspires with vision.</description>
+        <authors>
+          <author>
+            <id>1858</id>
+            <name>Kim Stanley Robinson</name>
+            <role></role>
+            <image_url>
+            <![CDATA[https://d.gr-assets.com/authors/1376955089p5/1858.jpg]]>
+            </image_url>
+            <small_image_url>
+            <![CDATA[https://d.gr-assets.com/authors/1376955089p2/1858.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson]]></link>
+            <average_rating>3.78</average_rating>
+            <ratings_count>112948</ratings_count>
+            <text_reviews_count>7090</text_reviews_count>
+          </author>
+        </authors>
+        <published>1993</published>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf name="to-read" exclusive="true" review_shelf_id="1066952249" sortable="true" />
+      </shelves>
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Sun Aug 23 09:25:13 -0700 2015</date_added>
+      <date_updated>Sun Aug 23 09:25:14 -0700 2015</date_updated>
+      <read_count></read_count>
+      <body>
+      </body>
+      <comments_count>0</comments_count>
+        <url><![CDATA[https://www.goodreads.com/review/show/1371624338]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1371624338]]></link>
+        <owned>0</owned>
+    </review>
+
+    <review>
+      <id>1371623371</id>
+      <book>
+        <id type="integer">48002</id>
+        <isbn>0061031321</isbn>
+        <isbn13>9780061031328</isbn13>
+        <text_reviews_count type="integer">626</text_reviews_count>
+        <title>Thief of Time (Discworld, #26; Death, #5)</title>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/48002.Thief_of_Time</link>
+        <num_pages>378</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Harper</publisher>
+        <publication_day/>
+        <publication_year>2008</publication_year>
+        <publication_month/>
+        <average_rating>4.21</average_rating>
+        <ratings_count>38369</ratings_count>
+        <description>Time is a resource. Everyone knows it has to be managed.&lt;br&gt;And on Discworld that is the job of the Monks of History, who store it and pump it from the places where it's wasted (like underwater -- how much time does a codfish need?) to places like cities, where there's never enough time.&lt;br&gt;But the construction of the world's first truly accurate clock starts a race against, well, time, for Lu Tze and his apprentice Lobsang Ludd. Because it will stop time. And that will only be the start of everyone's problems.&lt;br&gt;Thief of Time comes complete with a full supporting cast of heroes and villains, yetis, martial artists and Ronnie, the fifth Horseman of the Apocalypse (who left before they became famous).</description>
+        <authors>
+          <author>
+            <id>1654</id>
+            <name>Terry Pratchett</name>
+            <role></role>
+            <image_url>
+              <![CDATA[https://d.gr-assets.com/authors/1235562205p5/1654.jpg]]>
+            </image_url>
+            <small_image_url>
+              <![CDATA[https://d.gr-assets.com/authors/1235562205p2/1654.jpg]]>
+            </small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+            <average_rating>4.11</average_rating>
+            <ratings_count>2442891</ratings_count>
+            <text_reviews_count>73518</text_reviews_count>
+          </author>
+        </authors>
+        <published>2008</published>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+          <shelf name="to-read" exclusive="true" review_shelf_id="1066951362" sortable="true" />
+      </shelves>
+      <recommended_for></recommended_for>
+      <recommended_by></recommended_by>
+      <started_at></started_at>
+      <read_at></read_at>
+      <date_added>Sun Aug 23 09:23:51 -0700 2015</date_added>
+      <date_updated>Sun Aug 23 09:23:52 -0700 2015</date_updated>
+      <read_count></read_count>
+      <body>
+      </body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1371623371]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1371623371]]></link>
+      <owned>0</owned>
+    </review>
+  </reviews>
+</GoodreadsResponse>
