@@ -20,5 +20,17 @@ module Goodreads
       data = request('/review/show', :id => id)
       Hashie::Mash.new(data['review'])
     end
+
+    # Get list of reviews
+    #
+    def reviews(params={})
+      data = request('/review/list', params.merge(:v => '2'))
+      reviews = data['reviews']['review']
+      if reviews.present?
+        reviews.map { |review| Hashie::Mash.new(review) }
+      else
+        []
+      end
+    end
   end
 end
