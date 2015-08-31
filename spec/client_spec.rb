@@ -121,7 +121,7 @@ describe 'Client' do
     let(:user_id) { '5076380' }
     let(:shelf) { 'to-read' }
 
-    before { stub_with_key_get('/review/list', {:id => user_id, :shelf => shelf}, 'reviews.xml') }
+    before { stub_with_key_get('/review/list', {:v => '2', :id => user_id, :shelf => shelf}, 'reviews.xml') }
 
     it 'returns a list of reviews' do
       subject.should be_a Array
@@ -133,7 +133,7 @@ describe 'Client' do
 
     context 'when user does not exist' do
       before do
-        stub_request(:get, "http://www.goodreads.com/review/list?format=xml&id=#{user_id}&key=SECRET_KEY&shelf=#{shelf}").
+        stub_request(:get, "http://www.goodreads.com/review/list?v=2&format=xml&id=#{user_id}&key=SECRET_KEY&shelf=#{shelf}").
           to_return(:status => 404, :body => "", :headers => {})
       end
 
