@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'yard',      '~> 0.6'
   
   spec.add_dependency 'rest-client',   '~> 1.6'
-  spec.add_dependency 'hashie',        '~> 2.0'
+  spec.add_dependency 'hashie',        '~> 3.0'
   spec.add_dependency 'activesupport', '>= 3.0'
   spec.add_dependency 'i18n',          '~> 0.5'
   spec.add_dependency 'oauth',         '~> 0.4'
