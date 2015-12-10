@@ -12,7 +12,8 @@ module Goodreads
     #
     def author_by_name(name, params={})
       params[:id] = name
-      data = request('/api/author_url', params)
+      name_encoded = URI.encode(name)
+      data = request("/api/author_url/#{name_encoded}", params)
       Hashie::Mash.new(data['author'])
     end
   end
