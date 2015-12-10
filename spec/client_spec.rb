@@ -189,7 +189,7 @@ describe 'Client' do
 
   describe '#author_by_name' do
     before do
-      stub_with_key_get('/api/author_url', {:id => 'Orson Scott Card'}, 'author_by_name.xml')
+      stub_with_key_get('/api/author_url/Orson%20Scott%20Card', {:id => 'Orson Scott Card'}, 'author_by_name.xml')
     end
 
     it 'returns author details' do
