@@ -14,26 +14,24 @@ module Goodreads
     # path   - Request path
     # params - Parameters hash
     #
-    def request(path, params={})
+    def request(path, params = {})
       token = api_key || Goodreads.configuration[:api_key]
 
-      if token.nil?
-        raise Goodreads::ConfigurationError, 'API key required.'
-      end
+      fail(Goodreads::ConfigurationError, 'API key required.') if token.nil?
 
-      params.merge!(:format => API_FORMAT, :key => token)
+      params.merge!(format: API_FORMAT, key: token)
       url = "#{API_URL}#{path}"
 
-      resp = RestClient.get(url, :params => params) do |response, request, result, &block|
+      resp = RestClient.get(url, params: params) do |response, request, result, &block|
         case response.code
-          when 200
-            response.return!(request, result, &block)
-          when 401
-            raise Goodreads::Unauthorized
-          when 403
-            raise Goodreads::Forbidden
-          when 404
-            raise Goodreads::NotFound
+        when 200
+          response.return!(request, result, &block)
+        when 401
+          fail(Goodreads::Unauthorized)
+        when 403
+          fail(Goodreads::Forbidden)
+        when 404
+          fail(Goodreads::NotFound)
         end
       end
 
@@ -45,16 +43,19 @@ module Goodreads
     # path   - Request path
     # params - Parameters hash
     #
-    def oauth_request(path, params=nil)
-      raise 'OAuth access token required!' unless @oauth_token
-      path = "#{path}?#{params.map{|k,v|"#{k}=#{v}"}.join('&')}" if params
-      resp = @oauth_token.get(path, {'Accept'=>'application/xml'})
+    def oauth_request(path, params = nil)
+      fail 'OAuth access token required!' unless @oauth_token
+      if params
+        url_params = params.map { |k, v| "#{k}=#{v}" }.join('&')
+        path = "#{path}?#{url_params}"
+      end
+      resp = @oauth_token.get(path, 'Accept' => 'application/xml')
 
       case resp
-        when Net::HTTPUnauthorized
-          raise Goodreads::Unauthorized
-        when Net::HTTPNotFound
-          raise Goodreads::NotFound
+      when Net::HTTPUnauthorized
+        fail Goodreads::Unauthorized
+      when Net::HTTPNotFound
+        fail Goodreads::NotFound
       end
 
       parse(resp)

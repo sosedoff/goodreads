@@ -83,7 +83,7 @@ describe 'Client' do
       expect(reviews.first).to respond_to(:id)
     end
 
-    context 'with :skip_cropped => true' do
+    context 'with skip_cropped: true' do
       before { stub_with_key_get('/review/recent_reviews', {}, 'recent_reviews.xml') }
 
       it 'returns only full reviews' do

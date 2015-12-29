@@ -27,8 +27,8 @@ Before using Goodreads API you must create a new application. Visit [signup form
 Setup client:
 
 ``` ruby
-client = Goodreads::Client.new(:api_key => 'KEY', :api_secret => 'SECRET')
-client = Goodreads.new(:api_key => 'KEY') # short version
+client = Goodreads::Client.new(api_key: 'KEY', api_secret: 'SECRET')
+client = Goodreads.new(api_key: 'KEY') # short version
 ```
 
 ### Global configuration
@@ -38,15 +38,15 @@ You can define client credentials on global level. Just create an initializer fi
 
 ``` ruby
 Goodreads.configure(
-  :api_key => 'KEY',
-  :api_secret => 'SECRET'
+  api_key: 'KEY',
+  api_secret: 'SECRET'
 )
 ```
 
 Get global configuration:
 
 ``` ruby
-Goodreads.configuration # => {:api_key => 'YOUR_KEY'}
+Goodreads.configuration # => { api_key: 'YOUR_KEY' }
 ```
 
 In case you need to reset options:
@@ -79,7 +79,7 @@ end
 ```
 
 ### Authors
- 
+
 Look up an author by their Goodreads Author ID:
 
 ```ruby
@@ -181,12 +181,12 @@ group_list.group.each do |g|
 end
 ```
 
-The `sort` parameter is optional, and defaults to `my_activity`. 
+The `sort` parameter is optional, and defaults to `my_activity`.
 For other sorting options, [see here](http://www.goodreads.com/api#group.list).
 
 ### OAuth
 
-For API calls requiring permission, such as write operations or browsing friends, 
+For API calls requiring permission, such as write operations or browsing friends,
 see our [OAuth tutorial](examples/oauth.md).
 
 ## Testing
