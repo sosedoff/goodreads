@@ -1,10 +1,10 @@
-$:.unshift File.expand_path("../..", __FILE__)
+$LOAD_PATH.unshift(File.expand_path('../..', __FILE__))
 
 require 'simplecov'
 
 SimpleCov.start do
-  add_filter "spec/"
-  add_filter ".bundle"
+  add_filter 'spec/'
+  add_filter '.bundle'
 end
 
 require 'goodreads'
@@ -13,11 +13,11 @@ require 'webmock/rspec'
 
 def stub_get(path, params, fixture_name)
   params[:format] = 'xml'
-  stub_request(:get, api_url(path)).
-    with(:query => params).
-    to_return(
-      :status => 200,
-      :body => fixture(fixture_name)
+  stub_request(:get, api_url(path))
+    .with(query: params)
+    .to_return(
+      status: 200,
+      body: fixture(fixture_name)
     )
 end
 
@@ -26,8 +26,8 @@ def stub_with_key_get(path, params, fixture_name)
   stub_get(path, params, fixture_name)
 end
 
-def fixture_path(file=nil)
-  path = File.expand_path("../fixtures", __FILE__)
+def fixture_path(file = nil)
+  path = File.expand_path('../fixtures', __FILE__)
   file.nil? ? path : File.join(path, file)
 end
 
