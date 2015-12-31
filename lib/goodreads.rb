@@ -1,7 +1,7 @@
-require 'goodreads/version'
-require 'goodreads/errors'
-require 'goodreads/request'
-require 'goodreads/client'
+require "goodreads/version"
+require "goodreads/errors"
+require "goodreads/request"
+require "goodreads/client"
 
 module Goodreads
   class << self
@@ -21,7 +21,7 @@ module Goodreads
   # options[:api_secret] - Account API secret
   #
   def self.configure(params = {})
-    fail(ArgumentError, 'Options hash required.') unless params.is_a?(Hash)
+    fail(ArgumentError, "Options hash required.") unless params.is_a?(Hash)
 
     options[:api_key]    = params[:api_key]
     options[:api_secret] = params[:api_secret]

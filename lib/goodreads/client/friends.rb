@@ -6,7 +6,7 @@ module Goodreads
     #
     def friends(user_id)
       data = oauth_request("/friend/user/#{user_id}")
-      Hashie::Mash.new(data['friends'])
+      Hashie::Mash.new(data["friends"])
     end
   end
 end
