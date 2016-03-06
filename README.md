@@ -27,8 +27,8 @@ Before using Goodreads API you must create a new application. Visit [signup form
 Setup client:
 
 ``` ruby
-client = Goodreads::Client.new(:api_key => 'KEY', :api_secret => 'SECRET')
-client = Goodreads.new(:api_key => 'KEY') # short version
+client = Goodreads::Client.new(api_key: "KEY", api_secret: "SECRET")
+client = Goodreads.new(api_key: "KEY") # short version
 ```
 
 ### Global configuration
@@ -38,15 +38,15 @@ You can define client credentials on global level. Just create an initializer fi
 
 ``` ruby
 Goodreads.configure(
-  :api_key => 'KEY',
-  :api_secret => 'SECRET'
+  api_key: "KEY",
+  api_secret: "SECRET"
 )
 ```
 
 Get global configuration:
 
 ``` ruby
-Goodreads.configuration # => {:api_key => 'YOUR_KEY'}
+Goodreads.configuration # => { api_key: "YOUR_KEY" }
 ```
 
 In case you need to reset options:
@@ -62,15 +62,15 @@ Goodreads.reset_configuration
 You can lookup a book by ISBN, ID or Title:
 
 ```ruby
-client.book('id')
-client.book_by_isbn('ISBN')
-client.book_by_title('Book title')
+client.book("id")
+client.book_by_isbn("ISBN")
+client.book_by_title("Book title")
 ```
 
 Search for books (by title, isbn, genre):
 
 ```ruby
-search = client.search_books('The Lord Of The Rings')
+search = client.search_books("The Lord Of The Rings")
 
 search.results.work.each do |book|
   book.id        # => book id
@@ -79,11 +79,11 @@ end
 ```
 
 ### Authors
- 
+
 Look up an author by their Goodreads Author ID:
 
 ```ruby
-author = client.author('id')
+author = client.author("id")
 
 author.id              # => author id
 author.name            # => author's name
@@ -103,7 +103,7 @@ author.died_at         # => date of author's death
 Look up an author by name:
 
 ```ruby
-author = client.author_by_name('Author Name')
+author = client.author_by_name("Author Name")
 
 author.id     # => author id
 author.name   # => author name
@@ -126,7 +126,7 @@ end
 Get review details:
 
 ```ruby
-review = client.review('id')
+review = client.review("id")
 
 review.id         # => review id
 review.user       # => user information
@@ -152,7 +152,7 @@ shelf.total  # total number of books on this shelf
 Get group details:
 
 ```ruby
-group = client.group('id')
+group = client.group("id")
 
 group.id                 # => group id
 group.title              # => group title
@@ -164,7 +164,7 @@ group.group_users_count  # => number of users in the group
 List the groups a given user is a member of:
 
 ```ruby
-group_list = client.group_list('user_id', 'sort')
+group_list = client.group_list("user_id", "sort")
 
 group_list.total         # => total number of groups
 group_list.group.count  # => number of groups returned in the request
@@ -181,12 +181,12 @@ group_list.group.each do |g|
 end
 ```
 
-The `sort` parameter is optional, and defaults to `my_activity`. 
+The `sort` parameter is optional, and defaults to `my_activity`.
 For other sorting options, [see here](http://www.goodreads.com/api#group.list).
 
 ### OAuth
 
-For API calls requiring permission, such as write operations or browsing friends, 
+For API calls requiring permission, such as write operations or browsing friends,
 see our [OAuth tutorial](examples/oauth.md).
 
 ## Testing

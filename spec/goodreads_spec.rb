@@ -1,54 +1,54 @@
-require 'spec_helper'
+require "spec_helper"
 
-describe 'Goodreads' do
-  describe '.new' do
-    it 'returns a new client instance' do
-      Goodreads.new.should be_a Goodreads::Client
+describe "Goodreads" do
+  describe ".new" do
+    it "returns a new client instance" do
+      expect(Goodreads.new).to be_a(Goodreads::Client)
     end
   end
 
-  describe '.configure' do
-    it 'sets a global configuration options' do
-      r = Goodreads.configure(:api_key => 'FOO', :api_secret => 'BAR')
-      r.should be_a Hash
-      r.should have_key(:api_key)
-      r.should have_key(:api_secret)
-      r[:api_key].should eql('FOO')
-      r[:api_secret].should eql('BAR')
+  describe ".configure" do
+    it "sets a global configuration options" do
+      config = Goodreads.configure(api_key: "FOO", api_secret: "BAR")
+      expect(config).to be_a(Hash)
+      expect(config).to have_key(:api_key)
+      expect(config).to have_key(:api_secret)
+      expect(config[:api_key]).to eql("FOO")
+      expect(config[:api_secret]).to eql("BAR")
     end
 
-    it 'raises ConfigurationError on invalid config parameter' do
-      proc { Goodreads.configure(nil) }.
-        should raise_error(ArgumentError, "Options hash required.")
+    it "raises ConfigurationError on invalid config parameter" do
+      expect { Goodreads.configure(nil) }
+        .to raise_error(ArgumentError, "Options hash required.")
 
-      proc { Goodreads.configure('foo') }.
-        should raise_error ArgumentError, "Options hash required."
+      expect { Goodreads.configure("foo") }
+        .to raise_error(ArgumentError, "Options hash required.")
     end
   end
 
-  describe '.configuration' do
+  describe ".configuration" do
     before do
-      Goodreads.configure(:api_key => 'FOO', :api_secret => 'BAR')
+      Goodreads.configure(api_key: "FOO", api_secret: "BAR")
     end
 
-    it 'returns global configuration options' do
-      r = Goodreads.configuration
-      r.should be_a Hash
-      r.should have_key(:api_key)
-      r.should have_key(:api_secret)
-      r[:api_key].should eql('FOO')
-      r[:api_secret].should eql('BAR')
+    it "returns global configuration options" do
+      config = Goodreads.configuration
+      expect(config).to be_a(Hash)
+      expect(config).to have_key(:api_key)
+      expect(config).to have_key(:api_secret)
+      expect(config[:api_key]).to eql("FOO")
+      expect(config[:api_secret]).to eql("BAR")
     end
   end
 
-  describe '.reset_configuration' do
+  describe ".reset_configuration" do
     before do
-      Goodreads.configure(:api_key => 'FOO', :api_secret => 'BAR')
+      Goodreads.configure(api_key: "FOO", api_secret: "BAR")
     end
 
-    it 'resets global configuration options' do
+    it "resets global configuration options" do
       Goodreads.reset_configuration
-      Goodreads.configuration.should eql({})
+      expect(Goodreads.configuration).to eql({})
     end
   end
 end

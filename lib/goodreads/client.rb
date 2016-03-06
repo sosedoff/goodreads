@@ -1,12 +1,12 @@
-require 'goodreads/client'
-require 'goodreads/client/books'
-require 'goodreads/client/reviews'
-require 'goodreads/client/authors'
-require 'goodreads/client/users'
-require 'goodreads/client/shelves'
-require 'goodreads/client/authorized'
-require 'goodreads/client/groups'
-require 'goodreads/client/friends'
+require "goodreads/client"
+require "goodreads/client/books"
+require "goodreads/client/reviews"
+require "goodreads/client/authors"
+require "goodreads/client/users"
+require "goodreads/client/shelves"
+require "goodreads/client/authorized"
+require "goodreads/client/groups"
+require "goodreads/client/friends"
 
 module Goodreads
   class Client
@@ -28,10 +28,8 @@ module Goodreads
     # options[:api_secret]  - Account API secret
     # options[:oauth_token] - OAuth access token (optional, required for some calls)
     #
-    def initialize(options={})
-      unless options.kind_of?(Hash)
-        raise ArgumentError, "Options hash required."
-      end
+    def initialize(options = {})
+      fail(ArgumentError, "Options hash required.") unless options.is_a?(Hash)
 
       @api_key    = options[:api_key] || Goodreads.configuration[:api_key]
       @api_secret = options[:api_secret] || Goodreads.configuration[:api_secret]

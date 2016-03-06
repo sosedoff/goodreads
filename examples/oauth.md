@@ -10,7 +10,7 @@ First, get an OAuth *request* token:
 request_token = OAuth::Consumer.new(
   Goodreads.configuration[:api_key],
   Goodreads.configuration[:api_secret],
-  :site => 'http://www.goodreads.com'
+  site: "http://www.goodreads.com"
 ).get_request_token
 ```
 
@@ -29,7 +29,7 @@ access_token = request_token.get_access_token
 Finally, initialize a Goodreads client with it:
 
 ```ruby
-goodreads_client = Goodreads.new :oauth_token => access_token
+goodreads_client = Goodreads.new(oauth_token: access_token)
 ```
 
 For more info, see the [Goodreads documentation](http://www.goodreads.com/api/oauth_example).
