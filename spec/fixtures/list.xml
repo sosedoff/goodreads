@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+   <Request>
+      <authentication>true</authentication>
+      <key><![CDATA[]]></key>
+      <method><![CDATA[shelf_list]]></method>
+   </Request>
+   <shelves start="1" end="99" total="99">
+      <user_shelf>
+         <id type="integer">5625761</id>
+         <name>read</name>
+         <book_count type="integer">415</book_count>
+         <exclusive_flag type="boolean">true</exclusive_flag>
+         <description nil="true" />
+         <sort />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">2</id>
+         <name>currently-reading</name>
+         <book_count type="integer">0</book_count>
+         <exclusive_flag type="boolean">true</exclusive_flag>
+         <description nil="true" />
+         <sort />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">1</id>
+         <name>to-read</name>
+         <book_count type="integer">447</book_count>
+         <exclusive_flag type="boolean">true</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order>a</order>
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">false</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348043</id>
+         <name>adventure</name>
+         <book_count type="integer">31</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">2420815</id>
+         <name>africa</name>
+         <book_count type="integer">15</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">17049945</id>
+         <name>ai</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">12011688</id>
+         <name>american-history</name>
+         <book_count type="integer">3</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">28263600</id>
+         <name>asia</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">51931612</id>
+         <name>audio</name>
+         <book_count type="integer">4</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">37076037</id>
+         <name>autobiography</name>
+         <book_count type="integer">3</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348040</id>
+         <name>biography</name>
+         <book_count type="integer">23</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">17049421</id>
+         <name>brain</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">17658138</id>
+         <name>brain-development</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">59</id>
+         <name>business</name>
+         <book_count type="integer">58</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348085</id>
+         <name>childrensbooks</name>
+         <book_count type="integer">20</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348039</id>
+         <name>classics</name>
+         <book_count type="integer">19</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">940</id>
+         <name>coffeetable</name>
+         <book_count type="integer">3</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">2376156</id>
+         <name>comics</name>
+         <book_count type="integer">5</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">49973919</id>
+         <name>computer</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">17049907</id>
+         <name>computer-industry</name>
+         <book_count type="integer">9</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">7601442</id>
+         <name>cookbook</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">37957708</id>
+         <name>crime</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">170362351</id>
+         <name>currently-rereading</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">177766705</id>
+         <name>cyberpunk</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">93</id>
+         <name>design</name>
+         <book_count type="integer">7</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">113851</id>
+         <name>didntfinish</name>
+         <book_count type="integer">12</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">false</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">86966263</id>
+         <name>education</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">5507168</id>
+         <name>england</name>
+         <book_count type="integer">11</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">18802079</id>
+         <name>epic</name>
+         <book_count type="integer">5</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348037</id>
+         <name>fantasy</name>
+         <book_count type="integer">29</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348029</id>
+         <name>favorites</name>
+         <book_count type="integer">21</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">true</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348035</id>
+         <name>fiction</name>
+         <book_count type="integer">186</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">657187</id>
+         <name>finance</name>
+         <book_count type="integer">3</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">5389138</id>
+         <name>france</name>
+         <book_count type="integer">6</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348034</id>
+         <name>geek</name>
+         <book_count type="integer">13</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">13254586</id>
+         <name>germany</name>
+         <book_count type="integer">4</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">37957715</id>
+         <name>goodreads-book-club</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">170222640</id>
+         <name>health</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">5091347</id>
+         <name>historical-fiction</name>
+         <book_count type="integer">14</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348038</id>
+         <name>history</name>
+         <book_count type="integer">17</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">3811160</id>
+         <name>humor</name>
+         <book_count type="integer">9</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">19383162</id>
+         <name>illustrations</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">50891187</id>
+         <name>india</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">10824091</id>
+         <name>italy</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">28263601</id>
+         <name>korea</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">18147762</id>
+         <name>leadership</name>
+         <book_count type="integer">12</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">17473636</id>
+         <name>literary-fiction</name>
+         <book_count type="integer">5</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">114796470</id>
+         <name>love-story</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">39018912</id>
+         <name>magical-realism</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">114796466</id>
+         <name>marginalia</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">4412933</id>
+         <name>memoir</name>
+         <book_count type="integer">6</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">6408849</id>
+         <name>mexico</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">39018910</id>
+         <name>middle-east</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">12421556</id>
+         <name>my-ebooks</name>
+         <book_count type="integer">5</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">46179</id>
+         <name>mystery</name>
+         <book_count type="integer">11</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">177766748</id>
+         <name>nanotechnology</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348036</id>
+         <name>nonfiction</name>
+         <book_count type="integer">120</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">170222610</id>
+         <name>nutrition</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">58852017</id>
+         <name>on-deck</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">14571560</id>
+         <name>parenting</name>
+         <book_count type="integer">8</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">25597895</id>
+         <name>peru</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">170362369</id>
+         <name>philosophy</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">22924179</id>
+         <name>politics</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">28365091</id>
+         <name>post-apocalyptic</name>
+         <book_count type="integer">5</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">50891287</id>
+         <name>poverty</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">133790877</id>
+         <name>productivity</name>
+         <book_count type="integer">0</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">60</id>
+         <name>programming</name>
+         <book_count type="integer">22</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">16353297</id>
+         <name>psychology</name>
+         <book_count type="integer">4</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">32518905</id>
+         <name>publishing-industry</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">24905356</id>
+         <name>read-to-my-kids</name>
+         <book_count type="integer">13</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">127779110</id>
+         <name>readathon-day-2015</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">6916423</id>
+         <name>reference</name>
+         <book_count type="integer">3</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">5507169</id>
+         <name>sailing</name>
+         <book_count type="integer">4</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348030</id>
+         <name>sci-fi</name>
+         <book_count type="integer">47</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">105883</id>
+         <name>science</name>
+         <book_count type="integer">14</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">134715404</id>
+         <name>seattle</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">95</id>
+         <name>self-improvement</name>
+         <book_count type="integer">17</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">17473634</id>
+         <name>short-stories</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">56458534</id>
+         <name>space</name>
+         <book_count type="integer">3</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348059</id>
+         <name>spiritual</name>
+         <book_count type="integer">8</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">140614696</id>
+         <name>sports</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">4232452</id>
+         <name>spy</name>
+         <book_count type="integer">15</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">177766592</id>
+         <name>steampunk</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">6408875</id>
+         <name>submarine</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">134514155</id>
+         <name>summer-reads</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">105873</id>
+         <name>surfing</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348055</id>
+         <name>thriller</name>
+         <book_count type="integer">25</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">56458541</id>
+         <name>time-travel</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">50203604</id>
+         <name>to-read-audio</name>
+         <book_count type="integer">3</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348106</id>
+         <name>to-reread</name>
+         <book_count type="integer">3</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">812386</id>
+         <name>travel</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">16427371</id>
+         <name>utopian</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">21343863</id>
+         <name>virtual-worlds</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">16771627</id>
+         <name>war</name>
+         <book_count type="integer">2</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">37957629</id>
+         <name>western</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">348041</id>
+         <name>wishlist</name>
+         <book_count type="integer">83</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort>position</sort>
+         <order>a</order>
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">false</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">35878317</id>
+         <name>world-war-1</name>
+         <book_count type="integer">1</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">18425441</id>
+         <name>world-war-2</name>
+         <book_count type="integer">5</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+      <user_shelf>
+         <id type="integer">1164667</id>
+         <name>young-adult</name>
+         <book_count type="integer">9</book_count>
+         <exclusive_flag type="boolean">false</exclusive_flag>
+         <description nil="true" />
+         <sort nil="true" />
+         <order nil="true" />
+         <per_page type="integer" nil="true" />
+         <display_fields />
+         <featured type="boolean">false</featured>
+         <recommend_for type="boolean">true</recommend_for>
+         <sticky type="boolean" nil="true" />
+      </user_shelf>
+   </shelves>
+</GoodreadsResponse>
