@@ -2,7 +2,7 @@
 <GoodreadsResponse>
    <Request>
       <authentication>true</authentication>
-      <key><![CDATA[GFPTphT7xVUhrarWQztUtg]]></key>
+      <key><![CDATA[]]></key>
       <method><![CDATA[shelf_list]]></method>
    </Request>
    <shelves start="1" end="99" total="99">
