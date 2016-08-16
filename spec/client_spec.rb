@@ -255,10 +255,10 @@ describe "Client" do
       expect(shelves).to respond_to(:user_shelves)
 
       expect(shelves.start).to eq(1)
-      expect(shelves.end).to eq(99)
-      expect(shelves.total).to eq(99)
-      expect(shelves.user_shelves.length).to eq(99)
-      expect(shelves.user_shelves.first.id).to eq(5625761)
+      expect(shelves.end).to eq(3)
+      expect(shelves.total).to eq(3)
+      expect(shelves.user_shelves.length).to eq(3)
+      expect(shelves.user_shelves.first.id).to eq(9_024_447)
       expect(shelves.user_shelves.first.name.strip).to eq("read")
     end
   end
