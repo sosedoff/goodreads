@@ -136,6 +136,17 @@ review.rating     # => user rating
 
 ### Shelves
 
+Get all of a user's shelves:
+
+```ruby
+shelves = client.shelves(user_id)
+
+shelves.user_shelves # array of shelves
+shelves.start  # start index of this page of paginated results
+shelves.end    # end index of this page of paginated results
+shelves.total  # total number of books on this shelf
+```
+
 Get the books on a user's shelf:
 
 ```ruby
@@ -210,4 +221,4 @@ You're welcome to submit patches and new features.
 
 The MIT License (MIT)
 
-Copyright (c) 2011-2015 Dan Sosedoff, <dan.sosedoff@gmail.com>
+Copyright (c) 2011-2016 Dan Sosedoff, <dan.sosedoff@gmail.com>
