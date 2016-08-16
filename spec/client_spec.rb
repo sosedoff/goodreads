@@ -243,6 +243,26 @@ describe "Client" do
     end
   end
 
+  describe "#shelves" do
+    it "returns list of shelves for a user" do
+      stub_with_key_get("/shelf/list.xml", { user_id: 1 }, "list.xml")
+
+      shelves = client.shelves("1")
+
+      expect(shelves).to respond_to(:start)
+      expect(shelves).to respond_to(:end)
+      expect(shelves).to respond_to(:total)
+      expect(shelves).to respond_to(:user_shelves)
+
+      expect(shelves.start).to eq(1)
+      expect(shelves.end).to eq(99)
+      expect(shelves.total).to eq(99)
+      expect(shelves.user_shelves.length).to eq(99)
+      expect(shelves.user_shelves.first.id).to eq(5625761)
+      expect(shelves.user_shelves.first.name.strip).to eq("read")
+    end
+  end
+
   describe "#shelf" do
     it "returns list of books for a user's specified shelf" do
       stub_with_key_get("/review/list/1.xml", { shelf: "to-read", v: "2" }, "to-read.xml")
