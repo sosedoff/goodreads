@@ -287,6 +287,26 @@ describe "Client" do
     end
   end
 
+  describe '#user_shelves' do 
+    before do 
+      stub_with_key_get("/shelf/list.xml", 
+                        { user_id: "1" }, 
+                        "shelves.xml") 
+    end
+
+    it "returns shelves belonging to user" do 
+      user_shelves = client.user_shelves("1")
+
+      expect(user_shelves).to be_a(Hashie::Mash)
+      expect(user_shelves.start).to eq(1) 
+      expect(user_shelves.end).to eq(10)
+      expect(user_shelves.total).to eq(10)
+      expect(user_shelves.shelves[1].name).to eq("currently-reading")
+      expect(user_shelves.shelves[1].book_count).to eq(5)
+      expect(user_shelves.shelves[1].id).to eq(39953)
+    end
+  end
+
   describe "#user_id" do
     let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "http://www.goodreads.com") }
     let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }

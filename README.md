@@ -147,6 +147,23 @@ shelf.end    # end index of this page of paginated results
 shelf.total  # total number of books on this shelf
 ```
 
+Get the shelves of a user: 
+
+```ruby
+data = client.user_shelves(user_id) 
+
+data.start  # start index of this page of paginated results
+data.end    # end index of this page of paginated results
+data.total  # total number of shelves that belong to this user
+
+data.shelves.each do |shelf|
+  shelf.id          # id of shelf
+  shelf.name        # name of shelf
+  shelf.book_count  # number of books on shelf
+  shelf.description # description of shelf
+end
+```
+
 ### Groups
 
 Get group details:
