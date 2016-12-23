@@ -2,7 +2,7 @@
   <Request>
     <authentication>true</authentication>
     <key>
-      <![CDATA[ JpZakeO4m2UOf3QH4UFKw ]]>
+      <![CDATA[SECRET_KEY]]>
     </key>
     <method>
       <![CDATA[ shelf_list ]]>
