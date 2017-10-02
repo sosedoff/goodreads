@@ -4,7 +4,7 @@ require "hashie"
 
 module Goodreads
   module Request
-    API_URL    = "http://www.goodreads.com"
+    API_URL    = "https://www.goodreads.com"
     API_FORMAT = "xml"
 
     protected
