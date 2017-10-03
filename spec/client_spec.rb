@@ -29,7 +29,7 @@ describe "Client" do
 
     context "when book does not exist" do
       before do
-        stub_request(:get, "http://www.goodreads.com/book/isbn?format=xml&isbn=123456789&key=SECRET_KEY")
+        stub_request(:get, "https://www.goodreads.com/book/isbn?format=xml&isbn=123456789&key=SECRET_KEY")
           .to_return(status: 404, body: "", headers: {})
       end
 
@@ -106,7 +106,7 @@ describe "Client" do
 
     context "when review does not exist" do
       before do
-        stub_request(:get, "http://www.goodreads.com/review/show?format=xml&id=12345&key=SECRET_KEY")
+        stub_request(:get, "https://www.goodreads.com/review/show?format=xml&id=12345&key=SECRET_KEY")
           .to_return(status: 404, body: "", headers: {})
       end
 
@@ -144,7 +144,7 @@ describe "Client" do
     context "when user does not exist" do
       before do
         url_params = "v=2&format=xml&id=#{user_id}&key=SECRET_KEY&shelf=#{shelf}"
-        stub_request(:get, "http://www.goodreads.com/review/list?#{url_params}")
+        stub_request(:get, "https://www.goodreads.com/review/list?#{url_params}")
           .to_return(status: 404, body: "", headers: {})
       end
 
@@ -178,7 +178,7 @@ describe "Client" do
 
     context "when author does not exist" do
       before do
-        stub_request(:get, "http://www.goodreads.com/author/show?format=xml&id=12345&key=SECRET_KEY")
+        stub_request(:get, "https://www.goodreads.com/author/show?format=xml&id=12345&key=SECRET_KEY")
           .to_return(status: 404, body: "", headers: {})
       end
 
@@ -217,7 +217,7 @@ describe "Client" do
 
     context "when user does not exist" do
       before do
-        stub_request(:get, "http://www.goodreads.com/user/show?format=xml&id=12345&key=SECRET_KEY")
+        stub_request(:get, "https://www.goodreads.com/user/show?format=xml&id=12345&key=SECRET_KEY")
           .to_return(status: 404, body: "", headers: {})
       end
 
@@ -288,11 +288,11 @@ describe "Client" do
   end
 
   describe "#user_id" do
-    let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "http://www.goodreads.com") }
+    let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
     let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
 
     before do
-      stub_request(:get, "http://www.goodreads.com/api/auth_user")
+      stub_request(:get, "https://www.goodreads.com/api/auth_user")
         .to_return(status: 200, body: fixture("oauth_response.xml"), headers: {})
     end
 
