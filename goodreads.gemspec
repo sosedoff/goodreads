@@ -14,12 +14,12 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake",      "~> 10"
   spec.add_development_dependency "rspec",     "~> 2.12"
   spec.add_development_dependency "simplecov", "~> 0.7"
-  spec.add_development_dependency "yard",      "~> 0.6"
+  spec.add_development_dependency "yard",      "~> 0.9"
 
   spec.add_runtime_dependency "rest-client",   "~> 2.0"
   spec.add_runtime_dependency "hashie",        "~> 2.0"
   spec.add_runtime_dependency "activesupport", ">= 3.0"
-  spec.add_runtime_dependency "i18n",          "~> 0.5"
+  spec.add_runtime_dependency "i18n",          "~> 0.6"
   spec.add_runtime_dependency "oauth",         "~> 0.4"
 
   spec.files         = `git ls-files`.split("\n")
