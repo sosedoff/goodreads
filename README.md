@@ -197,6 +197,16 @@ To run the test suite:
 bundle exec rake test
 ```
 
+## Rails Demo
+
+A rails web application that uses this gem to explore common APIs. It covers ... 
+- oauth flow (connect with goodreads)
+- getting friends data
+- getting books on friend's shelves
+
+Github: https://github.com/niyando/read_social  
+Deployed to Heroku: https://readsocial.herokuapp.com/
+
 ## Contributions
 
 You're welcome to submit patches and new features.
