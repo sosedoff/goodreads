@@ -1,5 +1,36 @@
 module Goodreads
   module Shelves
+    # Lists shelves for a user
+    def shelves(user_id, options = {})
+      options = options.merge(user_id: user_id, v: 2)
+      data = request("/shelf/list.xml", options)
+      shelves = data["shelves"]
+
+      shelves = data["shelves"]["user_shelf"].map do |s|
+        Hashie::Mash.new({
+          id:             s["id"],
+          name:           s["name"],
+          book_count:     s["book_count"],
+          exclusive:      s["exclusive_flag"],
+          description:    s["description"],
+          sort:           s["sort"],
+          order:          s["order"],
+          per_page:       s["per_page"],
+          display_fields: s["display_fields"],
+          featured:       s["featured"],
+          recommend_for:  s["recommend_for"],
+          sticky:         s["sticky"],
+        })
+      end
+
+      Hashie::Mash.new(
+        start:   data["shelves"]["start"].to_i,
+        end:     data["shelves"]["end"].to_i,
+        total:   data["shelves"]["total"].to_i,
+        shelves: shelves
+      )
+    end
+
     # Get books from a user's shelf
     def shelf(user_id, shelf_name, options = {})
       options = options.merge(shelf: shelf_name, v: 2)
