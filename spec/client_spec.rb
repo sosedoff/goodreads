@@ -287,6 +287,26 @@ describe "Client" do
     end
   end
 
+  describe "#add_to_shelf" do
+    let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
+    let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
+
+    it "adds a book to a user's shelf" do
+      stub_request(:post, "https://www.goodreads.com/shelf/add_to_shelf.xml")
+        .with(:body => {"book_id"=>"456", "name"=>"read", "v"=>"2"})
+        .to_return(status: 201, body: fixture("shelf_add_to_shelf.xml"))
+
+      client = Goodreads::Client.new(api_key: "SECRET_KEY", oauth_token: token)
+      shelves = client.add_to_shelf(456, "read")
+
+      expect(shelves.size).to eq(1)
+      expect(shelves.first.name).to eq("read")
+      expect(shelves.first.id).to eq(269274694)
+      expect(shelves.first.exclusive).to be true
+      expect(shelves.first.sortable).to be false
+    end
+  end
+
   describe "#user_id" do
     let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
     let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }

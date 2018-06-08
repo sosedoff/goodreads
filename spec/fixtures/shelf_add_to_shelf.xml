@@ -1,0 +1,24 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[shelf_add_to_shelf]]></method>
+  </Request>
+  <my_review>
+    <id>2416981504</id>
+    <book_id>77084</book_id>
+    <rating>0</rating>
+    <updated_at>Thu Jun 07 19:58:53 -0700 2018</updated_at>
+
+    <shelves>
+        <shelf name="read" exclusive="true" id="269274694" review_shelf_id= ""/>
+    </shelves>
+
+    <body></body>
+    <body_raw></body_raw>
+    <spoiler_flag>false</spoiler_flag>
+    <started_at></started_at>
+    <read_at></read_at>
+    <date_added>Thu Jun 07 19:58:19 -0700 2018</date_added>
+  </my_review>
+</GoodreadsResponse>
