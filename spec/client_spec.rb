@@ -297,13 +297,31 @@ describe "Client" do
         .to_return(status: 201, body: fixture("shelf_add_to_shelf.xml"))
 
       client = Goodreads::Client.new(api_key: "SECRET_KEY", oauth_token: token)
-      shelves = client.add_to_shelf(456, "read")
+      review = client.add_to_shelf(456, "read")
 
-      expect(shelves.size).to eq(1)
-      expect(shelves.first.name).to eq("read")
-      expect(shelves.first.id).to eq(269274694)
-      expect(shelves.first.exclusive).to be true
-      expect(shelves.first.sortable).to be false
+      expect(review.id).to eq(2416981504)
+      expect(review.book_id).to eq(456)
+
+      expect(review.rating).to eq(0)
+      expect(review.body).to be nil
+      expect(review.body_raw).to be nil
+      expect(review.spoiler).to be false
+
+      expect(review.shelves.size).to eq(1)
+      expect(review.shelves.first.name).to eq("read")
+      expect(review.shelves.first.id).to eq(269274694)
+      expect(review.shelves.first.exclusive).to be true
+      expect(review.shelves.first.sortable).to be false
+
+
+      expect(review.read_at).to be nil
+      expect(review.started_at).to be nil
+      expect(review.date_added).to eq("Thu Jun 07 19:58:19 -0700 2018")
+      expect(review.updated_at).to eq("Thu Jun 07 19:58:53 -0700 2018")
+
+      expect(review.body).to be nil
+      expect(review.body_raw).to be nil
+      expect(review.spoiler).to be false
     end
   end
 
