@@ -38,18 +38,35 @@ module Goodreads
       parse(resp)
     end
 
-    # Perform an OAuth API request. Goodreads must have been initialized with a valid OAuth access token.
+    # Perform an OAuth API GET request. Goodreads must have been initialized with a valid OAuth access token.
     #
     # path   - Request path
     # params - Parameters hash
     #
     def oauth_request(path, params = nil)
+      oauth_request_method(:get, path, params)
+    end
+
+    # Perform an OAuth API request. Goodreads must have been initialized with a valid OAuth access token.
+    #
+    # http_method - HTTP verb supported by OAuth gem (one of :get, :post, :delete, etc.)
+    # path   - Request path
+    # params - Parameters hash
+    #
+    def oauth_request_method(http_method, path, params = nil)
       fail "OAuth access token required!" unless @oauth_token
-      if params
-        url_params = params.map { |k, v| "#{k}=#{v}" }.join("&")
-        path = "#{path}?#{url_params}"
+
+      headers = { "Accept" => "application/xml" }
+
+      resp = if http_method == :get
+        if params
+          url_params = params.map { |k, v| "#{k}=#{v}" }.join("&")
+          path = "#{path}?#{url_params}"
+        end
+        @oauth_token.request(http_method, path, headers)
+      else
+        @oauth_token.request(http_method, path, params || {}, headers)
       end
-      resp = @oauth_token.get(path, "Accept" => "application/xml")
 
       case resp
       when Net::HTTPUnauthorized
