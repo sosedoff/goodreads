@@ -58,7 +58,7 @@ module Goodreads
 
       headers = { "Accept" => "application/xml" }
 
-      resp = if http_method == :get
+      resp = if http_method == :get || http_method == :delete
         if params
           url_params = params.map { |k, v| "#{k}=#{v}" }.join("&")
           path = "#{path}?#{url_params}"
