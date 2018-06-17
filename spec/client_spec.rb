@@ -410,6 +410,40 @@ describe "Client" do
     end
   end
 
+  describe "#edit_review" do
+    let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
+    let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
+
+    it "creates a new review for a book" do
+      stub_request(:post, "https://www.goodreads.com/review/67890.xml")
+        .with(:body => {
+          "finished" => "true",
+          "review" => {
+            "rating" => "5",
+            "review" => "Fantastic book.",
+            "read_at" => "2018-04-15",
+          },
+          "shelf" => "read",
+          "v"=>"2",
+        })
+        .to_return(status: 201, body: fixture("review_update.xml"))
+
+      client = Goodreads::Client.new(api_key: "SECRET_KEY", oauth_token: token)
+      review = client.edit_review(67890, {
+        :finished => true,
+        :review => "Fantastic book.",
+        :rating => 5,
+        :read_at => Time.parse('2018-04-15'),
+        :shelf => "read",
+      })
+
+      expect(review.id).to eq("67890")
+      expect(review.book.id).to eq(456)
+      expect(review.rating).to eq("5")
+      expect(review.body).to eq("Fantastic book.")
+    end
+  end
+
   describe "#user_id" do
     let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
     let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
