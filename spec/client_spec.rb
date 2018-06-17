@@ -186,6 +186,26 @@ describe "Client" do
     end
   end
 
+  describe "#user_review" do
+    let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
+    let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
+
+    it "returns a user's existing review" do
+      stub_request(:get, "https://www.goodreads.com/review/show_by_user_and_book.xml?book_id=50&user_id=1&v=2")
+        .to_return(status: 200, body: fixture("review_show_by_user_and_book.xml"))
+
+      client = Goodreads::Client.new(api_key: "SECRET_KEY", oauth_token: token)
+      review = client.user_review(1, 50)
+
+      expect(review.id).to eq("21")
+      expect(review.book.id).to eq(50)
+
+      expect(review.rating).to eq("5")
+      expect(review.body.strip).to eq("")
+      expect(review.date_added).to eq("Tue Aug 29 11:20:01 -0700 2006")
+    end
+  end
+
   describe "#author" do
     before { stub_with_key_get("/author/show", { id: "18541" }, "author.xml") }
 

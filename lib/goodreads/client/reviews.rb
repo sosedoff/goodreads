@@ -31,5 +31,11 @@ module Goodreads
         []
       end
     end
+
+    # Get a user's review for a given book
+    def user_review(user_id, book_id, params = {})
+      data = request('/review/show_by_user_and_book.xml', params.merge(v: "2", user_id: user_id, book_id: book_id))
+      Hashie::Mash.new(data["review"])
+    end
   end
 end
