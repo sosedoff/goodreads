@@ -9,12 +9,26 @@ module Goodreads
 
     protected
 
-    # Perform an API request
+    # Perform an API request using API key or OAuth token
     #
     # path   - Request path
     # params - Parameters hash
     #
+    # Will make a request with the configured API key (application
+    # authentication) or OAuth token (user authentication) if available.
     def request(path, params = {})
+      if oauth_configured?
+        oauth_request(path, params)
+      else
+        http_request(path, params)
+      end
+    end
+
+    # Perform an API request using API key
+    #
+    # path   - Request path
+    # params - Parameters hash
+    def http_request(path, params)
       token = api_key || Goodreads.configuration[:api_key]
 
       fail(Goodreads::ConfigurationError, "API key required.") if token.nil?
@@ -43,7 +57,7 @@ module Goodreads
     # path   - Request path
     # params - Parameters hash
     #
-    def oauth_request(path, params = nil)
+    def oauth_request(path, params = {})
       oauth_request_method(:get, path, params)
     end
 
@@ -53,7 +67,7 @@ module Goodreads
     # path   - Request path
     # params - Parameters hash
     #
-    def oauth_request_method(http_method, path, params = nil)
+    def oauth_request_method(http_method, path, params = {})
       fail "OAuth access token required!" unless @oauth_token
 
       headers = { "Accept" => "application/xml" }

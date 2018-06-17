@@ -17,6 +17,38 @@ describe "Client" do
     end
   end
 
+  describe "#oauth_configured?" do
+    it "is true when OAuth token provided to constructor" do
+      client = Goodreads::Client.new(oauth_token: "a token")
+      expect(client.oauth_configured?).to be true
+    end
+
+    it "is true when oauth token is not provided to constructor" do
+      client = Goodreads::Client.new(api_key: "SECRET_KEY")
+      expect(client.oauth_configured?).to be false
+    end
+  end
+
+  describe "#request" do
+    it "makes an OAuth request if client has an oauth_token" do
+      oauth_token = double
+      response = double
+      allow(oauth_token).to receive(:request)
+        .and_return(response)
+      allow(response).to receive(:body)
+        .and_return(fixture("book.xml"))
+
+      client = Goodreads::Client.new(oauth_token: oauth_token)
+      client.book(123)
+    end
+
+    it "makes an HTTP request with token if client does have an oauth_token" do
+      allow(client).to receive(:http_request)
+        .and_return(Hash.from_xml(fixture("book.xml"))["GoodreadsResponse"])
+      client.book(123)
+    end
+  end
+
   describe "#book_by_isbn" do
     before { stub_with_key_get("/book/isbn", { isbn: "0307463745" }, "book.xml") }
 
