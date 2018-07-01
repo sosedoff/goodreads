@@ -17,6 +17,38 @@ describe "Client" do
     end
   end
 
+  describe "#oauth_configured?" do
+    it "is true when OAuth token provided to constructor" do
+      client = Goodreads::Client.new(oauth_token: "a token")
+      expect(client.oauth_configured?).to be true
+    end
+
+    it "is true when oauth token is not provided to constructor" do
+      client = Goodreads::Client.new(api_key: "SECRET_KEY")
+      expect(client.oauth_configured?).to be false
+    end
+  end
+
+  describe "#request" do
+    it "makes an OAuth request if client has an oauth_token" do
+      oauth_token = double
+      response = double
+      allow(oauth_token).to receive(:request)
+        .and_return(response)
+      allow(response).to receive(:body)
+        .and_return(fixture("book.xml"))
+
+      client = Goodreads::Client.new(oauth_token: oauth_token)
+      client.book(123)
+    end
+
+    it "makes an HTTP request with token if client does have an oauth_token" do
+      allow(client).to receive(:http_request)
+        .and_return(Hash.from_xml(fixture("book.xml"))["GoodreadsResponse"])
+      client.book(123)
+    end
+  end
+
   describe "#book_by_isbn" do
     before { stub_with_key_get("/book/isbn", { isbn: "0307463745" }, "book.xml") }
 
@@ -151,6 +183,26 @@ describe "Client" do
       it "raises Goodreads::NotFound" do
         expect { subject }.to raise_error(Goodreads::NotFound)
       end
+    end
+  end
+
+  describe "#user_review" do
+    let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
+    let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
+
+    it "returns a user's existing review" do
+      stub_request(:get, "https://www.goodreads.com/review/show_by_user_and_book.xml?book_id=50&user_id=1&v=2")
+        .to_return(status: 200, body: fixture("review_show_by_user_and_book.xml"))
+
+      client = Goodreads::Client.new(api_key: "SECRET_KEY", oauth_token: token)
+      review = client.user_review(1, 50)
+
+      expect(review.id).to eq("21")
+      expect(review.book.id).to eq(50)
+
+      expect(review.rating).to eq("5")
+      expect(review.body.strip).to eq("")
+      expect(review.date_added).to eq("Tue Aug 29 11:20:01 -0700 2006")
     end
   end
 
@@ -322,6 +374,73 @@ describe "Client" do
       expect(review.body).to be nil
       expect(review.body_raw).to be nil
       expect(review.spoiler).to be false
+    end
+  end
+
+  describe "#create_review" do
+    let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
+    let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
+
+    it "creates a new review for a book" do
+      stub_request(:post, "https://www.goodreads.com/review.xml")
+        .with(:body => {
+          "book_id"=>"456",
+          "review" => {
+            "rating" => "3",
+            "review" => "Good book.",
+            "read_at" => "2018-01-02",
+          },
+          "shelf" => "read",
+          "v"=>"2",
+        })
+        .to_return(status: 201, body: fixture("review_create.xml"))
+
+      client = Goodreads::Client.new(api_key: "SECRET_KEY", oauth_token: token)
+      review = client.create_review(456, {
+        :review => "Good book.",
+        :rating => 3,
+        :read_at => Time.parse('2018-01-02'),
+        :shelf => "read",
+      })
+
+      expect(review.id).to eq("67890")
+      expect(review.book.id).to eq(456)
+      expect(review.rating).to eq("3")
+      expect(review.body).to eq("Good book.")
+    end
+  end
+
+  describe "#edit_review" do
+    let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
+    let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
+
+    it "creates a new review for a book" do
+      stub_request(:post, "https://www.goodreads.com/review/67890.xml")
+        .with(:body => {
+          "finished" => "true",
+          "review" => {
+            "rating" => "5",
+            "review" => "Fantastic book.",
+            "read_at" => "2018-04-15",
+          },
+          "shelf" => "read",
+          "v"=>"2",
+        })
+        .to_return(status: 201, body: fixture("review_update.xml"))
+
+      client = Goodreads::Client.new(api_key: "SECRET_KEY", oauth_token: token)
+      review = client.edit_review(67890, {
+        :finished => true,
+        :review => "Fantastic book.",
+        :rating => 5,
+        :read_at => Time.parse('2018-04-15'),
+        :shelf => "read",
+      })
+
+      expect(review.id).to eq("67890")
+      expect(review.book.id).to eq(456)
+      expect(review.rating).to eq("5")
+      expect(review.body).to eq("Fantastic book.")
     end
   end
 

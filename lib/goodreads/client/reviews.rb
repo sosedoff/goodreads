@@ -31,5 +31,61 @@ module Goodreads
         []
       end
     end
+
+    # Get a user's review for a given book
+    def user_review(user_id, book_id, params = {})
+      data = request('/review/show_by_user_and_book.xml', params.merge(v: "2", user_id: user_id, book_id: book_id))
+      Hashie::Mash.new(data["review"])
+    end
+
+    # Add review for a book
+    #
+    # Params can include :review, :rating, and :shelf
+    #
+    # review: text of the review (optional)
+    # rating: rating (0-5) (optional, default is 0 (no rating))
+    # shelf: Name of shelf to add book to (optional, must exist, see: shelves.list)
+    #
+    # Note that Goodreads API documentation says that this endpoint accepts
+    # the read_at parameter but it does not appear to work as of 2018-06.
+    def create_review(book_id, params = {})
+      params = params.merge(book_id: book_id, v: "2")
+
+      params[:read_at] = params[:read_at].strftime('%Y-%m-%d') if params[:read_at].is_a?(Time)
+
+      params[:'review[review]'] = params.delete(:review) if params[:review]
+      params[:'review[rating]'] = params.delete(:rating) if params[:rating]
+      params[:'review[read_at]'] = params.delete(:read_at) if params[:read_at]
+
+      data = oauth_request_method(:post, '/review.xml', params)
+
+      Hashie::Mash.new(data["review"])
+    end
+
+    # Edit review for a book
+    #
+    # Params can include :review, :rating, :read_at and :shelf, and :finished
+    #
+    # review: text of the review (optional)
+    # rating: rating (0-5) (optional, default is 0 (no rating))
+    # shelf: Name of shelf to add book to (optional, must exist, see: shelves.list)
+    # read_at: Time object or String in YYYY-MM-DD format (optional)
+    # finished: true to mark finished reading (optional)
+    # shelf: Name of shelf to add book to (optional, must exist, see: shelves.list)
+    def edit_review(review_id, params = {})
+      params = params.merge(v: "2")
+
+      params[:read_at] = params[:read_at].strftime('%Y-%m-%d') if params[:read_at].is_a?(Time)
+
+      params[:'review[review]'] = params.delete(:review) if params[:review]
+      params[:'review[rating]'] = params.delete(:rating) if params[:rating]
+      params[:'review[read_at]'] = params.delete(:read_at) if params[:read_at]
+
+      # Documentation says that you should use HTTP PUT, but API returns
+      # 401 Unauthorized when PUT is used instead of POST
+      data = oauth_request_method(:post, "/review/#{review_id}.xml", params)
+
+      Hashie::Mash.new(data["review"])
+    end
   end
 end

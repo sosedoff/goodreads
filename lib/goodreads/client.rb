@@ -35,5 +35,14 @@ module Goodreads
       @api_secret = options[:api_secret] || Goodreads.configuration[:api_secret]
       @oauth_token = options[:oauth_token]
     end
+
+    # Return if this client is configured with OAuth credentials
+    # for a single user
+    #
+    # False when client is instantiated with an api_key and secret,
+    # true when client is instantiated with an oauth_token
+    def oauth_configured?
+      !oauth_token.nil?
+    end
   end
 end

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>21</id>
+
+  <user>
+    <id>1</id>
+    <uri>kca://profile:goodreads/A2CSQET51X1KEY</uri>
+    <name>Otis</name>
+    <display_name>Otis Chandler</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1-otis-chandler]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1506617226p3/1.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1506617226p2/1.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">50</id>
+  <isbn>0689840926</isbn>
+  <isbn13>9780689840920</isbn13>
+  <text_reviews_count type="integer">10396</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RXVB3nJhipnhI-zLlVeRTg</uri>
+  <title>Hatchet</title>
+  <title_without_series>Hatchet</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/50.Hatchet</link>
+  <num_pages>208</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atheneum Books for Young Readers: Richard Jackson Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>250763</ratings_count>
+  <description>Brian is on his way to Canada to visit his estranged father when the pilot of his small prop plane suffers a heart attack. Brian is forced to crash-land the plane in a lake--and finds himself stranded in the remote Canadian wilderness with only his clothing and the hatchet his mother gave him as a present before his departure. &lt;br /&gt;&lt;br /&gt;Brian had been distraught over his parents' impending divorce and the secret he carries about his mother, but now he is truly desolate and alone. Exhausted, terrified, and hungry, Brian struggles to find food and make a shelter for himself. He has no special knowledge of the woods, and he must find a new kind of awareness and patience as he meets each day's challenges. Is the water safe to drink? Are the berries he finds poisonous? &lt;br /&gt;&lt;br /&gt;Slowly, Brian learns to turn adversity to his advantage--an invading porcupine unexpectedly shows him how to make fire, a devastating tornado shows him how to retrieve supplies from the submerged airplane. Most of all, Brian leaves behind the self-pity he has felt about his predicament as he summons the courage to stay alive. &lt;br /&gt;&lt;br /&gt;A story of survival and of transformation, this riveting book has sparked many a reader's interest in venturing into the wild.</description>
+<authors>
+<author>
+<id>18</id>
+<name>Gary Paulsen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309159225p5/18.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309159225p2/18.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18.Gary_Paulsen]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>399462</ratings_count>
+<text_reviews_count>28012</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>1158125</id>
+  <uri>kca://work/amzn1.gr.work.v1.r_sm_y7tG-b00YGE5HqhQQ</uri>
+</work></book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1610038200</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Dec 09 22:55:21 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+
+<shelves>
+    <shelf name="read" exclusive="true" id="5625761" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='343477' name='childrensbooks' review_shelf_id='175' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='348056' name='fiction' review_shelf_id='687' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='348035' name='fiction' review_shelf_id='209' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Aug 29 11:20:01 -0700 2006</date_added>
+  <date_updated>Wed Mar 22 11:44:07 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+
+
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>161860175</id>
+  <body><![CDATA[love this book i read it in sixth grade and we had journals about it]]></body>
+
+  <user>
+    <id>64170165</id>
+    <uri>kca://profile:goodreads/A2PCDUCFEEK4OB</uri>
+    <name>Alise</name>
+    <display_name>Alise</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/64170165-alise]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 22 22:49:10 -0800 2017</created_at>
+  <updated_at>Sun Jan 22 22:49:10 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/21]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/21]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

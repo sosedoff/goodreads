@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[review_update_xml]]></method>
+  </Request>
+      <review>
+  <id>67890</id>
+
+  <user>
+    <id>123456</id>
+    <uri>kca://profile:goodreads/A25C3Y1SBGK9NK</uri>
+    <name>Test</name>
+    <display_name>Test User</display_name>
+
+    <location>Lafayette, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/123456-test-user]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">456</id>
+  <isbn>0195138570</isbn>
+  <isbn13>9780195138573</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oHwPZrciugo6gPSINsfCaw</uri>
+  <title>Mindware: An Introduction to the Philosophy of Cognitive Science</title>
+  <title_without_series>Mindware: An Introduction to the Philosophy of Cognitive Science</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/456.Mindware</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information>1st edition</edition_information>
+  <publisher>Oxford University Press, USA</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>210</ratings_count>
+  <description>&lt;p&gt;&lt;i&gt;Mindware&lt;/i&gt; is an introductory text with a difference. In eight short chapters it tells a story and invites the reader to join in some up-to-the-minute conceptual discussion of the key issues, problems, and opportunities in cognitive science. The story is about the search for a cognitive scientific understanding of mind. It is presented as a no-holds-barred journey from early work in Artificial Intelligence, through connectionist (artificial neural network) counter-visions, and onto neuroscience artificial life, dynamics and robotics. The journey ends with some wide-ranging and provacative speculation about the role of technology and the changing nature of the human mind itself.&lt;br /&gt;Each chapter is organized as an initial sketch of a research program or theme, followed by a substantial discussion section in which specific problems and issues (both familiear and cutting-edge) are raised and pursued. Discussion topics include mental causation, the hardware/software distinction, the relations between life and mind, the nature of perception, cognition and action, and the continuity (or otherwise) of high-level human intelligence with other forms of adaptive response. Classic topics are treated alongside the newer ones in an integrated treatment of the various discussions. The sketches and discussions are accompanied by numerous figures and boxed sections, and followed by suggestions for futher reading.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>3445871</id>
+<name>Andy  Clark</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1269856267p5/3445871.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1269856267p2/3445871.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3445871.Andy_Clark]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>992</ratings_count>
+<text_reviews_count>74</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>282613</id>
+  <uri>kca://work/amzn1.gr.work.v1.xCZQesiWRuaIVPV6wsdFGA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+
+<shelves>
+    <shelf name="read" exclusive="true" id="269274694" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Aug 20 00:00:00 -0700 2004</read_at>
+  <date_added>Wed Jun 13 20:52:06 -0700 2018</date_added>
+  <date_updated>Wed Jun 13 20:52:08 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>Fantastic book.</body>
+  <body_raw>
+
+  </body_raw>
+
+
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/67890]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/67890]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>
