@@ -1,6 +1,6 @@
 require "spec_helper"
 
-describe "Goodreads" do
+describe Goodreads do
   describe ".new" do
     it "returns a new client instance" do
       expect(Goodreads.new).to be_a(Goodreads::Client)

@@ -1,7 +1,7 @@
 require "spec_helper"
 require "oauth"
 
-describe "Client" do
+describe Goodreads::Client do
   let(:client)  { Goodreads::Client.new(api_key: "SECRET_KEY") }
   before(:each) { Goodreads.reset_configuration }
 
