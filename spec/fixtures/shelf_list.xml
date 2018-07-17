@@ -1,0 +1,51 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+      <method><![CDATA[ shelf_list ]]></method>
+  </Request>
+  <shelves start="1" end="3" total="3">
+    <user_shelf>
+      <id type="integer">9049904</id>
+      <name>read</name>
+      <book_count type="integer">0</book_count>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <description nil="true"/>
+      <sort nil="true"/>
+      <order nil="true"/>
+      <per_page type="integer" nil="true"/>
+      <display_fields/>
+      <featured type="boolean">true</featured>
+      <recommend_for type="boolean">true</recommend_for>
+      <sticky type="boolean" nil="true"/>
+    </user_shelf>
+    <user_shelf>
+      <id type="integer">3701</id>
+      <name>currently-reading</name>
+      <book_count type="integer">0</book_count>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <description nil="true"/>
+      <sort nil="true"/>
+      <order nil="true"/>
+      <per_page type="integer" nil="true"/>
+      <display_fields/>
+      <featured type="boolean">false</featured>
+      <recommend_for type="boolean">true</recommend_for>
+      <sticky type="boolean" nil="true"/>
+      </user_shelf>
+    <user_shelf>
+      <id type="integer">3700</id>
+      <name>to-read</name>
+      <book_count type="integer">0</book_count>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <description nil="true"/>
+      <sort nil="true"/>
+      <order>a</order>
+      <per_page type="integer" nil="true"/>
+      <display_fields/>
+      <featured type="boolean">false</featured>
+      <recommend_for type="boolean">true</recommend_for>
+      <sticky type="boolean" nil="true"/>
+    </user_shelf>
+  </shelves>
+</GoodreadsResponse>

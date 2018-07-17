@@ -444,6 +444,26 @@ describe "Client" do
     end
   end
 
+  describe "#shelves" do
+    it "returns list of user's shelves" do
+      stub_with_key_get("/shelf/list.xml", { user_id: 123, v: "2" }, "shelf_list.xml")
+
+      response = client.shelves(123)
+
+      expect(response).to respond_to(:start)
+      expect(response).to respond_to(:end)
+      expect(response).to respond_to(:total)
+      expect(response).to respond_to(:shelves)
+
+      expect(response.start).to eq(1)
+      expect(response.end).to eq(3)
+      expect(response.total).to eq(3)
+      expect(response.shelves.length).to eq(3)
+      expect(response.shelves.first.id).to eq(9049904)
+      expect(response.shelves.first.name).to eq("read")
+    end
+  end
+
   describe "#user_id" do
     let(:consumer) { OAuth::Consumer.new("API_KEY", "SECRET_KEY", site: "https://www.goodreads.com") }
     let(:token)    { OAuth::AccessToken.new(consumer, "ACCESS_TOKEN", "ACCESS_SECRET") }
