@@ -1,24 +1,37 @@
 require "spec_helper"
 
-describe "Client" do
+describe Goodreads::Client do
   before :each do
     Goodreads.reset_configuration
   end
 
-  it "raises Goodreads::ConfigurationError if API key was not provided" do
-    client = Goodreads::Client.new
-
-    expect { client.book_by_isbn("0307463745") }
-      .to raise_error(Goodreads::ConfigurationError, "API key required.")
+  let(:client) do
+    described_class.new(api_key: api_key)
   end
 
-  it "raises Goodreads::Unauthorized if API key is not valid" do
-    client = Goodreads::Client.new(api_key: "INVALID_KEY")
+  context "API key is missing" do
+    let(:api_key) {}
 
-    stub_request(:get, "https://www.goodreads.com/book/isbn?format=xml&isbn=054748250711&key=INVALID_KEY")
-      .to_return(status: 401)
+    it "throws an error" do
+      expect { client.book_by_isbn("0307463745") }
+        .to raise_error(Goodreads::ConfigurationError, "API key required.")
+    end
+  end
 
-    expect { client.book_by_isbn("054748250711") }
-      .to raise_error(Goodreads::Unauthorized)
+  context "API key is invalid" do
+    let(:api_key) { "INVALID_KEY" }
+
+    before do
+      stub_request(:get, "https://www.goodreads.com/book/isbn?format=xml&isbn=1&key=INVALID_KEY")
+        .to_return(status: 401)
+
+      stub_request(:get, "https://www.goodreads.com/book/isbn?format=xml&isbn=2&key=INVALID_KEY")
+        .to_return(status: 403)
+    end
+
+    it "throws errors" do
+      expect { client.book_by_isbn("1") }.to raise_error(Goodreads::Unauthorized)
+      expect { client.book_by_isbn("2") }.to raise_error(Goodreads::Forbidden)
+    end
   end
 end
