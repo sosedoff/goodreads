@@ -210,4 +210,4 @@ You're welcome to submit patches and new features.
 
 The MIT License (MIT)
 
-Copyright (c) 2011-2015 Dan Sosedoff, <dan.sosedoff@gmail.com>
+Copyright (c) 2011-2018 Dan Sosedoff, <dan.sosedoff@gmail.com>
