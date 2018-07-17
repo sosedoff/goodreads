@@ -30,22 +30,29 @@ describe "Client" do
   end
 
   describe "#request" do
-    it "makes an OAuth request if client has an oauth_token" do
-      oauth_token = double
-      response = double
-      allow(oauth_token).to receive(:request)
-        .and_return(response)
-      allow(response).to receive(:body)
-        .and_return(fixture("book.xml"))
+    context "with oauth token" do
+      it "makes an oauth request" do
+        oauth_token = double
+        response = double
 
-      client = Goodreads::Client.new(oauth_token: oauth_token)
-      client.book(123)
+        allow(oauth_token).to receive(:request) { response }
+        allow(response).to receive(:body) { fixture("book.xml") }
+
+        client = Goodreads::Client.new(oauth_token: oauth_token)
+        expect(client.book(123)).to be_a Hash
+      end
     end
 
-    it "makes an HTTP request with token if client does have an oauth_token" do
-      allow(client).to receive(:http_request)
-        .and_return(Hash.from_xml(fixture("book.xml"))["GoodreadsResponse"])
-      client.book(123)
+    context "without oauth token" do
+      before do
+        allow(client).to receive(:http_request) {
+          Hash.from_xml(fixture("book.xml"))["GoodreadsResponse"]
+        }
+      end
+
+      it "makes a request" do
+        expect(client.book(123)).to be_a Hash
+      end
     end
   end
 
