@@ -145,6 +145,8 @@ shelf.books  # array of books on this shelf
 shelf.start  # start index of this page of paginated results
 shelf.end    # end index of this page of paginated results
 shelf.total  # total number of books on this shelf
+
+shelf = client.shelf(user_id, shelf_name, page: 2)  # => specify pagination index
 ```
 
 ### Groups
