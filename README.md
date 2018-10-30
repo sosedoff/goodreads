@@ -1,4 +1,6 @@
-# Goodreads [![Build Status](https://img.shields.io/travis/sosedoff/goodreads/master.svg)](http://travis-ci.org/sosedoff/goodreads)
+# Goodreads
+[![Build Status](https://img.shields.io/travis/sosedoff/goodreads/master.svg)](http://travis-ci.org/sosedoff/goodreads)
+[![Gem Version](https://badge.fury.io/rb/goodreads.svg)](http://badge.fury.io/rb/goodreads)
 
 Ruby wrapper to communicate with Goodreads API.
 
