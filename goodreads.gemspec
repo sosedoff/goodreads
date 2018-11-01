@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.email       = ["dan.sosedoff@gmail.com"]
   spec.license     = "MIT"
 
+  spec.add_development_dependency 'coveralls', '>= 0'
   spec.add_development_dependency "webmock",   "~> 2.0"
   spec.add_development_dependency "rake",      "~> 10"
   spec.add_development_dependency "rspec",     "~> 2.12"

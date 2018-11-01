@@ -1,5 +1,7 @@
 $LOAD_PATH.unshift(File.expand_path("../..", __FILE__))
 
+require 'coveralls'
+Coveralls.wear!
 require "simplecov"
 
 SimpleCov.start do
