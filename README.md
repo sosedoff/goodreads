@@ -170,7 +170,6 @@ group_list.total         # => total number of groups
 group_list.group.count  # => number of groups returned in the request
 
 # Loop through the list to get details for each of the groups.
-
 group_list.group.each do |g|
   g.id                 # => group id
   g.access             # => access settings (private, public)
@@ -183,6 +182,14 @@ end
 
 The `sort` parameter is optional, and defaults to `my_activity`.
 For other sorting options, [see here](http://www.goodreads.com/api#group.list).
+
+### Pagination
+
+To retrieve results for a particular page use the `page` param when making calls:
+
+```ruby
+books = client.search_books("Term", page: 2)
+```
 
 ### OAuth
 
