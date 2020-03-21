@@ -262,6 +262,23 @@ describe Goodreads::Client do
     end
   end
 
+  describe "#author_books" do
+    before do
+      stub_with_key_get("/author/list", { id: "18541" }, "author_books.xml")
+    end
+
+    it "returns author's books" do
+      author = client.author_books("18541")
+
+      expect(author).to be_a(Hashie::Mash)
+      expect(author.id).to eq("18541")
+      expect(author.name).to eq("Tim O'Reilly")
+      expect(author.link).to eq("https://www.goodreads.com/author/show/18541.Tim_O_Reilly")
+
+      expect(author.books.book.size).to eq(30)
+    end
+  end
+
   describe "#user" do
     before { stub_with_key_get("/user/show", { id: "878044" }, "user.xml") }
 
