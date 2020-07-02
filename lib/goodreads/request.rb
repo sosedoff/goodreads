@@ -46,6 +46,10 @@ module Goodreads
           fail(Goodreads::Forbidden)
         when 404
           fail(Goodreads::NotFound)
+        when 500..599
+          fail(Goodreads::ServerError.new(response.code))
+        else
+          fail(Goodreads::UnknownError.new(response.code))
         end
       end
 
