@@ -4,4 +4,6 @@ module Goodreads
   class Forbidden < Error; end
   class Unauthorized < Error; end
   class NotFound < Error; end
+  class ServerError < Error; end
+  class UnknownError < Error; end
 end
