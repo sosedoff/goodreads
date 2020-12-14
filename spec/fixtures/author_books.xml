@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[SECRET_KEY]]></key>
+    <method><![CDATA[author_list]]></method>
+  </Request>
+  <author>
+  <id>18541</id>
+  <name>Tim O&apos;Reilly</name>
+  <link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+  <books start="1" end="30" total="57">
+    <book>
+  <id type="integer">50731895</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v3.lM1L2eQ4e_kJh9tB</uri>
+  <title>Tribe of Mentors: Short Life Advice from the Best in the World</title>
+  <title_without_series>Tribe of Mentors: Short Life Advice from the Best in the World</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580496015l/50731895._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580496015l/50731895._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/50731895-tribe-of-mentors</link>
+  <num_pages></num_pages>
+  <format>Audible Audio</format>
+  <edition_information>Unabridged</edition_information>
+  <publisher>Audible Studios</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2020</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>8002</ratings_count>
+  <description>&lt;div&gt;&lt;b&gt;We All Need Mentors. Here Are More than 100 of the World’s Best.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; When facing life’s questions, who do you turn to for advice? We all need mentors, particularly when the odds seem stacked against us. To find his own, best-selling author Tim Ferriss tracked down more than 100 eclectic experts to help him, and you, navigate life. Through short, action-packed profiles, he shares their secrets for success, happiness, meaning, and more. No matter the challenge or opportunity, something in these pages can help.&lt;br /&gt;  &lt;br /&gt; You will learn:&lt;br /&gt;• The three books legendary investor Ray Dalio recommends most often&lt;br /&gt;• Lessons and tips from elite athletes like Maria Sharapova, Kelly Slater, Dara Torres, Tony Hawk, Dan Gable, and more&lt;br /&gt;• How and why Facebook co-founder Dustin Moskovitz says no to most incoming requests&lt;br /&gt;• The mental models of poker phenoms Daniel Negreanu, Annie Duke, Fedor Holz, and Liv Boeree&lt;br /&gt;• The meditation and mindfulness practices of David Lynch, Jimmy Fallon, Sharon Salzberg, Rick Rubin, Richa Chadha, Sarah Elizabeth Lewis, and others&lt;br /&gt;• The high-school loss that motivated actor Terry Crews for life . . . and how you can use the lesson&lt;br /&gt;• Why TED curator Chris Anderson thinks “pursue your passion” is terrible advice&lt;br /&gt;• Why renowned designer Debbie Millman believes in therapy but not in work-life balance&lt;br /&gt;• How Yuval Noah Harari's &lt;i&gt;Sapiens &lt;/i&gt;went from repeated rejections to global mega-bestseller&lt;br /&gt;• The new beliefs, behaviors, and habits that have most helped cryptocurrency icons (founders of Ethereum, Zcash, etc.) in the last five years&lt;br /&gt;• Why Arianna Huffington recommends that you regularly scramble apps on your phone&lt;br /&gt;• The “bar complex” exercise that keeps country star Tim McGraw young&lt;br /&gt;• Why bestselling author Steven Pressfield believes college students should drive trucks and become cowboys&lt;br /&gt;• Why comedian Patton Oswalt wishes at least one catastrophic failure on anyone in the arts&lt;br /&gt;• Astrophysicist Janna Levin’s unique reframe that helps her see obstacles as opportunities&lt;br /&gt;• Why actor Ben Stiller likes to dunk his head in a bucket of ice in the morning&lt;br /&gt;• Why Dropbox co-founder Drew Houston’s cheat sheet for his younger self would include a tennis ball, a circle, and the number 30,000.&lt;br /&gt;  &lt;br /&gt; Other mentors include Neil Gaiman, Ashton Kutcher, Dita Von Teese, Marc Benioff, Evan Williams, Brandon Stanton, Esther Perel, Darren Aronofsky, Steve Aoki, Joseph Gordon-Levitt, Stephanie McMahon, Craig Newmark, Gretchen Rubin, Bear Grylls, Laura Walker, Mr. Money Mustache (Pete Adeney), Linda Rottenberg, Jesse Williams, and many more.&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;©2017 Timothy Ferriss (P)2019 Audible, Inc.</description>
+<authors>
+<author>
+<id>210456</id>
+<name>Timothy Ferriss</name>
+<role>Narrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1400530891p5/210456.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1400530891p2/210456.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/210456.Timothy_Ferriss]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>221595</ratings_count>
+<text_reviews_count>10268</text_reviews_count>
+</author>
+</authors>
+  <published>2020</published>
+<work>  <id>57830167</id>
+  <uri>kca://work/amzn1.gr.work.v1.JoDKuHlOZNMNwPcEEgLE_g</uri>
+</work></book>
+
+    <book>
+  <id type="integer">104744</id>
+  <isbn>1565927249</isbn>
+  <isbn13>9781565927247</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kHUUCkrx4O11cXf9i_qQCQ</uri>
+  <title>The Cathedral &amp; the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary</title>
+  <title_without_series>The Cathedral &amp; the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/104744.The_Cathedral_the_Bazaar</link>
+  <num_pages>279</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>3651</ratings_count>
+  <description>"This is how we did it." --Linus Torvalds, creator of the Linux kernel&lt;br /&gt;&lt;br /&gt;It all started with a series of odd statistics. The leading challenger to Microsoft's stranglehold on the computer industry is an operating system called Linux, the product of thousands of volunteer programmers who collaborate over the Internet. The software behind a majority of all the world's web sites doesn't come from a big company either, but from a loosely coordinated group of volunteer programmers called the Apache Group. The Internet itself, and much of its core software, was developed through a process of networked collaboration.&lt;br /&gt;&lt;br /&gt;The key to these stunning successes is a movement that has come to be called open source, because it depends on the ability of programmers to freely share their program source code so that others can improve it. In 1997, Eric S. Raymond outlined the core principles of this movement in a manifesto called "The Cathedral and the Bazaar," which was published and freely redistributed over the Internet.&lt;br /&gt;&lt;br /&gt;Mr. Raymond's thinking electrified the computer industry. He argues that the development of the Linux operating system by a loose confederation of thousands of programmers--without central project management or control--turns on its head everything we thought we knew about software project management. Internet-enabled collaboration and free information sharing, not monopolistic control, is the key to innovation and product quality.&lt;br /&gt;&lt;br /&gt;This idea was interesting to more than programmers and software project leaders. It suggested a whole new way of doing business, and the possibility of unprecedented shifts in the power structures of the computer industry.&lt;br /&gt;&lt;br /&gt;The rush to capitalize on the idea of open source started with Netscape's decision to release its flagship Netscape Navigator product under open source licensing terms in early 1998. Before long, Fortune 500 companies like Intel, IBM, and Oracle were joining the party. By August 1999, when the leading Linux distributor, Red Hat Software, made its hugely successful public stock offering, it had become clear that open source was "the next big thing" in the computer industry.&lt;br /&gt;&lt;br /&gt;This revolutionary book starts out with "A Brief History of Hackerdom"--the historical roots of the open-source movement--and details the events that led to the recognition of the power of open source. It contains the full text of "The Cathedral &amp;amp; the Bazaar," updated and expanded for this book, plus Mr. Raymond's other key essays on the social and economic dynamics of open source software development.&lt;br /&gt;&lt;br /&gt;Open source is the competitive advantage in the Internet Age. &lt;i&gt;The Cathedral &amp;amp; the Bazaar&lt;/i&gt; is a must for anyone who cares about the computer industry or the dynamics of the information economy. Already, billions of dollars have been made and lost based on the ideas in this book. Its conclusions will be studied, debated, and implemented for years to come.</description>
+<authors>
+<author>
+<id>18542</id>
+<name>Eric S. Raymond</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1265508525p5/18542.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1265508525p2/18542.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18542.Eric_S_Raymond]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>5675</ratings_count>
+<text_reviews_count>287</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>100993</id>
+  <uri>kca://work/amzn1.gr.work.v1.tViXLaH3BL0v38d6PcdEOQ</uri>
+</work></book>
+
+    <book>
+  <id type="integer">34017076</id>
+  <isbn>0062565710</isbn>
+  <isbn13>9780062565716</isbn13>
+  <text_reviews_count type="integer">161</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.k3Tv1uQYB_qrxrBehHJ2qw</uri>
+  <title>WTF?: What's the Future and Why It's Up to Us</title>
+  <title_without_series>WTF?: What's the Future and Why It's Up to Us</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502106956l/34017076._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502106956l/34017076._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34017076-wtf</link>
+  <num_pages>448</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper Business</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>1342</ratings_count>
+  <description>WTF? can be an expression of amazement or an expression of dismay. In today’s economy, we have far too much dismay along with our amazement, and technology bears some of the blame. In this combination of memoir, business strategy guide, and call to action, Tim O'Reilly, Silicon Valley’s leading intellectual and the founder of O’Reilly Media, explores the upside and the potential downsides of today's WTF? technologies. &lt;br /&gt;&lt;br /&gt;What is the future when an increasing number of jobs can be performed by intelligent machines instead of people, or done only by people in partnership with those machines? What happens to our consumer based societies—to workers and to the companies that depend on their purchasing power? Is income inequality and unemployment an inevitable consequence of technological advancement, or are there paths to a better future? What will happen to business when technology-enabled networks and marketplaces are better at deploying talent than traditional companies? How should companies organize themselves to take advantage of these new tools? What’s the future of education when on-demand learning outperforms traditional institutions? How can individuals continue to adapt and retrain? Will the fundamental social safety nets of the developed world survive the transition, and if not, what will replace them? &lt;br /&gt;&lt;br /&gt;O'Reilly is "the man who can really can make a whole industry happen," according to Eric Schmidt, Executive Chairman of Alphabet (Google.) His genius over the past four decades has been to identify and to help shape our response to emerging technologies with world shaking potential—the World Wide Web, Open Source Software, Web 2.0, Open Government data, the Maker Movement, Big Data, and now AI. O’Reilly shares the techniques he's used at O’Reilly Media  to make sense of and predict past innovation waves and applies those same techniques to provide a framework for thinking about how today’s world-spanning platforms and networks, on-demand services, and artificial intelligence are changing the nature of business, education, government, financial markets, and the economy as a whole. He provides tools for understanding how all the parts of modern digital businesses work together to create marketplace advantage and customer value, and why ultimately, they cannot succeed unless their ecosystem succeeds along with them.&lt;br /&gt;&lt;br /&gt;The core of the book's call to action is an exhortation to businesses to DO MORE with technology rather than just using it to cut costs and enrich their shareholders. Robots are going to take our jobs, they say. O'Reilly replies, “Only if that’s what we ask them to do! Technology is the solution to human problems, and we won’t run out of work till we run out of problems." Entrepreneurs need to set their sights on how they can use big data, sensors, and AI to create amazing human experiences and the economy of the future, making us all richer in the same way the tools of the first industrial revolution did. Yes, technology can eliminate labor and make things cheaper, but at its best, we use it to do things that were previously unimaginable! What is our poverty of imagination? What are the entrepreneurial leaps that will allow us to use the technology of today to build a better future, not just a more efficient one? &lt;strong&gt;
+  &lt;em&gt;Whether technology brings the WTF? of wonder or the WTF? of dismay isn't inevitable. It's up to us!&lt;/em&gt;
+&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt; </description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>55014517</id>
+  <uri>kca://work/amzn1.gr.work.v1.2CQmJiyxfniyugKBQzmSRQ</uri>
+</work></book>
+
+    <book>
+  <id type="integer">172314</id>
+  <isbn>1565922603</isbn>
+  <isbn13>9781565922600</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IatnIviB1H46QKhjYzaetg</uri>
+  <title>UNIX Power Tools</title>
+  <title_without_series>UNIX Power Tools</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/172314.UNIX_Power_Tools</link>
+  <num_pages>1122</num_pages>
+  <format>Paperback</format>
+  <edition_information>2nd edition</edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>669</ratings_count>
+  <description>Ideal for UNIX users who hunger for technical -- yet accessible -- information, &lt;i&gt;UNIX Power Tools, 2nd Edition&lt;/i&gt;, consists of tips, tricks, concepts, and freeware (CD-ROM included). It also covers add-on utilities and how to take advantage of clever features in the most popular UNIX utilities.&lt;br /&gt;&lt;br /&gt;Loaded with even more practical advice about almost every aspect of UNIX, this edition addresses the technology that UNIX users face today, differing from the first edition in a number of important ways.&lt;br /&gt;&lt;br /&gt;First, it slants the blend of options and commands more toward the POSIX utilities, including the GNU versions; the &lt;i&gt;bash&lt;/i&gt; and &lt;i&gt;tcsh&lt;/i&gt; shells have greater coverage, but we've kept the first edition's emphasis on the core concepts of &lt;i&gt;sh&lt;/i&gt; and &lt;i&gt;csh&lt;/i&gt; that will help you use all UNIX shells; and, Perl is more important than &lt;i&gt;awk&lt;/i&gt; these days, so we've de-emphasized awk in this edition.&lt;br /&gt;&lt;br /&gt;This is a browser's book...like a magazine that you don't read from start to finish, but leaf through repeatedly until you realize that you've read it all. The book is structured so that it bursts at the seams with cross references. Interesting "sidebars" explore syntax or point out other directions for exploration, including relevant technical details that might not be immediately apparent. You'll find articles abstracted from other O'Reilly books, new information that highlights program "tricks" and "gotchas," tips posted to the Net over the years, and other accumulated wisdom.&lt;br /&gt;&lt;br /&gt;The 53 chapters in this book discuss topics like file management, text editors, shell programming -- even office automation. Overall, there's plenty of material here to satisfy even the most voracious appetites. The bottom line? &lt;i&gt;UNIX Power Tools&lt;/i&gt; is loaded with practical advice about almost every aspect of UNIX. It will help you think creatively about UNIX, and will help you get to the point where you can analyze your own problems. Your own solutions won't be far behind.&lt;br /&gt;&lt;br /&gt;The CD-ROM includes all of the scripts and aliases from the book, plus &lt;i&gt;perl&lt;/i&gt;, GNU &lt;i&gt;emacs&lt;/i&gt;, &lt;i&gt;netpbm&lt;/i&gt; (graphics manipulation utilities), &lt;i&gt;ispell&lt;/i&gt;,&lt;i&gt;screen&lt;/i&gt;, the &lt;i&gt;sc&lt;/i&gt; spreadsheet, and about 60 other freeware programs. In addition to the source code, all the software is precompiled for Sun4, Digital UNIX, IBM AIX, HP/UX, Red Hat Linux, Solaris, and SCO UNIX.</description>
+<authors>
+<author>
+<id>49587</id>
+<name>Jerry Peek</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49587.Jerry_Peek]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>905</ratings_count>
+<text_reviews_count>40</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>166409</id>
+  <uri>kca://work/amzn1.gr.work.v1._Y0d0E5ZB1WJbg3PZ1BiFA</uri>
+</work></book>
+
+    <book>
+  <id type="integer">6438581</id>
+  <isbn>0596522304</isbn>
+  <isbn13>9780596522308</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.g3z8J-88sJIIHgsPBUOEHw</uri>
+  <title>Even Faster Web Sites</title>
+  <title_without_series>Even Faster Web Sites</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834858l/6438581._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834858l/6438581._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6438581-even-faster-web-sites</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>349</ratings_count>
+  <description>Performance is critical to the success of any web site, and yet today's web applications push browsers to their limits with increasing amounts of rich content and heavy use of Ajax. In this book, Steve Souders, web performance evangelist at Google and former Chief Performance Yahoo!, provides valuable techniques to help you optimize your site's performance.&lt;br /&gt;&lt;br /&gt;Souders' previous book, the bestselling &lt;i&gt;High Performance Web Sites&lt;/i&gt;, shocked the web development world by revealing that 80% of the time it takes for a web page to load is on the client side. In &lt;i&gt;Even Faster Web Sites&lt;/i&gt;, Souders and eight expert contributors provide best practices and pragmatic advice for improving your site's performance in three critical categories:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;JavaScript&lt;/b&gt;-Get advice for understanding Ajax performance, writing efficient JavaScript, creating responsive applications, loading scripts without blocking other components, and more.&lt;br /&gt;&lt;b&gt;Network&lt;/b&gt;-Learn to share resources across multiple domains, reduce image size without loss of quality, and use chunked encoding to render pages faster.&lt;br /&gt;&lt;b&gt;Browser&lt;/b&gt;-Discover alternatives to iframes, how to simplify CSS selectors, and other techniques. Speed is essential for today's rich media web sites and Web 2.0 applications. With this book, you'll learn how to shave precious seconds off your sites' load times and make them respond even faster.&lt;br /&gt;&lt;br /&gt;This book contains six guest chapters contributed by Dion Almaer, Doug Crockford, Ben Galbraith, Tony Gentilcore, Dylan Schiemann, Stoyan Stefanov, Nicole Sullivan, and Nicholas C. Zakas.</description>
+<authors>
+<author>
+<id>775693</id>
+<name>Steve Souders</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/775693.Steve_Souders]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1019</ratings_count>
+<text_reviews_count>78</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6628467</id>
+  <uri>kca://work/amzn1.gr.work.v1.XVjhf2qrlR7Ja7mQEZR18Q</uri>
+</work></book>
+
+    <book>
+  <id type="integer">6356381</id>
+  <isbn>0596802811</isbn>
+  <isbn13>9780596802813</isbn13>
+  <text_reviews_count type="integer">55</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7H_nkqMOZ36BaN4MmVrK2w</uri>
+  <title>The Twitter Book</title>
+  <title_without_series>The Twitter Book</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834986l/6356381._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834986l/6356381._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6356381-the-twitter-book</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.64</average_rating>
+  <ratings_count>349</ratings_count>
+  <description>"Media organizations should take note of Twitter's power to quickly reach their target consumers." --Tim O'Reilly (@timoreilly), in a Los Angeles Times interview, March 2009&lt;br /&gt;&lt;br /&gt;This practical guide will teach you everything you need to know to quickly become a Twitter power user. It includes information on the latest third party applications, strategies and tactics for using Twitter's 140-character messages as a serious--and effective--way to boost your business, as well as how to turn Twitter into your personal newspaper, tracking breaking news and learning what matters to you and your friends.&lt;br /&gt;&lt;br /&gt;Co-written by Tim O'Reilly and Sarah Milstein, widely followed and highly respected twitterers, the practical information in &lt;i&gt;The Twitter Book&lt;/i&gt; is presented in an innovative, visually rich format that's packed with clear explanations and examples of best practices that show Twitter in action, as demonstrated by the work of over 60 twitterers.&lt;br /&gt;&lt;br /&gt;This book will help you:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Use Twitter to connect with colleagues, customers, family, and friends Stand out on Twitter Avoid common Twitter gaffes and pitfalls Build a critical professional communications channel with Twitter--and use the best third-party tools that help you manage it. If you want to know how to use Twitter like a pro, &lt;i&gt;The Twitter Book&lt;/i&gt; will quickly get you up to speed.&lt;br /&gt;&lt;br /&gt;About the authors:&lt;br /&gt;&lt;br /&gt; Tim O Reilly (@timoreilly), founder and CEO of O Reilly Media, has hundreds of thousands of followers on Twitter. Sarah Milstein (@SarahM) frequently writes, speaks and teaches about Twitter; she was the 21st user of Twitter.</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6543098</id>
+  <uri>kca://work/amzn1.gr.work.v1.TUp6yJI-rwwWp7bUSQ0K5g</uri>
+</work></book>
+
+    <book>
+  <id type="integer">21562603</id>
+  <isbn>1616960809</isbn>
+  <isbn13>9781616960803</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zR9r5GRYWtxBrsDhgvCJJQ</uri>
+  <title>Context</title>
+  <title_without_series>Context</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21562603-context</link>
+  <num_pages>241</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Tachyon Publications</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>329</ratings_count>
+  <description>One of the internet's most celebrated hi-tech culture mavens returns with this second collection of essays and polemics. Discussing complex topics in an accessible manner, Cory Doctorow shares visions of a future where artists control their own destinies and where freedom of expression is tempered with the view that creators need to benefit from their own creations. From extolling the Etsy marketverse to excoriating Apple for dumbing-down technology while creating an information monopoly, each unique piece is brief, witty, and at the cutting edge of tech. Now a stay-at-home dad as well as an international activist, Doctorow writes as eloquently about creating internet real-time theater with his daughter as he does in lambasting the corporations that want to limit and profit from inherent intellectual freedoms.</description>
+<authors>
+<author>
+<id>12581</id>
+<name>Cory Doctorow</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361468756p5/12581.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361468756p2/12581.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12581.Cory_Doctorow]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>192914</ratings_count>
+<text_reviews_count>21388</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>17672729</id>
+  <uri>kca://work/amzn1.gr.work.v1.RQcuW5v2Xm_5LzGSz4X4sg</uri>
+</work></book>
+
+    <book>
+  <id type="integer">18874082</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eNeASmA1DFyYGzBj875xXw</uri>
+  <title>How Data Science Is Transforming Health Care</title>
+  <title_without_series>How Data Science Is Transforming Health Care</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18874082-how-data-science-is-transforming-health-care</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.47</average_rating>
+  <ratings_count>108</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>49585</id>
+<name>Mike Loukides</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1230756095p5/49585.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1230756095p2/49585.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49585.Mike_Loukides]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>2451</ratings_count>
+<text_reviews_count>141</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>21986712</id>
+  <uri>kca://work/amzn1.gr.work.v1.z6jG-sovypTaayRgqCM3qA</uri>
+</work></book>
+
+    <book>
+  <id type="integer">53751</id>
+  <isbn>0425097854</isbn>
+  <isbn13>9780425097854</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vZFLBU6YBsidiZLPsYnQsA</uri>
+  <title>Maker of Dune</title>
+  <title_without_series>Maker of Dune</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370630957l/53751._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370630957l/53751._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/53751.Maker_of_Dune</link>
+  <num_pages>279</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Berkley Trade</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1987</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>93</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>58</id>
+<name>Frank Herbert</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1168661521p5/58.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1168661521p2/58.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>1169869</ratings_count>
+<text_reviews_count>30312</text_reviews_count>
+</author>
+</authors>
+  <published>1987</published>
+<work>  <id>52420</id>
+  <uri>kca://work/amzn1.gr.work.v1.msmZ5NnoEaX15qtweeJ5Fw</uri>
+</work></book>
+
+    <book>
+  <id type="integer">20553190</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ckSJQpACtH4LXJsqZeRXHQ</uri>
+  <title>What is Web 2.0</title>
+  <title_without_series>What is Web 2.0</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20553190-what-is-web-2-0</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.61</average_rating>
+  <ratings_count>36</ratings_count>
+  <description>&lt;p&gt;The concept of "Web 2.0" began with a conference brainstorming session between O'Reilly and MediaLive International. Dale Dougherty, web pioneer and O'Reilly VP, noted that far from having "crashed", the web was more important than ever, with exciting new applications and sites popping up with surprising regularity. What's more, the companies that had survived the collapse seemed to have some things in common. Could it be that the dot-com collapse marked some kind of turning point for the web, such that a call to action such as "Web 2.0" might make sense? We agreed that it did, and so the Web 2.0 Conference was born.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;In the year and a half since, the term "Web 2.0" has clearly taken hold, with more than 9.5 million citations in Google. But there's still a huge amount of disagreement about just what Web 2.0 means, with some people decrying it as a meaningless marketing buzzword, and others accepting it as the new conventional wisdom.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This article is an attempt to clarify just what we mean by Web 2.0.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>22812755</id>
+  <uri>kca://work/amzn1.gr.work.v1.W_Xsp7FVjsF2V8YLr-IQ6Q</uri>
+</work></book>
+
+    <book>
+  <id type="integer">2581204</id>
+  <isbn>059651056X</isbn>
+  <isbn13>9780596510565</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vgk-urD0RoqTKlOpkF6SAw</uri>
+  <title>Craft, Volume 2: Transforming Traditional Crafts</title>
+  <title_without_series>Craft, Volume 2: Transforming Traditional Crafts</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834718l/2581204._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834718l/2581204._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2581204-craft-volume-2</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>10</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role>Creator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2596787</id>
+  <uri>kca://work/amzn1.gr.work.v1.hliw6W5w1FRTbDmbBWTmDA</uri>
+</work></book>
+
+    <book>
+  <id type="integer">2443857</id>
+  <isbn>156592486X</isbn>
+  <isbn13>9781565924864</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RWk7XYDxxaHt-Xa6VIbfSw</uri>
+  <title>Windows 98 in a Nutshell (In a Nutshell</title>
+  <title_without_series>Windows 98 in a Nutshell (In a Nutshell</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328752727l/2443857._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328752727l/2443857._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2443857.Windows_98_in_a_Nutshell_In_a_Nutshell</link>
+  <num_pages>634</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media, Inc.</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.09</average_rating>
+  <ratings_count>11</ratings_count>
+  <description>"Windows 98 in a Nutshell" is a comprehensive, compact reference that systematically unveils what serious users of Windows 98 will find interesting and useful. Little known details of the operating system, utility programs, and configuration settings are all captured in a consistent reference format.&lt;br /&gt;&lt;br /&gt;Based on the bestselling "In a Nutshell" approach, this book contains more information about using Windows 98 than any other book on the market. Guaranteed. "Windows 98 in a Nutshell" was coauthored by Tim O'Reilly, the publisher whose books have revolutionized computer book publishing with their commonsense approach, depth of detail, and focus on practical information that you can really use. If you can't remember which option on a dialog box controls a function, or if you just want to have a better handle on what's available in Windows 98 and Windows 98 Second Edition, this is the book you need.&lt;br /&gt;&lt;br /&gt;It contains: Detailed information on almost every command and utility available with Windows 98, including Start Menu accessories, DOS commands, hidden system administration utilities such as the Registry Editor, Policy Editor, and TweakUI, as well as new utilities in Windows 98Detailed advice and documentation on system configuration via the Control Panel, system startup files, and the RegistryA detailed treatment of Internet configuration and access via Dial-Up NetworkingHundreds of tips, gotchas, and clever ways to do familiar and not-so-familiar tasksA focus on ways to integrate the command line into your work with Windows 98Pointers to dozens of useful online sites that contain additional informationInformation on how to use Win98's new Web integration features to build custom "Web applications" within folders or on your desktopDetailed information on Windows Script Host (WSH), the feature that lets you use VBScript or other scripting languages to automate common tasks&lt;br /&gt;&lt;br /&gt;This book follows the commonsense O'Reilly approach, cutting through the hype and giving practical details you can use every day. Any user who wants to make the most of Windows 98 and Windows 98 Second Edition will love this book.</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>2451052</id>
+  <uri>kca://work/amzn1.gr.work.v1.sIX4RjskJzBeT2TBB7nIFw</uri>
+</work></book>
+
+    <book>
+  <id type="integer">19282395</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NLShBEi2z8ZTA6s_ir61EQ</uri>
+  <title>Web Squared: Web 2.0 Five Years On</title>
+  <title_without_series>Web Squared: Web 2.0 Five Years On</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19282395-web-squared</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>&lt;p&gt;Ever since we first introduced the term Web 2.0, people have been asking, What ™s next? Assuming that Web 2.0 was meant to be a kind of software version number (rather than a statement about the second coming of the Web after the dotcom bust), we ™re constantly asked about Web 3.0. Is it the semantic web? The sentient web? Is it the social web? The mobile web? Is it some form of virtual reality?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;It is all of those, and more.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;The Web is no longer a collection of static pages of HTML that describe something in the world. Increasingly, the Web is the world "everything and everyone in the world casts an information shadow, &lt;br /&gt;&lt;br /&gt;an aura of data which, when captured and processed intelligently, offers extraordinary opportunity and mindbending implications. Web Squared is our way of exploring this phenomenon and giving it a name.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>24219601</id>
+  <uri>kca://work/amzn1.gr.work.v1.ssUKJ2D4AuN2EjrX7fuS6w</uri>
+</work></book>
+
+    <book>
+  <id type="integer">12380970</id>
+  <isbn>9781449304</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UjKzUtIWZmYu50LbjY5cqQ</uri>
+  <title>Tim O'Reilly in a Nutshell</title>
+  <title_without_series>Tim O'Reilly in a Nutshell</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12380970-tim-o-reilly-in-a-nutshell</link>
+  <num_pages>128</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>O'Reilly Media, Inc.</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.44</average_rating>
+  <ratings_count>9</ratings_count>
+  <description>The essays in this collection offer valuable insight into one of today's technology leaders: the founder and CEO of O'Reilly Media. Tim O'Reilly in a Nutshell contains more than a dozen essays about paradigm shifts in technology, the future of online publishing, and the way he approaches business. Along the way, O'Reilly discusses open source projects, Unix, and technologies from Microsoft, Apple, and other companies.&lt;br /&gt;&lt;br /&gt;It's not easy to put Tim O'Reilly in a nutshell, but with the essays in this collection, you get valuable insight into the mind of the founder and CEO of O'Reilly Media. Tim O'Reilly in a Nutshell contains more than a dozen essays that discuss paradigm shifts in technology, the future of online publishing, and the way he approaches business. Along the way, he discusses open source projects, Unix, and technologies from Microsoft, Apple, and other companies.&lt;br /&gt;&lt;br /&gt;One thing that stands out in these essays is O'Reilly's ability to see technological trends long before they happen. Essays from a decade ago address today's networked world in detail, whether it's the Internet operating system, the Web's "architecture of participation," or the rapid rise of ebooks. It's a fascinating journey into the knowledge and passions of one of today's technology leaders.</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>17361629</id>
+  <uri>kca://work/amzn1.gr.work.v1.OWTzXEtUE_ULxSgWGMTzkg</uri>
+</work></book>
+
+    <book>
+  <id type="integer">39852396</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tFlFIFjMC5dDEWE17qmN_g</uri>
+  <title>De nieuwe economie</title>
+  <title_without_series>De nieuwe economie</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39852396-de-nieuwe-economie</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>7</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>61632551</id>
+  <uri>kca://work/amzn1.gr.work.v1.IhLGsByDjPHR7uXgRFZTvw</uri>
+</work></book>
+
+    <book>
+  <id type="integer">1551276</id>
+  <isbn>0937175935</isbn>
+  <isbn13>9780937175934</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._ku46pMFCV92X6H7rROJHw</uri>
+  <title>Managing UUCP and Usenet</title>
+  <title_without_series>Managing UUCP and Usenet</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1551276.Managing_UUCP_and_Usenet</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.38</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>For all its widespread use, UUCP is one of the most difficult UNIX utilities to master. Poor documentation, cryptic messages, and differences between various implementations make setting up UUCP links a nightmare for many a system administrator.&lt;br /&gt;&lt;br /&gt;This handbook is meant for system administrators who want to install and manage the UUCP and Usenet software. It covers HoneyDanBer UUCP as well as standard Version 2 UUCP, with special notes on Xenix. As one reader noted over the Net, "Don't even TRY to install UUCP without it!"&lt;br /&gt;&lt;br /&gt;Topics covered in &lt;i&gt;Managing UUCP&lt;/i&gt; include:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;How UUCP works. RS-232 cabling. Talking with modems. Setting up a UUCP link. Security considerations. UUCP administration. Introduction to Usenet. Installing Netnews. Administering Netnews. The tenth edition of this classic work has been revised and expanded to include descriptions of:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;How to use NNTP (Network News Transfer Protocol) to transfer Usenet news over TCP/IP and other high-speed networks. How to get DOS versions of UUCP. How to set up DOS-based laptop computers as traveling UUCP nodes. How the UUCP 'g' protocol works.</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>1990</published>
+<work>  <id>1543641</id>
+  <uri>kca://work/amzn1.gr.work.v1.CV6osgaFIdrIepZxZsYb3w</uri>
+</work></book>
+
+    <book>
+  <id type="integer">30976280</id>
+  <isbn nil="true"/>
+  <isbn13>9781491943021</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WoSsO-n80IaHT3CNYI554A</uri>
+  <title>What’s the Future of Work ?</title>
+  <title_without_series>What’s the Future of Work ?</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468056822l/30976280._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468056822l/30976280._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30976280-what-s-the-future-of-work</link>
+  <num_pages>44</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>O'Reilly</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>2.67</average_rating>
+  <ratings_count>9</ratings_count>
+  <description>What is the future when more and more work can be done by intelligent machines instead of people, or only done by people in partnership with those machines? What happens to workers, and what happens to the companies that depend on their purchasing power? What's the future of business when technology-enabled networks and marketplaces are better at deploying talent than traditional companies? What's the future of education when on-demand learning outperforms traditional universities in keeping skills up to date?&lt;br /&gt;In this free collection of recent blog posts, Tim O'Reilly begins a focused, high-level conversation about the deep ways in which computers and their ilk are transforming how we do business, how we work, and how we live. Just about everyone's asking WTF? ("What the F***?" but also, more charitably, "What's the future?")</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>51596199</id>
+  <uri>kca://work/amzn1.gr.work.v1.pdpTnCLNanebOFXkcXqfog</uri>
+</work></book>
+
+    <book>
+  <id type="integer">19522586</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EuS0Am08M3Xa2eTnNrwt2Q</uri>
+  <title>Economic Impact of Open Source on Small Business: A Case Study</title>
+  <title_without_series>Economic Impact of Open Source on Small Business: A Case Study</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19522586-economic-impact-of-open-source-on-small-business</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>6</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>27640117</id>
+  <uri>kca://work/amzn1.gr.work.v1.sKK_YtHc8c8yGFOxttLckA</uri>
+</work></book>
+
+    <book>
+  <id type="integer">6060251</id>
+  <isbn>1565920147</isbn>
+  <isbn13>9781565920149</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.GvSDSrN9mR_0OSKzd9_6vw</uri>
+  <title>Volume 3: X Window System User's Guide: Standard Edition</title>
+  <title_without_series>Volume 3: X Window System User's Guide: Standard Edition</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6060251-volume-3</link>
+  <num_pages>836</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.40</average_rating>
+  <ratings_count>5</ratings_count>
+  <description>The &lt;i&gt;X Window System User's Guide&lt;/i&gt; orients the new user to window system concepts and provides detailed tutorials for many client programs, including the &lt;i&gt;xterm&lt;/i&gt; terminal emulator and window managers. Building on this basic knowledge, later chapters explain how to customize the X environment and provide sample configurations.&lt;br /&gt;&lt;br /&gt;This popular manual is available in two editions, one for users of the MIT software, one for users of Motif. The &lt;i&gt;Standard Edition&lt;/i&gt; uses the &lt;i&gt;twm&lt;/i&gt; manager in most examples and illustrations. Revised and updated for X11 Release 5.&lt;br /&gt;&lt;br /&gt;Contents include: - Starting the system and opening windows. - Using the &lt;i&gt;xterm&lt;/i&gt; terminal emulator and window managers. - Most standard release clients, including programs for graphics, printing, font manipulation, window/display information, removing windows, as well as several "desktop" utilities. - Customizing the window manager, keyboard, display, and certain basic features of any client program. - Using and customizing the &lt;i&gt;mwm&lt;/i&gt; window manager, for those using the OSF/Motif graphical user interface. - System administration tasks, including managing fonts, starting X automatically, and using the display manager, &lt;i&gt;xdm&lt;/i&gt;, to run X on a single or multiple display.&lt;br /&gt;&lt;br /&gt;New material covered in this fourth edition includes: - Overview of the X Color Management System (Xcms) - Creating your own Xcms color database - Tutorials for two "color editors": &lt;i&gt;xcoloredit&lt;/i&gt; and &lt;i&gt;xtici&lt;/i&gt; - Using the X font server - Tutorial for &lt;i&gt;editres&lt;/i&gt;, a resource editor - Extensive coverage of the new implementations of bitmap and &lt;i&gt;xmag&lt;/i&gt; - Overview of internationalization features</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>6236412</id>
+  <uri>kca://work/amzn1.gr.work.v1.lnqwPJ_k2mJtX_4a-kYuog</uri>
+</work></book>
+
+    <book>
+  <id type="integer">28535232</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ZeHPDyZ-T_bVaEWq7eTANw</uri>
+  <title>Software Above the Level of a Single Device: The Implications</title>
+  <title_without_series>Software Above the Level of a Single Device: The Implications</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452714565l/28535232._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452714565l/28535232._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28535232-software-above-the-level-of-a-single-device</link>
+  <num_pages>13</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.25</average_rating>
+  <ratings_count>4</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>48694523</id>
+  <uri>kca://work/amzn1.gr.work.v1.O52yEw9pwM46Z2i5NzGWxg</uri>
+</work></book>
+
+    <book>
+  <id type="integer">1305154</id>
+  <isbn>1565920155</isbn>
+  <isbn13>9781565920156</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.P09350Ff_v5UIyit-mm2TA</uri>
+  <title>X Users Guide Motif R5: Motif Edition</title>
+  <title_without_series>X Users Guide Motif R5: Motif Edition</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1305154.X_Users_Guide_Motif_R5</link>
+  <num_pages>955</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.33</average_rating>
+  <ratings_count>3</ratings_count>
+  <description>The &lt;i&gt;X Window System User's Guide, Motif Edition,&lt;/i&gt; orients the new user to window system concepts and provides detailed tutorials for many client programs, including the &lt;i&gt;xterm&lt;/i&gt; terminal emulator and the window manager. Building on this basic knowledge, later chapters explain how to customize the X environment and provide sample configurations.&lt;br /&gt;&lt;br /&gt;This alternative edition of the &lt;i&gt;User's Guide&lt;/i&gt; highlights the Motif window manager for users of the Motif graphical user interface. Revised for Motif 1.2 and X11 Release 5.&lt;br /&gt;&lt;br /&gt;Topics include:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Starting the system and opening windows Using the &lt;i&gt;xterm&lt;/i&gt; terminal emulator and window managers Most standard release clients, including programs for graphics, printing, font manipulation, window/display information, removing windows, as well as several "desktop" utilities Customizing the window manager, keyboard, display, and certain basic features of any client program Using and customizing the &lt;i&gt;mwm&lt;/i&gt; window manager, for those using theOSF/Motif graphical interface System administration tasks, such as managing fonts, starting X automatically, and using the display manager, &lt;i&gt;xdm&lt;/i&gt;, to run X on single or multiple displays&lt;br /&gt;Material covered in this second edition includes:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Overview of the X Color Management System (Xcms) Creating your own Xcms color database Tutorials for two "color editors": &lt;i&gt;xcoloredit&lt;/i&gt; and &lt;i&gt;xtici&lt;/i&gt;&lt;br /&gt;Using the X font server Tutorial for &lt;i&gt;editres&lt;/i&gt;, a resource editor Extensive coverage of the new implementations of bitmap and &lt;i&gt;xmag&lt;/i&gt;&lt;br /&gt;Overview of internationalization features Features common to Motif 1.2 applications: tear-off menus and drag-and-drop</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>1294393</id>
+  <uri>kca://work/amzn1.gr.work.v1.JXo3yfDDrXrWAEVBZnSWew</uri>
+</work></book>
+
+    <book>
+  <id type="integer">3821714</id>
+  <isbn>0937175242</isbn>
+  <isbn13>9780937175248</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7C6EiUU7V7BPznQD3rm8Yg</uri>
+  <title>X Window System in a Nutshell</title>
+  <title_without_series>X Window System in a Nutshell</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3821714-x-window-system-in-a-nutshell</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orient Book Distribution</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1991</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>2.50</average_rating>
+  <ratings_count>2</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>1991</published>
+<work>  <id>3866024</id>
+  <uri>kca://work/amzn1.gr.work.v1.C245bc0xoXOubyvG8BXRMA</uri>
+</work></book>
+
+    <book>
+  <id type="integer">26325627</id>
+  <isbn>1331958849</isbn>
+  <isbn13>9781331958840</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.pHg95xlRB7ww57ZXISsrUw</uri>
+  <title>X Toolkit Intrinsics Reference Manual, Vol. 5: For Version 11 of the X Window System</title>
+  <title_without_series>X Toolkit Intrinsics Reference Manual, Vol. 5: For Version 11 of the X Window System</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442848623l/26325627._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442848623l/26325627._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26325627-x-toolkit-intrinsics-reference-manual-vol-5</link>
+  <num_pages>566</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Forgotten Books</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>2.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>Excerpt from X Toolkit Intrinsics Reference Manual, Vol. 5: For Version 11 of the X Window System&lt;br /&gt;&lt;br /&gt;Volumes Four and Five are designed to be used together. Volume 4 provides an explanation of the X Toolkit, including tutorial material and numerous programming examples. Arranged by task or topic, each chapter brings together a group of X Toolkit functions, describes the conceptual foundation they are based on, and illustrates how they are most often used in writ ing applications. This volume is structured so as to be useful as a tutorial and also as a task oriented reference.&lt;br /&gt;&lt;br /&gt;To get the most out of the examples in Volume Four, you will need the exact calling sequences of each function from Volume Five. To understand fully how to use each of the functions described in Volume Five, all but the most experienced Toolkit hacker will need the explanation and examples in Volume Four.&lt;br /&gt;&lt;br /&gt;About the Publisher&lt;br /&gt;&lt;br /&gt;Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at &lt;a target="_blank" href="http://www.forgottenbooks.com" rel="nofollow"&gt;www.forgottenbooks.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;This book is a reproduction of an important historical work. Forgotten Books uses state-of-the-art technology to digitally reconstruct the work, preserving the original format whilst repairing imperfections present in the aged copy. In rare cases, an imperfection in the original, such as a blemish or missing page, may be replicated in our edition. We do, however, repair the vast majority of imperfections successfully; any imperfections that remain are intentionally left to preserve the state of such historical works.</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>46324569</id>
+  <uri>kca://work/amzn1.gr.work.v1.Lg6ztS3IdwNK7vkNLPPPlw</uri>
+</work></book>
+
+    <book>
+  <id type="integer">28643374</id>
+  <isbn>1346247943</isbn>
+  <isbn13>9781346247946</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.lzC0TxgV1gda3nas_pXQPA</uri>
+  <title>X Toolkit Intrinsics Reference Manual: For Version 11 of the X Window System Volume 5</title>
+  <title_without_series>X Toolkit Intrinsics Reference Manual: For Version 11 of the X Window System Volume 5</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28643374-x-toolkit-intrinsics-reference-manual</link>
+  <num_pages>562</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arkose Press</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>2.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work.This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>48827406</id>
+  <uri>kca://work/amzn1.gr.work.v1.7SQb6uG5V-B05UpfxW5_Nw</uri>
+</work></book>
+
+    <book>
+  <id type="integer">13214782</id>
+  <isbn>0596519443</isbn>
+  <isbn13>9780596519445</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MHSeepHplOuvDcudaNE9lQ</uri>
+  <title>S3 and Ec2 Cookbook</title>
+  <title_without_series>S3 and Ec2 Cookbook</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13214782-s3-and-ec2-cookbook</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>2.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role>Creator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>18400282</id>
+  <uri>kca://work/amzn1.gr.work.v1.XM6gvFoZCIRZfLaCit0H9w</uri>
+</work></book>
+
+    <book>
+  <id type="integer">1305153</id>
+  <isbn>0937175366</isbn>
+  <isbn13>9780937175361</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.G94ZEWQaw0gw1-1kS6_r2w</uri>
+  <title>X Window Sys Users GD</title>
+  <title_without_series>X Window Sys Users GD</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1305153.X_Window_Sys_Users_GD</link>
+  <num_pages>567</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orient Book Distribution</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1989</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>2.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>1989</published>
+<work>  <id>1294392</id>
+  <uri>kca://work/amzn1.gr.work.v1.ojgy4YqBkGJHbnQhImQG6g</uri>
+</work></book>
+
+    <book>
+  <id type="integer">3236476</id>
+  <isbn>0937175579</isbn>
+  <isbn13>9780937175576</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oOJDiMfDVw8RUYnzLL6Rcg</uri>
+  <title>X Toolkit Intrinsics Reference Manual: R-4 Ed.</title>
+  <title_without_series>X Toolkit Intrinsics Reference Manual: R-4 Ed.</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3236476-x-toolkit-intrinsics-reference-manual</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Associates</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>2.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>1990</published>
+<work>  <id>3270996</id>
+  <uri>kca://work/amzn1.gr.work.v1.SWOHspDp6QvNswCuXoCzVQ</uri>
+</work></book>
+
+    <book>
+  <id type="integer">13214293</id>
+  <isbn>0596003331</isbn>
+  <isbn13>9780596003333</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WVG_AFZk8NKFHrPVY1nJqw</uri>
+  <title>The .Net CD Bookshelf</title>
+  <title_without_series>The .Net CD Bookshelf</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13214293-the-net-cd-bookshelf</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>1.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>Packed with seven key Microsoft .NET books, this CD-ROM delivers thousands ofpages of accessible and searchable information.</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>18399613</id>
+  <uri>kca://work/amzn1.gr.work.v1.A0F5jKJdvwcawhzn-RVfYw</uri>
+</work></book>
+
+    <book>
+  <id type="integer">18474265</id>
+  <isbn>0596157207</isbn>
+  <isbn13>9780596157203</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.J7T2dPbteNHNdVgrIl9Z8Q</uri>
+  <title>The Facebook Application Platform: An O'Reilly Radar Report</title>
+  <title_without_series>The Facebook Application Platform: An O'Reilly Radar Report</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379333731l/18474265._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379333731l/18474265._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18474265-the-facebook-application-platform</link>
+  <num_pages>31</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Radar</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>1.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>Facebook bet that opening its Application Platform would spur growthand build buzz, giving it an edge in the white-hot social networkpopularity contest. Four months and nearly 5000 applications later, it looks like that bet is paying off. Is Facebook the next platformfor profits, too?Find out what it takes to launch a successful Facebook application, understand the new rules of the application development game in a Web2.0 world, and get the scoop on the most popular Facebook apps inthis new report from Tim O'Reilly and the O'Reilly Radar team.The report: Sizes up the Facebook opportunity--who's making money, and how?Lays out best practices of marketing with Facebook Applications, aka Social Media Optimization (SMO)Identifies the top 200 Facebook applications and plots their growthratesGoes beyond Facebook, and scopes out the emerging widget economyThe social network economy is sizzling, and "The Facebook ApplicationPlatform" is a must-read for anyone who wants in on the Facebookopportunity.</description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>26141513</id>
+  <uri>kca://work/amzn1.gr.work.v1.KzsENVv-4gpLVcX_hR3o0Q</uri>
+</work></book>
+
+    <book>
+  <id type="integer">40684457</id>
+  <isbn>8441531390</isbn>
+  <isbn13>9788441531390</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VfoZ9XTxge6ImKccS45CVg</uri>
+  <title>Twitter / The Twitter Book</title>
+  <title_without_series>Twitter / The Twitter Book</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40684457-twitter-the-twitter-book</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p5/18541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199698411p2/18541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3373</ratings_count>
+<text_reviews_count>366</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>63268033</id>
+  <uri>kca://work/amzn1.gr.work.v1.5T2O8vziLFNMc0lS-sW4jA</uri>
+</work></book>
+
+  </books>
+</author>
+
+</GoodreadsResponse>

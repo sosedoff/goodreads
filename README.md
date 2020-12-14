@@ -112,6 +112,17 @@ author.name   # => author name
 author.link   # => link to author's Goodreads page
 ```
 
+Look up books by an author:
+
+```ruby
+author = client.author_Book("id")
+
+author.id     # => author id
+author.name   # => author name
+author.link   # => link to author's Goodreads page
+author.books  # => array of books by this author
+```
+
 ### Reviews
 
 Pull recent reviews:

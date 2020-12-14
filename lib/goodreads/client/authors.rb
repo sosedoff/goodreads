@@ -8,6 +8,14 @@ module Goodreads
       Hashie::Mash.new(data["author"])
     end
 
+    # Get an author's books
+    #
+    def author_books(id, params = {})
+      params[:id] = id
+      data = request("/author/list", params)
+      Hashie::Mash.new(data["author"])
+    end
+
     # Search for an author by name
     #
     def author_by_name(name, params = {})
