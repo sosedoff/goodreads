@@ -2,6 +2,8 @@
 
 Ruby wrapper to communicate with Goodreads API.
 
+**NOTE: The Goodreads API [is being discontinued](https://www.goodreads.com/api).**
+
 ## Requirements
 
 - Ruby 1.9.3+
