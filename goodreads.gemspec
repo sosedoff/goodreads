@@ -11,8 +11,8 @@ Gem::Specification.new do |spec|
   spec.license     = "MIT"
 
   spec.add_development_dependency "webmock",   "~> 2.0"
-  spec.add_development_dependency "rake",      "~> 10"
-  spec.add_development_dependency "rspec",     "~> 2.12"
+  spec.add_development_dependency "rake",      ">= 12.3.3"
+  spec.add_development_dependency "rspec",     "~> 3"
   spec.add_development_dependency "simplecov", "~> 0.7"
   spec.add_development_dependency "yard",      "~> 0.9"
 
